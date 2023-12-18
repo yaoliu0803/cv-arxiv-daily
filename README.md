@@ -17,6 +17,7 @@
     <li><a href=#nerf>NeRF</a></li>
     <li><a href=#image-fusion>Image Fusion</a></li>
     <li><a href=#image-registration>Image Registration</a></li>
+    <li><a href=#image-registration-and-fusion>Image Registration and Fusion</a></li>
   </ol>
 </details>
 
@@ -2331,6 +2332,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-12-14**|**High-Resolution Maps of Left Atrial Displacements and Strains Estimated with 3D CINE MRI and Unsupervised Neural Networks**|Christoforos Galazis et.al.|[2312.09387](http://arxiv.org/abs/2312.09387)|**[link](https://github.com/cgalaz01/aladdin_cmr_la)**|
 |**2023-12-12**|**PatchMorph: A Stochastic Deep Learning Approach for Unsupervised 3D Brain Image Registration with Small Patches**|Henrik Skibbe et.al.|[2312.06958](http://arxiv.org/abs/2312.06958)|null|
 |**2023-12-11**|**Intraoperative 2D/3D Image Registration via Differentiable X-ray Rendering**|Vivek Gopalakrishnan et.al.|[2312.06358](http://arxiv.org/abs/2312.06358)|**[link](https://github.com/eigenvivek/diffpose)**|
 |**2023-12-11**|**DG-TTA: Out-of-domain medical image segmentation through Domain Generalization and Test-Time Adaptation**|Christian Weihsbach et.al.|[2312.06275](http://arxiv.org/abs/2312.06275)|**[link](https://github.com/multimodallearning/dg-tta)**|
@@ -2341,6 +2343,23 @@
 |**2023-12-11**|**Adaptive Image Registration: A Hybrid Approach Integrating Deep Learning and Optimization Functions for Enhanced Precision**|Gabriel De Araujo et.al.|[2311.15497](http://arxiv.org/abs/2311.15497)|null|
 |**2023-11-25**|**SAME++: A Self-supervised Anatomical eMbeddings Enhanced medical image registration framework using stable sampling and regularized transformation**|Lin Tian et.al.|[2311.14986](http://arxiv.org/abs/2311.14986)|**[link](https://github.com/alibaba-damo-academy/same)**|
 |**2023-11-24**|**Deformable multi-modal image registration for the correlation between optical measurements and histology images**|Lianne Feenstra et.al.|[2311.14414](http://arxiv.org/abs/2311.14414)|null|
+
+<p align=right>(<a href=#updated-on-20231218>back to top</a>)</p>
+
+## Image Registration and Fusion
+
+|Publish Date|Title|Authors|PDF|Code|
+|---|---|---|---|---|
+|**2023-12-13**|**ReFusion: Learning Image Fusion from Reconstruction with Learnable Loss via Meta-Learning**|Haowen Bai et.al.|[2312.07943](http://arxiv.org/abs/2312.07943)|null|
+|**2023-12-07**|**A Multi-scale Information Integration Framework for Infrared and Visible Image Fusion**|Guang Yang et.al.|[2312.04328](http://arxiv.org/abs/2312.04328)|**[link](https://github.com/ssyangguang/mda)**|
+|**2023-12-01**|**Partition-based K-space Synthesis for Multi-contrast Parallel Imaging**|Yuxia Huang et.al.|[2312.00387](http://arxiv.org/abs/2312.00387)|null|
+|**2023-11-29**|**Towards Real-World Focus Stacking with Deep Learning**|Alexandre Araujo et.al.|[2311.17846](http://arxiv.org/abs/2311.17846)|**[link](https://github.com/araujoalexandre/focusstackingdataset)**|
+|**2023-11-26**|**Query-LIFE: Query-aware Language Image Fusion Embedding for E-Commerce Relevance**|Hai Zhu et.al.|[2311.14742](http://arxiv.org/abs/2311.14742)|null|
+|**2023-11-20**|**Does complimentary information from multispectral imaging improve face presentation attack detection?**|Narayan Vetrekar et.al.|[2311.11566](http://arxiv.org/abs/2311.11566)|null|
+|**2023-11-07**|**Enhanced Information Extraction from Cylindrical Visual-Tactile Sensors via Image Fusion**|Zilan Li et.al.|[2311.04002](http://arxiv.org/abs/2311.04002)|null|
+|**2023-11-03**|**Bridging the Gap between Multi-focus and Multi-modal: A Focused Integration Framework for Multi-modal Image Fusion**|Xilai Li et.al.|[2311.01886](http://arxiv.org/abs/2311.01886)|**[link](https://github.com/ixilai/mfif-mmif)**|
+|**2023-11-01**|**Graph Representation Learning for Infrared and Visible Image Fusion**|Jing Li et.al.|[2311.00291](http://arxiv.org/abs/2311.00291)|null|
+|**2023-10-24**|**ShadowSense: Unsupervised Domain Adaptation and Feature Fusion for Shadow-Agnostic Tree Crown Detection from RGB-Thermal Drone Imagery**|Rudraksh Kapil et.al.|[2310.16212](http://arxiv.org/abs/2310.16212)|**[link](https://github.com/rudrakshkapil/shadowsense)**|
 
 <p align=right>(<a href=#updated-on-20231218>back to top</a>)</p>
 
