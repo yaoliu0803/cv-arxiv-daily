@@ -30,6 +30,6 @@ keywords:
         filters: ["Image Matching", "Keypoint Matching", 
                   "Line Segment Detection", "Local Feature Matching"]
     "Image Registration":
-        filters: ["Image Registration", "Multimodal biomedical image"]
+        filters: ["Image Registration", "Multimodal biomedical image","Deformable multi-modal image registration","Deformable image"]
     "Image Registration and Fusion":
         filters: ["Without Strict Registration", "Image Fusion", "End-to-end"]
