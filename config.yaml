@@ -23,7 +23,7 @@ md_wechat_path: './docs/wechat.md'
 # keywords to search
 keywords:
     "Image Fusion": 
-        filters: ["Image Fusion", "Image Registration and Image Fusion", "Multi-modal Image", "Cross-modal Image", "Multimodal biomedical image"]
+        filters: ["Image Fusion", "Image Registration and Image Fusion", "Multimodal Image Fusion", "Cross-modal Image", "Multimodal biomedical image"]
     "Keypoint Detection":
         filters: ["Keypoint Detection", "Feature Descriptor"]
     "Image Matching":
@@ -31,3 +31,5 @@ keywords:
                   "Line Segment Detection", "Local Feature Matching"]
     "Image Registration":
         filters: ["Image Registration", "Multimodal biomedical image"]
+    "Image Registration and Fusion":
+        filters: ["Without Strict Registration", "Image Fusion", "End-to-end"]
