@@ -2315,6 +2315,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-12-17**|**Land use/land cover classification of fused Sentinel-1 and Sentinel-2 imageries using ensembles of Random Forests**|Shivam Pande et.al.|[2312.10798](http://arxiv.org/abs/2312.10798)|null|
+|**2023-12-17**|**A Dual Domain Multi-exposure Image Fusion Network based on the Spatial-Frequency Integration**|Guang Yang et.al.|[2312.10604](http://arxiv.org/abs/2312.10604)|null|
 |**2023-12-13**|**ReFusion: Learning Image Fusion from Reconstruction with Learnable Loss via Meta-Learning**|Haowen Bai et.al.|[2312.07943](http://arxiv.org/abs/2312.07943)|null|
 |**2023-12-07**|**A Multi-scale Information Integration Framework for Infrared and Visible Image Fusion**|Guang Yang et.al.|[2312.04328](http://arxiv.org/abs/2312.04328)|**[link](https://github.com/ssyangguang/mda)**|
 |**2023-12-01**|**Partition-based K-space Synthesis for Multi-contrast Parallel Imaging**|Yuxia Huang et.al.|[2312.00387](http://arxiv.org/abs/2312.00387)|null|
@@ -2350,6 +2352,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-12-17**|**Land use/land cover classification of fused Sentinel-1 and Sentinel-2 imageries using ensembles of Random Forests**|Shivam Pande et.al.|[2312.10798](http://arxiv.org/abs/2312.10798)|null|
+|**2023-12-17**|**A Dual Domain Multi-exposure Image Fusion Network based on the Spatial-Frequency Integration**|Guang Yang et.al.|[2312.10604](http://arxiv.org/abs/2312.10604)|null|
 |**2023-12-13**|**ReFusion: Learning Image Fusion from Reconstruction with Learnable Loss via Meta-Learning**|Haowen Bai et.al.|[2312.07943](http://arxiv.org/abs/2312.07943)|null|
 |**2023-12-07**|**A Multi-scale Information Integration Framework for Infrared and Visible Image Fusion**|Guang Yang et.al.|[2312.04328](http://arxiv.org/abs/2312.04328)|**[link](https://github.com/ssyangguang/mda)**|
 |**2023-12-01**|**Partition-based K-space Synthesis for Multi-contrast Parallel Imaging**|Yuxia Huang et.al.|[2312.00387](http://arxiv.org/abs/2312.00387)|null|
