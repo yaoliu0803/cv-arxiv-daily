@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.12.20
+## Updated on 2023.12.21
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -1210,6 +1210,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-12-19**|**An effective image copy-move forgery detection using entropy image**|Zhaowei Lu et.al.|[2312.11793](http://arxiv.org/abs/2312.11793)|null|
 |**2023-12-11**|**VoxelKP: A Voxel-based Network Architecture for Human Keypoint Estimation in LiDAR Data**|Jian Shi et.al.|[2312.08871](http://arxiv.org/abs/2312.08871)|**[link](https://github.com/shijianjian/voxelkp)**|
 |**2023-12-11**|**Keypoint-based Stereophotoclinometry for Characterizing and Navigating Small Bodies: A Factor Graph Approach**|Travis Driver et.al.|[2312.06865](http://arxiv.org/abs/2312.06865)|null|
 |**2023-12-01**|**Tracking Object Positions in Reinforcement Learning: A Metric for Keypoint Detection (extended version)**|Emma Cramer et.al.|[2312.00592](http://arxiv.org/abs/2312.00592)|null|
@@ -1408,6 +1409,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-12-18**|**MatchDet: A Collaborative Framework for Image Matching and Object Detection**|Jinxiang Lai et.al.|[2312.10983](http://arxiv.org/abs/2312.10983)|null|
 |**2023-12-07**|**Visual Geometry Grounded Deep Structure From Motion**|Jianyuan Wang et.al.|[2312.04563](http://arxiv.org/abs/2312.04563)|null|
 |**2023-12-04**|**Steerers: A framework for rotation equivariant keypoint descriptors**|Georg Bökman et.al.|[2312.02152](http://arxiv.org/abs/2312.02152)|**[link](https://github.com/georg-bn/rotation-steerers)**|
 |**2023-11-30**|**DSeg: Direct Line Segments Detection**|Berger Cyrille et.al.|[2311.18344](http://arxiv.org/abs/2311.18344)|null|
@@ -2292,7 +2294,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2023-12-17**|**Land use/land cover classification of fused Sentinel-1 and Sentinel-2 imageries using ensembles of Random Forests**|Shivam Pande et.al.|[2312.10798](http://arxiv.org/abs/2312.10798)|null|
+|**2023-12-18**|**View Transition based Dual Camera Image Fusion**|Tiantian Cao et.al.|[2312.11184](http://arxiv.org/abs/2312.11184)|null|
+|**2023-12-19**|**Land use/land cover classification of fused Sentinel-1 and Sentinel-2 imageries using ensembles of Random Forests**|Shivam Pande et.al.|[2312.10798](http://arxiv.org/abs/2312.10798)|null|
 |**2023-12-17**|**A Dual Domain Multi-exposure Image Fusion Network based on the Spatial-Frequency Integration**|Guang Yang et.al.|[2312.10604](http://arxiv.org/abs/2312.10604)|null|
 |**2023-12-13**|**ReFusion: Learning Image Fusion from Reconstruction with Learnable Loss via Meta-Learning**|Haowen Bai et.al.|[2312.07943](http://arxiv.org/abs/2312.07943)|null|
 |**2023-12-07**|**A Multi-scale Information Integration Framework for Infrared and Visible Image Fusion**|Guang Yang et.al.|[2312.04328](http://arxiv.org/abs/2312.04328)|**[link](https://github.com/ssyangguang/mda)**|
@@ -2325,7 +2328,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2023-12-17**|**Land use/land cover classification of fused Sentinel-1 and Sentinel-2 imageries using ensembles of Random Forests**|Shivam Pande et.al.|[2312.10798](http://arxiv.org/abs/2312.10798)|null|
+|**2023-12-18**|**View Transition based Dual Camera Image Fusion**|Tiantian Cao et.al.|[2312.11184](http://arxiv.org/abs/2312.11184)|null|
+|**2023-12-19**|**Land use/land cover classification of fused Sentinel-1 and Sentinel-2 imageries using ensembles of Random Forests**|Shivam Pande et.al.|[2312.10798](http://arxiv.org/abs/2312.10798)|null|
 |**2023-12-17**|**A Dual Domain Multi-exposure Image Fusion Network based on the Spatial-Frequency Integration**|Guang Yang et.al.|[2312.10604](http://arxiv.org/abs/2312.10604)|null|
 |**2023-12-13**|**ReFusion: Learning Image Fusion from Reconstruction with Learnable Loss via Meta-Learning**|Haowen Bai et.al.|[2312.07943](http://arxiv.org/abs/2312.07943)|null|
 |**2023-12-07**|**A Multi-scale Information Integration Framework for Infrared and Visible Image Fusion**|Guang Yang et.al.|[2312.04328](http://arxiv.org/abs/2312.04328)|**[link](https://github.com/ssyangguang/mda)**|
