@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.12.25
+## Updated on 2023.12.26
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -1210,6 +1210,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-12-22**|**BonnBeetClouds3D: A Dataset Towards Point Cloud-based Organ-level Phenotyping of Sugar Beet Plants under Field Conditions**|Elias Marks et.al.|[2312.14706](http://arxiv.org/abs/2312.14706)|null|
 |**2023-12-19**|**Adaptive Distribution Masked Autoencoders for Continual Test-Time Adaptation**|Jiaming Liu et.al.|[2312.12480](http://arxiv.org/abs/2312.12480)|null|
 |**2023-12-19**|**An effective image copy-move forgery detection using entropy image**|Zhaowei Lu et.al.|[2312.11793](http://arxiv.org/abs/2312.11793)|null|
 |**2023-12-11**|**VoxelKP: A Voxel-based Network Architecture for Human Keypoint Estimation in LiDAR Data**|Jian Shi et.al.|[2312.08871](http://arxiv.org/abs/2312.08871)|**[link](https://github.com/shijianjian/voxelkp)**|
@@ -1410,6 +1411,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-12-22**|**Harnessing Diffusion Models for Visual Perception with Meta Prompts**|Qiang Wan et.al.|[2312.14733](http://arxiv.org/abs/2312.14733)|**[link](https://github.com/fudan-zvg/meta-prompts)**|
 |**2023-12-18**|**MatchDet: A Collaborative Framework for Image Matching and Object Detection**|Jinxiang Lai et.al.|[2312.10983](http://arxiv.org/abs/2312.10983)|null|
 |**2023-12-07**|**Visual Geometry Grounded Deep Structure From Motion**|Jianyuan Wang et.al.|[2312.04563](http://arxiv.org/abs/2312.04563)|null|
 |**2023-12-04**|**Steerers: A framework for rotation equivariant keypoint descriptors**|Georg Bökman et.al.|[2312.02152](http://arxiv.org/abs/2312.02152)|**[link](https://github.com/georg-bn/rotation-steerers)**|
@@ -2295,9 +2297,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-12-21**|**Neural Spline Fields for Burst Image Fusion and Layer Separation**|Ilya Chugunov et.al.|[2312.14235](http://arxiv.org/abs/2312.14235)|null|
+|**2023-12-21**|**TextFusion: Unveiling the Power of Textual Semantics for Controllable Image Fusion**|Chunyang Cheng et.al.|[2312.14209](http://arxiv.org/abs/2312.14209)|null|
 |**2023-12-18**|**View Transition based Dual Camera Image Fusion**|Tiantian Cao et.al.|[2312.11184](http://arxiv.org/abs/2312.11184)|null|
 |**2023-12-19**|**Land use/land cover classification of fused Sentinel-1 and Sentinel-2 imageries using ensembles of Random Forests**|Shivam Pande et.al.|[2312.10798](http://arxiv.org/abs/2312.10798)|null|
-|**2023-12-17**|**A Dual Domain Multi-exposure Image Fusion Network based on the Spatial-Frequency Integration**|Guang Yang et.al.|[2312.10604](http://arxiv.org/abs/2312.10604)|null|
+|**2023-12-17**|**A Dual Domain Multi-exposure Image Fusion Network based on the Spatial-Frequency Integration**|Guang Yang et.al.|[2312.10604](http://arxiv.org/abs/2312.10604)|**[link](https://github.com/ssyangguang/mef-freq)**|
 |**2023-12-13**|**ReFusion: Learning Image Fusion from Reconstruction with Learnable Loss via Meta-Learning**|Haowen Bai et.al.|[2312.07943](http://arxiv.org/abs/2312.07943)|null|
 |**2023-12-07**|**A Multi-scale Information Integration Framework for Infrared and Visible Image Fusion**|Guang Yang et.al.|[2312.04328](http://arxiv.org/abs/2312.04328)|**[link](https://github.com/ssyangguang/mda)**|
 |**2023-12-01**|**Partition-based K-space Synthesis for Multi-contrast Parallel Imaging**|Yuxia Huang et.al.|[2312.00387](http://arxiv.org/abs/2312.00387)|null|
@@ -2317,7 +2321,7 @@ layout: default
 |**2023-12-14**|**High-Resolution Maps of Left Atrial Displacements and Strains Estimated with 3D CINE MRI and Unsupervised Neural Networks**|Christoforos Galazis et.al.|[2312.09387](http://arxiv.org/abs/2312.09387)|**[link](https://github.com/cgalaz01/aladdin_cmr_la)**|
 |**2023-12-12**|**PatchMorph: A Stochastic Deep Learning Approach for Unsupervised 3D Brain Image Registration with Small Patches**|Henrik Skibbe et.al.|[2312.06958](http://arxiv.org/abs/2312.06958)|null|
 |**2023-12-11**|**Intraoperative 2D/3D Image Registration via Differentiable X-ray Rendering**|Vivek Gopalakrishnan et.al.|[2312.06358](http://arxiv.org/abs/2312.06358)|**[link](https://github.com/eigenvivek/diffpose)**|
-|**2023-12-11**|**DG-TTA: Out-of-domain medical image segmentation through Domain Generalization and Test-Time Adaptation**|Christian Weihsbach et.al.|[2312.06275](http://arxiv.org/abs/2312.06275)|**[link](https://github.com/multimodallearning/dg-tta)**|
+|**2023-12-22**|**DG-TTA: Out-of-domain medical image segmentation through Domain Generalization and Test-Time Adaptation**|Christian Weihsbach et.al.|[2312.06275](http://arxiv.org/abs/2312.06275)|**[link](https://github.com/multimodallearning/dg-tta)**|
 |**2023-12-11**|**A dynamic interactive learning framework for automated 3D medical image segmentation**|Mu Tian et.al.|[2312.06072](http://arxiv.org/abs/2312.06072)|null|
 |**2023-12-01**|**An Adaptive Correspondence Scoring Framework for Unsupervised Image Registration of Medical Images**|Xiaoran Zhang et.al.|[2312.00837](http://arxiv.org/abs/2312.00837)|null|
 |**2023-12-01**|**Heteroscedastic Uncertainty Estimation for Probabilistic Unsupervised Registration of Noisy Medical Images**|Xiaoran Zhang et.al.|[2312.00836](http://arxiv.org/abs/2312.00836)|null|
@@ -2330,9 +2334,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-12-21**|**Neural Spline Fields for Burst Image Fusion and Layer Separation**|Ilya Chugunov et.al.|[2312.14235](http://arxiv.org/abs/2312.14235)|null|
+|**2023-12-21**|**TextFusion: Unveiling the Power of Textual Semantics for Controllable Image Fusion**|Chunyang Cheng et.al.|[2312.14209](http://arxiv.org/abs/2312.14209)|null|
 |**2023-12-18**|**View Transition based Dual Camera Image Fusion**|Tiantian Cao et.al.|[2312.11184](http://arxiv.org/abs/2312.11184)|null|
 |**2023-12-19**|**Land use/land cover classification of fused Sentinel-1 and Sentinel-2 imageries using ensembles of Random Forests**|Shivam Pande et.al.|[2312.10798](http://arxiv.org/abs/2312.10798)|null|
-|**2023-12-17**|**A Dual Domain Multi-exposure Image Fusion Network based on the Spatial-Frequency Integration**|Guang Yang et.al.|[2312.10604](http://arxiv.org/abs/2312.10604)|null|
+|**2023-12-17**|**A Dual Domain Multi-exposure Image Fusion Network based on the Spatial-Frequency Integration**|Guang Yang et.al.|[2312.10604](http://arxiv.org/abs/2312.10604)|**[link](https://github.com/ssyangguang/mef-freq)**|
 |**2023-12-13**|**ReFusion: Learning Image Fusion from Reconstruction with Learnable Loss via Meta-Learning**|Haowen Bai et.al.|[2312.07943](http://arxiv.org/abs/2312.07943)|null|
 |**2023-12-07**|**A Multi-scale Information Integration Framework for Infrared and Visible Image Fusion**|Guang Yang et.al.|[2312.04328](http://arxiv.org/abs/2312.04328)|**[link](https://github.com/ssyangguang/mda)**|
 |**2023-12-01**|**Partition-based K-space Synthesis for Multi-contrast Parallel Imaging**|Yuxia Huang et.al.|[2312.00387](http://arxiv.org/abs/2312.00387)|null|
