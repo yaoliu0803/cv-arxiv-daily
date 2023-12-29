@@ -1227,6 +1227,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-12-27**|**Bezier-based Regression Feature Descriptor for Deformable Linear Objects**|Fangqing Chen et.al.|[2312.16502](http://arxiv.org/abs/2312.16502)|null|
 |**2023-12-24**|**Residual Learning for Image Point Descriptors**|Rashik Shrestha et.al.|[2312.15471](http://arxiv.org/abs/2312.15471)|null|
 |**2023-12-22**|**BonnBeetClouds3D: A Dataset Towards Point Cloud-based Organ-level Phenotyping of Sugar Beet Plants under Field Conditions**|Elias Marks et.al.|[2312.14706](http://arxiv.org/abs/2312.14706)|null|
 |**2023-12-19**|**Adaptive Distribution Masked Autoencoders for Continual Test-Time Adaptation**|Jiaming Liu et.al.|[2312.12480](http://arxiv.org/abs/2312.12480)|null|
@@ -2322,6 +2323,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-12-28**|**EvPlug: Learn a Plug-and-Play Module for Event and Image Fusion**|Jianping Jiang et.al.|[2312.16933](http://arxiv.org/abs/2312.16933)|null|
 |**2023-12-21**|**Neural Spline Fields for Burst Image Fusion and Layer Separation**|Ilya Chugunov et.al.|[2312.14235](http://arxiv.org/abs/2312.14235)|null|
 |**2023-12-21**|**TextFusion: Unveiling the Power of Textual Semantics for Controllable Image Fusion**|Chunyang Cheng et.al.|[2312.14209](http://arxiv.org/abs/2312.14209)|null|
 |**2023-12-18**|**View Transition based Dual Camera Image Fusion**|Tiantian Cao et.al.|[2312.11184](http://arxiv.org/abs/2312.11184)|null|
@@ -2365,6 +2367,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-12-28**|**EvPlug: Learn a Plug-and-Play Module for Event and Image Fusion**|Jianping Jiang et.al.|[2312.16933](http://arxiv.org/abs/2312.16933)|null|
 |**2023-12-21**|**Neural Spline Fields for Burst Image Fusion and Layer Separation**|Ilya Chugunov et.al.|[2312.14235](http://arxiv.org/abs/2312.14235)|null|
 |**2023-12-21**|**TextFusion: Unveiling the Power of Textual Semantics for Controllable Image Fusion**|Chunyang Cheng et.al.|[2312.14209](http://arxiv.org/abs/2312.14209)|null|
 |**2023-12-18**|**View Transition based Dual Camera Image Fusion**|Tiantian Cao et.al.|[2312.11184](http://arxiv.org/abs/2312.11184)|null|
