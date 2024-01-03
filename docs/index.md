@@ -1210,6 +1210,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-01-02**|**6D-Diff: A Keypoint Diffusion Framework for 6D Object Pose Estimation**|Li Xu et.al.|[2401.00029](http://arxiv.org/abs/2401.00029)|null|
 |**2023-12-27**|**Bezier-based Regression Feature Descriptor for Deformable Linear Objects**|Fangqing Chen et.al.|[2312.16502](http://arxiv.org/abs/2312.16502)|null|
 |**2023-12-24**|**Residual Learning for Image Point Descriptors**|Rashik Shrestha et.al.|[2312.15471](http://arxiv.org/abs/2312.15471)|null|
 |**2023-12-22**|**BonnBeetClouds3D: A Dataset Towards Point Cloud-based Organ-level Phenotyping of Sugar Beet Plants under Field Conditions**|Elias Marks et.al.|[2312.14706](http://arxiv.org/abs/2312.14706)|null|
@@ -2300,6 +2301,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-12-31**|**From Text to Pixels: A Context-Aware Semantic Synergy Solution for Infrared and Visible Image Fusion**|Xingyuan Li et.al.|[2401.00421](http://arxiv.org/abs/2401.00421)|null|
+|**2023-12-30**|**BusReF: Infrared-Visible images registration and fusion focus on reconstructible area using one set of features**|Zeyang Zhang et.al.|[2401.00285](http://arxiv.org/abs/2401.00285)|null|
 |**2023-12-28**|**EvPlug: Learn a Plug-and-Play Module for Event and Image Fusion**|Jianping Jiang et.al.|[2312.16933](http://arxiv.org/abs/2312.16933)|null|
 |**2023-12-21**|**Neural Spline Fields for Burst Image Fusion and Layer Separation**|Ilya Chugunov et.al.|[2312.14235](http://arxiv.org/abs/2312.14235)|null|
 |**2023-12-21**|**TextFusion: Unveiling the Power of Textual Semantics for Controllable Image Fusion**|Chunyang Cheng et.al.|[2312.14209](http://arxiv.org/abs/2312.14209)|null|
@@ -2321,6 +2324,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-01-01**|**Optimizing ADMM and Over-Relaxed ADMM Parameters for Linear Quadratic Problems**|Jintao Song et.al.|[2401.00657](http://arxiv.org/abs/2401.00657)|null|
+|**2023-12-30**|**BusReF: Infrared-Visible images registration and fusion focus on reconstructible area using one set of features**|Zeyang Zhang et.al.|[2401.00285](http://arxiv.org/abs/2401.00285)|null|
 |**2023-12-22**|**Deformable 3D Gaussian Splatting for Animatable Human Avatars**|HyunJun Jung et.al.|[2312.15059](http://arxiv.org/abs/2312.15059)|null|
 |**2023-12-22**|**Deformable Image Registration with Stochastically Regularized Biomechanical Equilibrium**|Pablo Alvarez et.al.|[2312.14987](http://arxiv.org/abs/2312.14987)|null|
 |**2023-12-20**|**MGAug: Multimodal Geometric Augmentation in Latent Spaces of Image Deformations**|Tonmoy Hossain et.al.|[2312.13440](http://arxiv.org/abs/2312.13440)|null|
@@ -2340,6 +2345,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-12-31**|**From Text to Pixels: A Context-Aware Semantic Synergy Solution for Infrared and Visible Image Fusion**|Xingyuan Li et.al.|[2401.00421](http://arxiv.org/abs/2401.00421)|null|
+|**2023-12-30**|**BusReF: Infrared-Visible images registration and fusion focus on reconstructible area using one set of features**|Zeyang Zhang et.al.|[2401.00285](http://arxiv.org/abs/2401.00285)|null|
 |**2023-12-28**|**EvPlug: Learn a Plug-and-Play Module for Event and Image Fusion**|Jianping Jiang et.al.|[2312.16933](http://arxiv.org/abs/2312.16933)|null|
 |**2023-12-21**|**Neural Spline Fields for Burst Image Fusion and Layer Separation**|Ilya Chugunov et.al.|[2312.14235](http://arxiv.org/abs/2312.14235)|null|
 |**2023-12-21**|**TextFusion: Unveiling the Power of Textual Semantics for Controllable Image Fusion**|Chunyang Cheng et.al.|[2312.14209](http://arxiv.org/abs/2312.14209)|null|
