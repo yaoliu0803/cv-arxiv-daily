@@ -1227,6 +1227,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-01-17**|**To deform or not: treatment-aware longitudinal registration for breast DCE-MRI during neoadjuvant chemotherapy via unsupervised keypoints detection**|Luyi Han et.al.|[2401.09336](http://arxiv.org/abs/2401.09336)|**[link](https://github.com/fiy2w/treatment-aware-longitudinal-registration)**|
 |**2024-01-08**|**Flowmind2Digital: The First Comprehensive Flowmind Recognition and Conversion Approach**|Huanyu Liu et.al.|[2401.03742](http://arxiv.org/abs/2401.03742)|null|
 |**2024-01-02**|**6D-Diff: A Keypoint Diffusion Framework for 6D Object Pose Estimation**|Li Xu et.al.|[2401.00029](http://arxiv.org/abs/2401.00029)|null|
 |**2023-12-27**|**Bezier-based Regression Feature Descriptor for Deformable Linear Objects**|Fangqing Chen et.al.|[2312.16502](http://arxiv.org/abs/2312.16502)|null|
@@ -2329,6 +2330,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-01-16**|**Image Fusion in Remote Sensing: An Overview and Meta Analysis**|Hessah Albanwan et.al.|[2401.08837](http://arxiv.org/abs/2401.08837)|null|
 |**2024-01-16**|**SAMF: Small-Area-Aware Multi-focus Image Fusion for Object Detection**|Xilai Li et.al.|[2401.08357](http://arxiv.org/abs/2401.08357)|**[link](https://github.com/ixilai/samf)**|
 |**2024-01-15**|**Pedestrian Detection in Low-Light Conditions: A Comprehensive Survey**|Bahareh Ghari et.al.|[2401.07801](http://arxiv.org/abs/2401.07801)|null|
 |**2024-01-12**|**APLe: Token-Wise Adaptive for Multi-Modal Prompt Learning**|Guiming Cao et.al.|[2401.06827](http://arxiv.org/abs/2401.06827)|null|
@@ -2358,7 +2360,7 @@
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2024-01-16**|**Key-point Guided Deformable Image Manipulation Using Diffusion Model**|Seok-Hwan Oh et.al.|[2401.08178](http://arxiv.org/abs/2401.08178)|null|
-|**2024-01-13**|**IVIM-Morph: Motion-compensated quantitative Intra-voxel Incoherent Motion (IVIM) analysis for functional fetal lung maturity assessment from diffusion-weighted MRI data**|Noga Kertes et.al.|[2401.07126](http://arxiv.org/abs/2401.07126)|**[link](https://github.com/technioncomputationalmrilab/qdwi-morph)**|
+|**2024-01-17**|**IVIM-Morph: Motion-compensated quantitative Intra-voxel Incoherent Motion (IVIM) analysis for functional fetal lung maturity assessment from diffusion-weighted MRI data**|Noga Kertes et.al.|[2401.07126](http://arxiv.org/abs/2401.07126)|**[link](https://github.com/technioncomputationalmrilab/qdwi-morph)**|
 |**2024-01-11**|**ConKeD: Multiview contrastive descriptor learning for keypoint-based retinal image registration**|David Rivas-Villar et.al.|[2401.05901](http://arxiv.org/abs/2401.05901)|null|
 |**2024-01-04**|**Bayesian Intrinsic Groupwise Image Registration: Unsupervised Disentanglement of Anatomy and Geometry**|Xinzhe Luo et.al.|[2401.02141](http://arxiv.org/abs/2401.02141)|null|
 |**2024-01-01**|**Optimizing ADMM and Over-Relaxed ADMM Parameters for Linear Quadratic Problems**|Jintao Song et.al.|[2401.00657](http://arxiv.org/abs/2401.00657)|null|
@@ -2384,6 +2386,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-01-16**|**Image Fusion in Remote Sensing: An Overview and Meta Analysis**|Hessah Albanwan et.al.|[2401.08837](http://arxiv.org/abs/2401.08837)|null|
 |**2024-01-16**|**SAMF: Small-Area-Aware Multi-focus Image Fusion for Object Detection**|Xilai Li et.al.|[2401.08357](http://arxiv.org/abs/2401.08357)|**[link](https://github.com/ixilai/samf)**|
 |**2024-01-15**|**Pedestrian Detection in Low-Light Conditions: A Comprehensive Survey**|Bahareh Ghari et.al.|[2401.07801](http://arxiv.org/abs/2401.07801)|null|
 |**2024-01-12**|**APLe: Token-Wise Adaptive for Multi-Modal Prompt Learning**|Guiming Cao et.al.|[2401.06827](http://arxiv.org/abs/2401.06827)|null|
