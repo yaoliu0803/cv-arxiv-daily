@@ -2363,6 +2363,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-01-25**|**MambaMorph: a Mamba-based Backbone with Contrastive Feature Learning for Deformable MR-CT Registration**|Tao Guo et.al.|[2401.13934](http://arxiv.org/abs/2401.13934)|**[link](https://github.com/guo-stone/mambamorph)**|
 |**2024-01-20**|**RoTIR: Rotation-Equivariant Network and Transformers for Fish Scale Image Registration**|Ruixiong Wang et.al.|[2401.11270](http://arxiv.org/abs/2401.11270)|null|
 |**2024-01-18**|**Slicer Networks**|Hang Zhang et.al.|[2401.09833](http://arxiv.org/abs/2401.09833)|null|
 |**2024-01-18**|**BreastRegNet: A Deep Learning Framework for Registration of Breast Faxitron and Histopathology Images**|Negar Golestani et.al.|[2401.09791](http://arxiv.org/abs/2401.09791)|null|
