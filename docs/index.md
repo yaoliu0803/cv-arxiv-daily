@@ -1210,6 +1210,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-01-29**|**Reconstructing Close Human Interactions from Multiple Views**|Qing Shuai et.al.|[2401.16173](http://arxiv.org/abs/2401.16173)|null|
 |**2024-01-17**|**To deform or not: treatment-aware longitudinal registration for breast DCE-MRI during neoadjuvant chemotherapy via unsupervised keypoints detection**|Luyi Han et.al.|[2401.09336](http://arxiv.org/abs/2401.09336)|**[link](https://github.com/fiy2w/treatment-aware-longitudinal-registration)**|
 |**2024-01-08**|**Flowmind2Digital: The First Comprehensive Flowmind Recognition and Conversion Approach**|Huanyu Liu et.al.|[2401.03742](http://arxiv.org/abs/2401.03742)|null|
 |**2024-01-02**|**6D-Diff: A Keypoint Diffusion Framework for 6D Object Pose Estimation**|Li Xu et.al.|[2401.00029](http://arxiv.org/abs/2401.00029)|null|
@@ -2310,6 +2311,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-01-28**|**An objective comparison of methods for augmented reality in laparoscopic liver resection by preoperative-to-intraoperative image fusion**|Sharib Ali et.al.|[2401.15753](http://arxiv.org/abs/2401.15753)|null|
 |**2024-01-22**|**Rethinking Cross-Attention for Infrared and Visible Image Fusion**|Lihua Jian et.al.|[2401.11675](http://arxiv.org/abs/2401.11675)|null|
 |**2024-01-16**|**Image Fusion in Remote Sensing: An Overview and Meta Analysis**|Hessah Albanwan et.al.|[2401.08837](http://arxiv.org/abs/2401.08837)|null|
 |**2024-01-16**|**SAMF: Small-Area-Aware Multi-focus Image Fusion for Object Detection**|Xilai Li et.al.|[2401.08357](http://arxiv.org/abs/2401.08357)|**[link](https://github.com/ixilai/samf)**|
@@ -2367,6 +2369,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-01-28**|**An objective comparison of methods for augmented reality in laparoscopic liver resection by preoperative-to-intraoperative image fusion**|Sharib Ali et.al.|[2401.15753](http://arxiv.org/abs/2401.15753)|null|
 |**2024-01-22**|**Rethinking Cross-Attention for Infrared and Visible Image Fusion**|Lihua Jian et.al.|[2401.11675](http://arxiv.org/abs/2401.11675)|null|
 |**2024-01-16**|**Image Fusion in Remote Sensing: An Overview and Meta Analysis**|Hessah Albanwan et.al.|[2401.08837](http://arxiv.org/abs/2401.08837)|null|
 |**2024-01-16**|**SAMF: Small-Area-Aware Multi-focus Image Fusion for Object Detection**|Xilai Li et.al.|[2401.08357](http://arxiv.org/abs/2401.08357)|**[link](https://github.com/ixilai/samf)**|
