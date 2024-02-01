@@ -1417,6 +1417,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-01-31**|**Improved Scene Landmark Detection for Camera Localization**|Tien Do et.al.|[2401.18083](http://arxiv.org/abs/2401.18083)|**[link](https://github.com/microsoft/scenelandmarklocalization)**|
+|**2024-01-31**|**Local Feature Matching Using Deep Learning: A Survey**|Shibiao Xu et.al.|[2401.17592](http://arxiv.org/abs/2401.17592)|null|
 |**2024-01-24**|**Linear Relative Pose Estimation Founded on Pose-only Imaging Geometry**|Qi Cai et.al.|[2401.13357](http://arxiv.org/abs/2401.13357)|null|
 |**2024-01-19**|**SCENES: Subpixel Correspondence Estimation With Epipolar Supervision**|Dominik A. Kloepfer et.al.|[2401.10886](http://arxiv.org/abs/2401.10886)|null|
 |**2024-01-18**|**Question-Answer Cross Language Image Matching for Weakly Supervised Semantic Segmentation**|Songhe Deng et.al.|[2401.09883](http://arxiv.org/abs/2401.09883)|**[link](https://github.com/cvi-szu/qa-clims)**|
@@ -2314,7 +2316,7 @@ layout: default
 |**2024-01-28**|**An objective comparison of methods for augmented reality in laparoscopic liver resection by preoperative-to-intraoperative image fusion**|Sharib Ali et.al.|[2401.15753](http://arxiv.org/abs/2401.15753)|null|
 |**2024-01-22**|**Rethinking Cross-Attention for Infrared and Visible Image Fusion**|Lihua Jian et.al.|[2401.11675](http://arxiv.org/abs/2401.11675)|null|
 |**2024-01-16**|**Image Fusion in Remote Sensing: An Overview and Meta Analysis**|Hessah Albanwan et.al.|[2401.08837](http://arxiv.org/abs/2401.08837)|null|
-|**2024-01-16**|**SAMF: Small-Area-Aware Multi-focus Image Fusion for Object Detection**|Xilai Li et.al.|[2401.08357](http://arxiv.org/abs/2401.08357)|**[link](https://github.com/ixilai/samf)**|
+|**2024-01-31**|**SAMF: Small-Area-Aware Multi-focus Image Fusion for Object Detection**|Xilai Li et.al.|[2401.08357](http://arxiv.org/abs/2401.08357)|**[link](https://github.com/ixilai/samf)**|
 |**2024-01-15**|**Pedestrian Detection in Low-Light Conditions: A Comprehensive Survey**|Bahareh Ghari et.al.|[2401.07801](http://arxiv.org/abs/2401.07801)|null|
 |**2024-01-23**|**APLe: Token-Wise Adaptive for Multi-Modal Prompt Learning**|Guiming Cao et.al.|[2401.06827](http://arxiv.org/abs/2401.06827)|null|
 |**2023-12-31**|**From Text to Pixels: A Context-Aware Semantic Synergy Solution for Infrared and Visible Image Fusion**|Xingyuan Li et.al.|[2401.00421](http://arxiv.org/abs/2401.00421)|null|
@@ -2340,6 +2342,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-01-31**|**Local Feature Matching Using Deep Learning: A Survey**|Shibiao Xu et.al.|[2401.17592](http://arxiv.org/abs/2401.17592)|null|
+|**2024-01-30**|**CLAIRE: Scalable GPU-Accelerated Algorithms for Diffeomorphic Image Registration in 3D**|Andreas Mang et.al.|[2401.17493](http://arxiv.org/abs/2401.17493)|null|
 |**2024-01-30**|**Deep 3D World Models for Multi-Image Super-Resolution Beyond Optical Flow**|Luca Savant Aira et.al.|[2401.16972](http://arxiv.org/abs/2401.16972)|null|
 |**2024-01-30**|**A Tournament of Transformation Models: B-Spline-based vs. Mesh-based Multi-Objective Deformable Image Registration**|Georgios Andreadis et.al.|[2401.16867](http://arxiv.org/abs/2401.16867)|null|
 |**2024-01-25**|**MambaMorph: a Mamba-based Backbone with Contrastive Feature Learning for Deformable MR-CT Registration**|Tao Guo et.al.|[2401.13934](http://arxiv.org/abs/2401.13934)|**[link](https://github.com/guo-stone/mambamorph)**|
@@ -2374,7 +2378,7 @@ layout: default
 |**2024-01-28**|**An objective comparison of methods for augmented reality in laparoscopic liver resection by preoperative-to-intraoperative image fusion**|Sharib Ali et.al.|[2401.15753](http://arxiv.org/abs/2401.15753)|null|
 |**2024-01-22**|**Rethinking Cross-Attention for Infrared and Visible Image Fusion**|Lihua Jian et.al.|[2401.11675](http://arxiv.org/abs/2401.11675)|null|
 |**2024-01-16**|**Image Fusion in Remote Sensing: An Overview and Meta Analysis**|Hessah Albanwan et.al.|[2401.08837](http://arxiv.org/abs/2401.08837)|null|
-|**2024-01-16**|**SAMF: Small-Area-Aware Multi-focus Image Fusion for Object Detection**|Xilai Li et.al.|[2401.08357](http://arxiv.org/abs/2401.08357)|**[link](https://github.com/ixilai/samf)**|
+|**2024-01-31**|**SAMF: Small-Area-Aware Multi-focus Image Fusion for Object Detection**|Xilai Li et.al.|[2401.08357](http://arxiv.org/abs/2401.08357)|**[link](https://github.com/ixilai/samf)**|
 |**2024-01-15**|**Pedestrian Detection in Low-Light Conditions: A Comprehensive Survey**|Bahareh Ghari et.al.|[2401.07801](http://arxiv.org/abs/2401.07801)|null|
 |**2024-01-23**|**APLe: Token-Wise Adaptive for Multi-Modal Prompt Learning**|Guiming Cao et.al.|[2401.06827](http://arxiv.org/abs/2401.06827)|null|
 |**2023-12-31**|**From Text to Pixels: A Context-Aware Semantic Synergy Solution for Infrared and Visible Image Fusion**|Xingyuan Li et.al.|[2401.00421](http://arxiv.org/abs/2401.00421)|null|
