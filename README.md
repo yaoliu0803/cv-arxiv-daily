@@ -2336,6 +2336,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-02-02**|**TSJNet: A Multi-modality Target and Semantic Awareness Joint-driven Image Fusion Network**|Yuchan Jie et.al.|[2402.01212](http://arxiv.org/abs/2402.01212)|null|
+|**2024-02-01**|**FuseFormer: A Transformer for Visual and Thermal Image Fusion**|Aytekin Erdogan et.al.|[2402.00971](http://arxiv.org/abs/2402.00971)|null|
 |**2024-01-28**|**An objective comparison of methods for augmented reality in laparoscopic liver resection by preoperative-to-intraoperative image fusion**|Sharib Ali et.al.|[2401.15753](http://arxiv.org/abs/2401.15753)|null|
 |**2024-01-22**|**Rethinking Cross-Attention for Infrared and Visible Image Fusion**|Lihua Jian et.al.|[2401.11675](http://arxiv.org/abs/2401.11675)|null|
 |**2024-01-16**|**Image Fusion in Remote Sensing: An Overview and Meta Analysis**|Hessah Albanwan et.al.|[2401.08837](http://arxiv.org/abs/2401.08837)|null|
@@ -2402,6 +2404,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-02-02**|**TSJNet: A Multi-modality Target and Semantic Awareness Joint-driven Image Fusion Network**|Yuchan Jie et.al.|[2402.01212](http://arxiv.org/abs/2402.01212)|null|
+|**2024-02-01**|**FuseFormer: A Transformer for Visual and Thermal Image Fusion**|Aytekin Erdogan et.al.|[2402.00971](http://arxiv.org/abs/2402.00971)|null|
 |**2024-01-28**|**An objective comparison of methods for augmented reality in laparoscopic liver resection by preoperative-to-intraoperative image fusion**|Sharib Ali et.al.|[2401.15753](http://arxiv.org/abs/2401.15753)|null|
 |**2024-01-22**|**Rethinking Cross-Attention for Infrared and Visible Image Fusion**|Lihua Jian et.al.|[2401.11675](http://arxiv.org/abs/2401.11675)|null|
 |**2024-01-16**|**Image Fusion in Remote Sensing: An Overview and Meta Analysis**|Hessah Albanwan et.al.|[2401.08837](http://arxiv.org/abs/2401.08837)|null|
