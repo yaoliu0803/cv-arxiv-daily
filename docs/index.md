@@ -2313,6 +2313,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-02-04**|**Fully Differentiable Correlation-driven 2D/3D Registration for X-ray to CT Image Fusion**|Minheng Chen et.al.|[2402.02498](http://arxiv.org/abs/2402.02498)|null|
+|**2024-02-04**|**Physics-Inspired Degradation Models for Hyperspectral Image Fusion**|Jie Lian et.al.|[2402.02411](http://arxiv.org/abs/2402.02411)|null|
+|**2024-02-03**|**Image Fusion via Vision-Language Model**|Zixiang Zhao et.al.|[2402.02235](http://arxiv.org/abs/2402.02235)|null|
+|**2024-02-03**|**Decomposition-based and Interference Perception for Infrared and Visible Image Fusion in Complex Scenes**|Xilai Li et.al.|[2402.02096](http://arxiv.org/abs/2402.02096)|null|
+|**2024-02-03**|**Physical Perception Network and an All-weather Multi-modality Benchmark for Adverse Weather Image Fusion**|Xilai Li et.al.|[2402.02090](http://arxiv.org/abs/2402.02090)|null|
 |**2024-02-02**|**TSJNet: A Multi-modality Target and Semantic Awareness Joint-driven Image Fusion Network**|Yuchan Jie et.al.|[2402.01212](http://arxiv.org/abs/2402.01212)|null|
 |**2024-02-01**|**FuseFormer: A Transformer for Visual and Thermal Image Fusion**|Aytekin Erdogan et.al.|[2402.00971](http://arxiv.org/abs/2402.00971)|null|
 |**2024-01-28**|**An objective comparison of methods for augmented reality in laparoscopic liver resection by preoperative-to-intraoperative image fusion**|Sharib Ali et.al.|[2401.15753](http://arxiv.org/abs/2401.15753)|null|
@@ -2377,6 +2382,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-02-04**|**Fully Differentiable Correlation-driven 2D/3D Registration for X-ray to CT Image Fusion**|Minheng Chen et.al.|[2402.02498](http://arxiv.org/abs/2402.02498)|null|
+|**2024-02-04**|**Physics-Inspired Degradation Models for Hyperspectral Image Fusion**|Jie Lian et.al.|[2402.02411](http://arxiv.org/abs/2402.02411)|null|
+|**2024-02-03**|**Image Fusion via Vision-Language Model**|Zixiang Zhao et.al.|[2402.02235](http://arxiv.org/abs/2402.02235)|null|
+|**2024-02-03**|**Decomposition-based and Interference Perception for Infrared and Visible Image Fusion in Complex Scenes**|Xilai Li et.al.|[2402.02096](http://arxiv.org/abs/2402.02096)|null|
+|**2024-02-03**|**Physical Perception Network and an All-weather Multi-modality Benchmark for Adverse Weather Image Fusion**|Xilai Li et.al.|[2402.02090](http://arxiv.org/abs/2402.02090)|null|
 |**2024-02-02**|**TSJNet: A Multi-modality Target and Semantic Awareness Joint-driven Image Fusion Network**|Yuchan Jie et.al.|[2402.01212](http://arxiv.org/abs/2402.01212)|null|
 |**2024-02-01**|**FuseFormer: A Transformer for Visual and Thermal Image Fusion**|Aytekin Erdogan et.al.|[2402.00971](http://arxiv.org/abs/2402.00971)|null|
 |**2024-01-28**|**An objective comparison of methods for augmented reality in laparoscopic liver resection by preoperative-to-intraoperative image fusion**|Sharib Ali et.al.|[2401.15753](http://arxiv.org/abs/2401.15753)|null|
