@@ -2313,6 +2313,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-02-10**|**Point cloud-based registration and image fusion between cardiac SPECT MPI and CTA**|Shaojie Tang et.al.|[2402.06841](http://arxiv.org/abs/2402.06841)|null|
 |**2024-02-04**|**Fully Differentiable Correlation-driven 2D/3D Registration for X-ray to CT Image Fusion**|Minheng Chen et.al.|[2402.02498](http://arxiv.org/abs/2402.02498)|null|
 |**2024-02-04**|**Physics-Inspired Degradation Models for Hyperspectral Image Fusion**|Jie Lian et.al.|[2402.02411](http://arxiv.org/abs/2402.02411)|null|
 |**2024-02-03**|**Image Fusion via Vision-Language Model**|Zixiang Zhao et.al.|[2402.02235](http://arxiv.org/abs/2402.02235)|null|
@@ -2349,6 +2350,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-02-11**|**Virtual reassembling of 3D fragments for the data-driven analysis of fracture mechanisms in composite materials**|Thomas Wilhelm et.al.|[2402.07289](http://arxiv.org/abs/2402.07289)|null|
 |**2024-02-08**|**Neural Graphics Primitives-based Deformable Image Registration for On-the-fly Motion Extraction**|Xia Li et.al.|[2402.05568](http://arxiv.org/abs/2402.05568)|null|
 |**2024-02-05**|**Decoder-Only Image Registration**|Xi Jia et.al.|[2402.03585](http://arxiv.org/abs/2402.03585)|**[link](https://github.com/xi-jia/lessnet)**|
 |**2024-01-31**|**Local Feature Matching Using Deep Learning: A Survey**|Shibiao Xu et.al.|[2401.17592](http://arxiv.org/abs/2401.17592)|null|
@@ -2384,6 +2386,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-02-10**|**Point cloud-based registration and image fusion between cardiac SPECT MPI and CTA**|Shaojie Tang et.al.|[2402.06841](http://arxiv.org/abs/2402.06841)|null|
 |**2024-02-04**|**Fully Differentiable Correlation-driven 2D/3D Registration for X-ray to CT Image Fusion**|Minheng Chen et.al.|[2402.02498](http://arxiv.org/abs/2402.02498)|null|
 |**2024-02-04**|**Physics-Inspired Degradation Models for Hyperspectral Image Fusion**|Jie Lian et.al.|[2402.02411](http://arxiv.org/abs/2402.02411)|null|
 |**2024-02-03**|**Image Fusion via Vision-Language Model**|Zixiang Zhao et.al.|[2402.02235](http://arxiv.org/abs/2402.02235)|null|
