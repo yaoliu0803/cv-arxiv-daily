@@ -1417,6 +1417,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-02-13**|**Are Semi-Dense Detector-Free Methods Good at Matching Local Features?**|Matthieu Vilain et.al.|[2402.08671](http://arxiv.org/abs/2402.08671)|null|
+|**2024-02-13**|**Learning to Produce Semi-dense Correspondences for Visual Localization**|Khang Truong Giang et.al.|[2402.08359](http://arxiv.org/abs/2402.08359)|**[link](https://github.com/truongkhang/deviloc)**|
 |**2024-01-31**|**Improved Scene Landmark Detection for Camera Localization**|Tien Do et.al.|[2401.18083](http://arxiv.org/abs/2401.18083)|**[link](https://github.com/microsoft/scenelandmarklocalization)**|
 |**2024-01-31**|**Local Feature Matching Using Deep Learning: A Survey**|Shibiao Xu et.al.|[2401.17592](http://arxiv.org/abs/2401.17592)|null|
 |**2024-01-24**|**Linear Relative Pose Estimation Founded on Pose-only Imaging Geometry**|Qi Cai et.al.|[2401.13357](http://arxiv.org/abs/2401.13357)|null|
@@ -2350,6 +2352,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-02-12**|**Diffeomorphic Measure Matching with Kernels for Generative Modeling**|Biraj Pandey et.al.|[2402.08077](http://arxiv.org/abs/2402.08077)|null|
 |**2024-02-11**|**Virtual reassembling of 3D fragments for the data-driven analysis of fracture mechanisms in composite materials**|Thomas Wilhelm et.al.|[2402.07289](http://arxiv.org/abs/2402.07289)|null|
 |**2024-02-08**|**Neural Graphics Primitives-based Deformable Image Registration for On-the-fly Motion Extraction**|Xia Li et.al.|[2402.05568](http://arxiv.org/abs/2402.05568)|null|
 |**2024-02-05**|**Decoder-Only Image Registration**|Xi Jia et.al.|[2402.03585](http://arxiv.org/abs/2402.03585)|**[link](https://github.com/xi-jia/lessnet)**|
