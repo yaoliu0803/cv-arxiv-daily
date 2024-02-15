@@ -2377,6 +2377,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-02-14**|**Pyramid Attention Network for Medical Image Registration**|Zhuoyuan Wang et.al.|[2402.09016](http://arxiv.org/abs/2402.09016)|**[link](https://github.com/juliuswang-7/pan)**|
 |**2024-02-12**|**Diffeomorphic Measure Matching with Kernels for Generative Modeling**|Biraj Pandey et.al.|[2402.08077](http://arxiv.org/abs/2402.08077)|null|
 |**2024-02-11**|**Virtual reassembling of 3D fragments for the data-driven analysis of fracture mechanisms in composite materials**|Thomas Wilhelm et.al.|[2402.07289](http://arxiv.org/abs/2402.07289)|null|
 |**2024-02-08**|**Neural Graphics Primitives-based Deformable Image Registration for On-the-fly Motion Extraction**|Xia Li et.al.|[2402.05568](http://arxiv.org/abs/2402.05568)|null|
