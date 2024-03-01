@@ -2344,6 +2344,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-02-29**|**Effective Message Hiding with Order-Preserving Mechanisms**|Gao Yu et.al.|[2402.19160](http://arxiv.org/abs/2402.19160)|null|
 |**2024-02-26**|**Infrared and visible Image Fusion with Language-driven Loss in CLIP Embedding Space**|Yuhao Wang et.al.|[2402.16267](http://arxiv.org/abs/2402.16267)|null|
 |**2024-02-19**|**A Spatiotemporal Illumination Model for 3D Image Fusion in Optical Coherence Tomography**|Stefan Ploner et.al.|[2402.12114](http://arxiv.org/abs/2402.12114)|null|
 |**2024-02-10**|**Point cloud-based registration and image fusion between cardiac SPECT MPI and CTA**|Shaojie Tang et.al.|[2402.06841](http://arxiv.org/abs/2402.06841)|null|
@@ -2385,6 +2386,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-02-29**|**Modality-Agnostic Structural Image Representation Learning for Deformable Multi-Modality Medical Image Registration**|Tony C. W. Mok et.al.|[2402.18933](http://arxiv.org/abs/2402.18933)|null|
 |**2024-02-28**|**Multimodal Learning To Improve Cardiac Late Mechanical Activation Detection From Cine MR Images**|Jiarui Xing et.al.|[2402.18507](http://arxiv.org/abs/2402.18507)|null|
 |**2024-02-27**|**Quantifying the Resolution of a Template after Image Registration**|Matthias Glock et.al.|[2402.17617](http://arxiv.org/abs/2402.17617)|**[link](https://github.com/Stochastik-TU-Ilmenau/image-template-resolution)**|
 |**2024-02-23**|**Multi-Objective Learning for Deformable Image Registration**|Monika Grewal et.al.|[2402.16658](http://arxiv.org/abs/2402.16658)|null|
@@ -2432,6 +2434,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-02-29**|**Effective Message Hiding with Order-Preserving Mechanisms**|Gao Yu et.al.|[2402.19160](http://arxiv.org/abs/2402.19160)|null|
 |**2024-02-26**|**Infrared and visible Image Fusion with Language-driven Loss in CLIP Embedding Space**|Yuhao Wang et.al.|[2402.16267](http://arxiv.org/abs/2402.16267)|null|
 |**2024-02-19**|**A Spatiotemporal Illumination Model for 3D Image Fusion in Optical Coherence Tomography**|Stefan Ploner et.al.|[2402.12114](http://arxiv.org/abs/2402.12114)|null|
 |**2024-02-10**|**Point cloud-based registration and image fusion between cardiac SPECT MPI and CTA**|Shaojie Tang et.al.|[2402.06841](http://arxiv.org/abs/2402.06841)|null|
