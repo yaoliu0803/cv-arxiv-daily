@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.03.03
+## Updated on 2024.03.04
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -2322,7 +2322,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-02-29**|**Effective Message Hiding with Order-Preserving Mechanisms**|Gao Yu et.al.|[2402.19160](http://arxiv.org/abs/2402.19160)|null|
-|**2024-02-26**|**Infrared and visible Image Fusion with Language-driven Loss in CLIP Embedding Space**|Yuhao Wang et.al.|[2402.16267](http://arxiv.org/abs/2402.16267)|null|
+|**2024-02-26**|**Infrared and visible Image Fusion with Language-driven Loss in CLIP Embedding Space**|Yuhao Wang et.al.|[2402.16267](http://arxiv.org/abs/2402.16267)|**[link](https://github.com/wyhlaowang/LDFusion)**|
 |**2024-02-19**|**A Spatiotemporal Illumination Model for 3D Image Fusion in Optical Coherence Tomography**|Stefan Ploner et.al.|[2402.12114](http://arxiv.org/abs/2402.12114)|null|
 |**2024-02-10**|**Point cloud-based registration and image fusion between cardiac SPECT MPI and CTA**|Shaojie Tang et.al.|[2402.06841](http://arxiv.org/abs/2402.06841)|null|
 |**2024-02-04**|**Fully Differentiable Correlation-driven 2D/3D Registration for X-ray to CT Image Fusion**|Minheng Chen et.al.|[2402.02498](http://arxiv.org/abs/2402.02498)|null|
@@ -2408,7 +2408,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-02-29**|**Effective Message Hiding with Order-Preserving Mechanisms**|Gao Yu et.al.|[2402.19160](http://arxiv.org/abs/2402.19160)|null|
-|**2024-02-26**|**Infrared and visible Image Fusion with Language-driven Loss in CLIP Embedding Space**|Yuhao Wang et.al.|[2402.16267](http://arxiv.org/abs/2402.16267)|null|
+|**2024-02-26**|**Infrared and visible Image Fusion with Language-driven Loss in CLIP Embedding Space**|Yuhao Wang et.al.|[2402.16267](http://arxiv.org/abs/2402.16267)|**[link](https://github.com/wyhlaowang/LDFusion)**|
 |**2024-02-19**|**A Spatiotemporal Illumination Model for 3D Image Fusion in Optical Coherence Tomography**|Stefan Ploner et.al.|[2402.12114](http://arxiv.org/abs/2402.12114)|null|
 |**2024-02-10**|**Point cloud-based registration and image fusion between cardiac SPECT MPI and CTA**|Shaojie Tang et.al.|[2402.06841](http://arxiv.org/abs/2402.06841)|null|
 |**2024-02-04**|**Fully Differentiable Correlation-driven 2D/3D Registration for X-ray to CT Image Fusion**|Minheng Chen et.al.|[2402.02498](http://arxiv.org/abs/2402.02498)|null|
