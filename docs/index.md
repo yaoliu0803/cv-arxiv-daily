@@ -1210,9 +1210,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-03-05**|**Self-supervised 3D Patient Modeling with Multi-modal Attentive Fusion**|Meng Zheng et.al.|[2403.03217](http://arxiv.org/abs/2403.03217)|null|
 |**2024-02-22**|**A Self-supervised Pressure Map human keypoint Detection Approch: Optimizing Generalization and Computational Efficiency Across Datasets**|Chengzhang Yu et.al.|[2402.14241](http://arxiv.org/abs/2402.14241)|null|
 |**2024-02-25**|**A Feature Matching Method Based on Multi-Level Refinement Strategy**|Shaojie Zhang et.al.|[2402.13488](http://arxiv.org/abs/2402.13488)|null|
-|**2024-03-04**|**3D Kinematics Estimation from Video with a Biomechanical Model and Synthetic Training Data**|Zhi-Yi Lin et.al.|[2402.13172](http://arxiv.org/abs/2402.13172)|null|
+|**2024-03-05**|**3D Kinematics Estimation from Video with a Biomechanical Model and Synthetic Training Data**|Zhi-Yi Lin et.al.|[2402.13172](http://arxiv.org/abs/2402.13172)|null|
 |**2024-02-25**|**Region Feature Descriptor Adapted to High Affine Transformations**|Shaojie Zhang et.al.|[2402.09724](http://arxiv.org/abs/2402.09724)|null|
 |**2024-01-29**|**Reconstructing Close Human Interactions from Multiple Views**|Qing Shuai et.al.|[2401.16173](http://arxiv.org/abs/2401.16173)|**[link](https://github.com/zju3dv/closemocap)**|
 |**2024-01-17**|**To deform or not: treatment-aware longitudinal registration for breast DCE-MRI during neoadjuvant chemotherapy via unsupervised keypoints detection**|Luyi Han et.al.|[2401.09336](http://arxiv.org/abs/2401.09336)|**[link](https://github.com/fiy2w/treatment-aware-longitudinal-registration)**|
@@ -2321,6 +2322,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-03-05**|**DDF: A Novel Dual-Domain Image Fusion Strategy for Remote Sensing Image Semantic Segmentation with Unsupervised Domain Adaptation**|Lingyan Ran et.al.|[2403.02784](http://arxiv.org/abs/2403.02784)|null|
+|**2024-03-05**|**UFO: Uncertainty-aware LiDAR-image Fusion for Off-road Semantic Terrain Map Estimation**|Ohn Kim et.al.|[2403.02642](http://arxiv.org/abs/2403.02642)|null|
 |**2024-02-29**|**Effective Message Hiding with Order-Preserving Mechanisms**|Gao Yu et.al.|[2402.19160](http://arxiv.org/abs/2402.19160)|null|
 |**2024-02-26**|**Infrared and visible Image Fusion with Language-driven Loss in CLIP Embedding Space**|Yuhao Wang et.al.|[2402.16267](http://arxiv.org/abs/2402.16267)|**[link](https://github.com/wyhlaowang/LDFusion)**|
 |**2024-02-19**|**A Spatiotemporal Illumination Model for 3D Image Fusion in Optical Coherence Tomography**|Stefan Ploner et.al.|[2402.12114](http://arxiv.org/abs/2402.12114)|null|
@@ -2361,6 +2364,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-03-04**|**Coronary artery segmentation in non-contrast calcium scoring CT images using deep learning**|Mariusz Bujny et.al.|[2403.02544](http://arxiv.org/abs/2403.02544)|null|
+|**2024-03-04**|**HyperPredict: Estimating Hyperparameter Effects for Instance-Specific Regularization in Deformable Image Registration**|Aisha L. Shuaibu et.al.|[2403.02069](http://arxiv.org/abs/2403.02069)|**[link](https://github.com/aisha-lawal/hyperpredict)**|
 |**2024-02-29**|**Modality-Agnostic Structural Image Representation Learning for Deformable Multi-Modality Medical Image Registration**|Tony C. W. Mok et.al.|[2402.18933](http://arxiv.org/abs/2402.18933)|null|
 |**2024-02-28**|**Multimodal Learning To Improve Cardiac Late Mechanical Activation Detection From Cine MR Images**|Jiarui Xing et.al.|[2402.18507](http://arxiv.org/abs/2402.18507)|null|
 |**2024-02-27**|**Quantifying the Resolution of a Template after Image Registration**|Matthias Glock et.al.|[2402.17617](http://arxiv.org/abs/2402.17617)|**[link](https://github.com/Stochastik-TU-Ilmenau/image-template-resolution)**|
@@ -2407,6 +2412,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-03-05**|**DDF: A Novel Dual-Domain Image Fusion Strategy for Remote Sensing Image Semantic Segmentation with Unsupervised Domain Adaptation**|Lingyan Ran et.al.|[2403.02784](http://arxiv.org/abs/2403.02784)|null|
+|**2024-03-05**|**UFO: Uncertainty-aware LiDAR-image Fusion for Off-road Semantic Terrain Map Estimation**|Ohn Kim et.al.|[2403.02642](http://arxiv.org/abs/2403.02642)|null|
 |**2024-02-29**|**Effective Message Hiding with Order-Preserving Mechanisms**|Gao Yu et.al.|[2402.19160](http://arxiv.org/abs/2402.19160)|null|
 |**2024-02-26**|**Infrared and visible Image Fusion with Language-driven Loss in CLIP Embedding Space**|Yuhao Wang et.al.|[2402.16267](http://arxiv.org/abs/2402.16267)|**[link](https://github.com/wyhlaowang/LDFusion)**|
 |**2024-02-19**|**A Spatiotemporal Illumination Model for 3D Image Fusion in Optical Coherence Tomography**|Stefan Ploner et.al.|[2402.12114](http://arxiv.org/abs/2402.12114)|null|
