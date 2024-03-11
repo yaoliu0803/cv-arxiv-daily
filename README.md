@@ -2391,6 +2391,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-03-08**|**From Registration Uncertainty to Segmentation Uncertainty**|Junyu Chen et.al.|[2403.05111](http://arxiv.org/abs/2403.05111)|null|
 |**2024-03-04**|**Coronary artery segmentation in non-contrast calcium scoring CT images using deep learning**|Mariusz Bujny et.al.|[2403.02544](http://arxiv.org/abs/2403.02544)|null|
 |**2024-03-04**|**HyperPredict: Estimating Hyperparameter Effects for Instance-Specific Regularization in Deformable Image Registration**|Aisha L. Shuaibu et.al.|[2403.02069](http://arxiv.org/abs/2403.02069)|**[link](https://github.com/aisha-lawal/hyperpredict)**|
 |**2024-02-29**|**Modality-Agnostic Structural Image Representation Learning for Deformable Multi-Modality Medical Image Registration**|Tony C. W. Mok et.al.|[2402.18933](http://arxiv.org/abs/2402.18933)|null|
