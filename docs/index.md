@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.03.16
+## Updated on 2024.03.17
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -2326,7 +2326,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-03-14**|**EfficientMFD: Towards More Efficient Multimodal Synchronous Fusion Detection**|Jiaqing Zhang et.al.|[2403.09323](http://arxiv.org/abs/2403.09323)|null|
+|**2024-03-14**|**EfficientMFD: Towards More Efficient Multimodal Synchronous Fusion Detection**|Jiaqing Zhang et.al.|[2403.09323](http://arxiv.org/abs/2403.09323)|**[link](https://github.com/icey-zhang/efficientmfd)**|
 |**2024-03-05**|**DDF: A Novel Dual-Domain Image Fusion Strategy for Remote Sensing Image Semantic Segmentation with Unsupervised Domain Adaptation**|Lingyan Ran et.al.|[2403.02784](http://arxiv.org/abs/2403.02784)|null|
 |**2024-03-05**|**UFO: Uncertainty-aware LiDAR-image Fusion for Off-road Semantic Terrain Map Estimation**|Ohn Kim et.al.|[2403.02642](http://arxiv.org/abs/2403.02642)|null|
 |**2024-02-29**|**Effective Message Hiding with Order-Preserving Mechanisms**|Gao Yu et.al.|[2402.19160](http://arxiv.org/abs/2402.19160)|null|
@@ -2420,7 +2420,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-03-14**|**EfficientMFD: Towards More Efficient Multimodal Synchronous Fusion Detection**|Jiaqing Zhang et.al.|[2403.09323](http://arxiv.org/abs/2403.09323)|null|
+|**2024-03-14**|**EfficientMFD: Towards More Efficient Multimodal Synchronous Fusion Detection**|Jiaqing Zhang et.al.|[2403.09323](http://arxiv.org/abs/2403.09323)|**[link](https://github.com/icey-zhang/efficientmfd)**|
 |**2024-03-05**|**DDF: A Novel Dual-Domain Image Fusion Strategy for Remote Sensing Image Semantic Segmentation with Unsupervised Domain Adaptation**|Lingyan Ran et.al.|[2403.02784](http://arxiv.org/abs/2403.02784)|null|
 |**2024-03-05**|**UFO: Uncertainty-aware LiDAR-image Fusion for Off-road Semantic Terrain Map Estimation**|Ohn Kim et.al.|[2403.02642](http://arxiv.org/abs/2403.02642)|null|
 |**2024-02-29**|**Effective Message Hiding with Order-Preserving Mechanisms**|Gao Yu et.al.|[2402.19160](http://arxiv.org/abs/2402.19160)|null|
