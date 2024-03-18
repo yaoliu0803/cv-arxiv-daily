@@ -1245,7 +1245,7 @@
 |**2023-12-11**|**Keypoint-based Stereophotoclinometry for Characterizing and Navigating Small Bodies: A Factor Graph Approach**|Travis Driver et.al.|[2312.06865](http://arxiv.org/abs/2312.06865)|null|
 |**2023-12-01**|**Tracking Object Positions in Reinforcement Learning: A Metric for Keypoint Detection (extended version)**|Emma Cramer et.al.|[2312.00592](http://arxiv.org/abs/2312.00592)|null|
 |**2023-11-30**|**Utilizing Radiomic Feature Analysis For Automated MRI Keypoint Detection: Enhancing Graph Applications**|Sahar Almahfouz Nasser et.al.|[2311.18281](http://arxiv.org/abs/2311.18281)|null|
-|**2023-11-29**|**Back to 3D: Few-Shot 3D Keypoint Detection with Back-Projected 2D Features**|Thomas Wimmer et.al.|[2311.18113](http://arxiv.org/abs/2311.18113)|null|
+|**2023-11-29**|**Back to 3D: Few-Shot 3D Keypoint Detection with Back-Projected 2D Features**|Thomas Wimmer et.al.|[2311.18113](http://arxiv.org/abs/2311.18113)|**[link](https://github.com/wimmerth/back-to-3d-few-shot-keypoints)**|
 |**2023-11-28**|**Diffusion 3D Features (Diff3F): Decorating Untextured Shapes with Distilled Semantic Features**|Niladri Shekhar Dutt et.al.|[2311.17024](http://arxiv.org/abs/2311.17024)|null|
 |**2023-11-28**|**Riemannian Self-Attention Mechanism for SPD Networks**|Rui Wang et.al.|[2311.16738](http://arxiv.org/abs/2311.16738)|null|
 |**2023-11-27**|**A manometric feature descriptor with linear-SVM to distinguish esophageal contraction vigor**|Jialin Liu et.al.|[2311.15609](http://arxiv.org/abs/2311.15609)|null|
@@ -2282,7 +2282,7 @@
 |**2022-10-15**|**IBL-NeRF: Image-Based Lighting Formulation of Neural Radiance Fields**|Changwoon Choi et.al.|[2210.08202](http://arxiv.org/abs/2210.08202)|**[link](https://github.com/changwoonchoi/IBL-NeRF)**|
 |**2022-10-17**|**3D GAN Inversion with Pose Optimization**|Jaehoon Ko et.al.|[2210.07301](http://arxiv.org/abs/2210.07301)|**[link](https://github.com/KU-CVLAB/3DGAN-Inversion)**|
 |**2022-10-13**|**Multiplane NeRF-Supervised Disentanglement of Depth and Camera Pose from Videos**|Yang Fu et.al.|[2210.07181](http://arxiv.org/abs/2210.07181)|null|
-|**2022-10-12**|**GraspNeRF: Multiview-based 6-DoF Grasp Detection for Transparent and Specular Objects Using Generalizable NeRF**|Qiyu Dai et.al.|[2210.06575](http://arxiv.org/abs/2210.06575)|null|
+|**2022-10-12**|**GraspNeRF: Multiview-based 6-DoF Grasp Detection for Transparent and Specular Objects Using Generalizable NeRF**|Qiyu Dai et.al.|[2210.06575](http://arxiv.org/abs/2210.06575)|**[link](https://github.com/PKU-EPIC/GraspNeRF)**|
 |**2022-10-12**|**Reconstructing Personalized Semantic Facial NeRF Models From Monocular Video**|Xuan Gao et.al.|[2210.06108](http://arxiv.org/abs/2210.06108)|**[link](https://github.com/USTC3DV/NeRFBlendShape-code)**|
 |**2022-10-11**|**X-NeRF: Explicit Neural Radiance Field for Multi-Scene 360 $^{\circ}$ Insufficient RGB-D Views**|Haoyi Zhu et.al.|[2210.05135](http://arxiv.org/abs/2210.05135)|**[link](https://github.com/haoyizhu/xnerf)**|
 |**2022-10-10**|**NeRF2Real: Sim2real Transfer of Vision-guided Bipedal Motion Skills using Neural Radiance Fields**|Arunkumar Byravan et.al.|[2210.04932](http://arxiv.org/abs/2210.04932)|null|
@@ -2356,7 +2356,7 @@
 |**2024-02-26**|**Infrared and visible Image Fusion with Language-driven Loss in CLIP Embedding Space**|Yuhao Wang et.al.|[2402.16267](http://arxiv.org/abs/2402.16267)|**[link](https://github.com/wyhlaowang/LDFusion)**|
 |**2024-02-19**|**A Spatiotemporal Illumination Model for 3D Image Fusion in Optical Coherence Tomography**|Stefan Ploner et.al.|[2402.12114](http://arxiv.org/abs/2402.12114)|null|
 |**2024-02-10**|**Point cloud-based registration and image fusion between cardiac SPECT MPI and CTA**|Shaojie Tang et.al.|[2402.06841](http://arxiv.org/abs/2402.06841)|null|
-|**2024-02-04**|**Fully Differentiable Correlation-driven 2D/3D Registration for X-ray to CT Image Fusion**|Minheng Chen et.al.|[2402.02498](http://arxiv.org/abs/2402.02498)|null|
+|**2024-02-04**|**Fully Differentiable Correlation-driven 2D/3D Registration for X-ray to CT Image Fusion**|Minheng Chen et.al.|[2402.02498](http://arxiv.org/abs/2402.02498)|**[link](https://github.com/m1nhengchen/cdreg)**|
 |**2024-02-04**|**Physics-Inspired Degradation Models for Hyperspectral Image Fusion**|Jie Lian et.al.|[2402.02411](http://arxiv.org/abs/2402.02411)|null|
 |**2024-02-03**|**Image Fusion via Vision-Language Model**|Zixiang Zhao et.al.|[2402.02235](http://arxiv.org/abs/2402.02235)|null|
 |**2024-02-03**|**Decomposition-based and Interference Perception for Infrared and Visible Image Fusion in Complex Scenes**|Xilai Li et.al.|[2402.02096](http://arxiv.org/abs/2402.02096)|null|
@@ -2412,7 +2412,7 @@
 |**2024-02-11**|**Virtual reassembling of 3D fragments for the data-driven analysis of fracture mechanisms in composite materials**|Thomas Wilhelm et.al.|[2402.07289](http://arxiv.org/abs/2402.07289)|null|
 |**2024-02-08**|**Neural Graphics Primitives-based Deformable Image Registration for On-the-fly Motion Extraction**|Xia Li et.al.|[2402.05568](http://arxiv.org/abs/2402.05568)|null|
 |**2024-02-05**|**Decoder-Only Image Registration**|Xi Jia et.al.|[2402.03585](http://arxiv.org/abs/2402.03585)|**[link](https://github.com/xi-jia/lessnet)**|
-|**2024-01-31**|**Local Feature Matching Using Deep Learning: A Survey**|Shibiao Xu et.al.|[2401.17592](http://arxiv.org/abs/2401.17592)|null|
+|**2024-01-31**|**Local Feature Matching Using Deep Learning: A Survey**|Shibiao Xu et.al.|[2401.17592](http://arxiv.org/abs/2401.17592)|**[link](https://github.com/vignywang/awesome-local-feature-matching)**|
 |**2024-01-30**|**CLAIRE: Scalable GPU-Accelerated Algorithms for Diffeomorphic Image Registration in 3D**|Andreas Mang et.al.|[2401.17493](http://arxiv.org/abs/2401.17493)|null|
 |**2024-01-30**|**Deep 3D World Models for Multi-Image Super-Resolution Beyond Optical Flow**|Luca Savant Aira et.al.|[2401.16972](http://arxiv.org/abs/2401.16972)|null|
 |**2024-01-30**|**A Tournament of Transformation Models: B-Spline-based vs. Mesh-based Multi-Objective Deformable Image Registration**|Georgios Andreadis et.al.|[2401.16867](http://arxiv.org/abs/2401.16867)|null|
@@ -2454,7 +2454,7 @@
 |**2024-02-26**|**Infrared and visible Image Fusion with Language-driven Loss in CLIP Embedding Space**|Yuhao Wang et.al.|[2402.16267](http://arxiv.org/abs/2402.16267)|**[link](https://github.com/wyhlaowang/LDFusion)**|
 |**2024-02-19**|**A Spatiotemporal Illumination Model for 3D Image Fusion in Optical Coherence Tomography**|Stefan Ploner et.al.|[2402.12114](http://arxiv.org/abs/2402.12114)|null|
 |**2024-02-10**|**Point cloud-based registration and image fusion between cardiac SPECT MPI and CTA**|Shaojie Tang et.al.|[2402.06841](http://arxiv.org/abs/2402.06841)|null|
-|**2024-02-04**|**Fully Differentiable Correlation-driven 2D/3D Registration for X-ray to CT Image Fusion**|Minheng Chen et.al.|[2402.02498](http://arxiv.org/abs/2402.02498)|null|
+|**2024-02-04**|**Fully Differentiable Correlation-driven 2D/3D Registration for X-ray to CT Image Fusion**|Minheng Chen et.al.|[2402.02498](http://arxiv.org/abs/2402.02498)|**[link](https://github.com/m1nhengchen/cdreg)**|
 |**2024-02-04**|**Physics-Inspired Degradation Models for Hyperspectral Image Fusion**|Jie Lian et.al.|[2402.02411](http://arxiv.org/abs/2402.02411)|null|
 |**2024-02-03**|**Image Fusion via Vision-Language Model**|Zixiang Zhao et.al.|[2402.02235](http://arxiv.org/abs/2402.02235)|null|
 |**2024-02-03**|**Decomposition-based and Interference Perception for Infrared and Visible Image Fusion in Complex Scenes**|Xilai Li et.al.|[2402.02096](http://arxiv.org/abs/2402.02096)|null|
