@@ -1423,6 +1423,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-03-19**|**HCPM: Hierarchical Candidates Pruning for Efficient Detector-Free Matching**|Ying Chen et.al.|[2403.12543](http://arxiv.org/abs/2403.12543)|null|
 |**2024-03-16**|**Refining Knowledge Transfer on Audio-Image Temporal Agreement for Audio-Text Cross Retrieval**|Shunsuke Tsubaki et.al.|[2403.10756](http://arxiv.org/abs/2403.10756)|null|
 |**2024-03-16**|**Vector search with small radiuses**|Gergely Szilvasy et.al.|[2403.10746](http://arxiv.org/abs/2403.10746)|null|
 |**2024-03-15**|**Local positional graphs and attentive local features for a data and runtime-efficient hierarchical place recognition pipeline**|Fangming Yuan et.al.|[2403.10283](http://arxiv.org/abs/2403.10283)|null|
@@ -2331,7 +2332,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-03-17**|**Bayesian multi-exposure image fusion for robust high dynamic range preprocessing in ptychography**|Shantanu Kodgirwar et.al.|[2403.11344](http://arxiv.org/abs/2403.11344)|**[link](https://github.com/microscopic-image-analysis/bayes-mef)**|
+|**2024-03-19**|**Task-Customized Mixture of Adapters for General Image Fusion**|Pengfei Zhu et.al.|[2403.12494](http://arxiv.org/abs/2403.12494)|null|
+|**2024-03-19**|**Bayesian multi-exposure image fusion for robust high dynamic range ptychography**|Shantanu Kodgirwar et.al.|[2403.11344](http://arxiv.org/abs/2403.11344)|**[link](https://github.com/microscopic-image-analysis/bayes-mef)**|
 |**2024-03-14**|**EfficientMFD: Towards More Efficient Multimodal Synchronous Fusion Detection**|Jiaqing Zhang et.al.|[2403.09323](http://arxiv.org/abs/2403.09323)|**[link](https://github.com/icey-zhang/efficientmfd)**|
 |**2024-03-05**|**DDF: A Novel Dual-Domain Image Fusion Strategy for Remote Sensing Image Semantic Segmentation with Unsupervised Domain Adaptation**|Lingyan Ran et.al.|[2403.02784](http://arxiv.org/abs/2403.02784)|null|
 |**2024-03-05**|**UFO: Uncertainty-aware LiDAR-image Fusion for Off-road Semantic Terrain Map Estimation**|Ohn Kim et.al.|[2403.02642](http://arxiv.org/abs/2403.02642)|null|
@@ -2428,7 +2430,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-03-17**|**Bayesian multi-exposure image fusion for robust high dynamic range preprocessing in ptychography**|Shantanu Kodgirwar et.al.|[2403.11344](http://arxiv.org/abs/2403.11344)|**[link](https://github.com/microscopic-image-analysis/bayes-mef)**|
+|**2024-03-19**|**Task-Customized Mixture of Adapters for General Image Fusion**|Pengfei Zhu et.al.|[2403.12494](http://arxiv.org/abs/2403.12494)|null|
+|**2024-03-19**|**Bayesian multi-exposure image fusion for robust high dynamic range ptychography**|Shantanu Kodgirwar et.al.|[2403.11344](http://arxiv.org/abs/2403.11344)|**[link](https://github.com/microscopic-image-analysis/bayes-mef)**|
 |**2024-03-14**|**EfficientMFD: Towards More Efficient Multimodal Synchronous Fusion Detection**|Jiaqing Zhang et.al.|[2403.09323](http://arxiv.org/abs/2403.09323)|**[link](https://github.com/icey-zhang/efficientmfd)**|
 |**2024-03-05**|**DDF: A Novel Dual-Domain Image Fusion Strategy for Remote Sensing Image Semantic Segmentation with Unsupervised Domain Adaptation**|Lingyan Ran et.al.|[2403.02784](http://arxiv.org/abs/2403.02784)|null|
 |**2024-03-05**|**UFO: Uncertainty-aware LiDAR-image Fusion for Off-road Semantic Terrain Map Estimation**|Ohn Kim et.al.|[2403.02642](http://arxiv.org/abs/2403.02642)|null|
