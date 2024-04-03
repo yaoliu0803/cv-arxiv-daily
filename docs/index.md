@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.04.02
+## Updated on 2024.04.03
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -2341,7 +2341,7 @@ layout: default
 |**2024-03-25**|**Text-IF: Leveraging Semantic Text Guidance for Degradation-Aware and Interactive Image Fusion**|Xunpeng Yi et.al.|[2403.16387](http://arxiv.org/abs/2403.16387)|**[link](https://github.com/xunpengyi/text-if)**|
 |**2024-03-24**|**Dual-modal Prior Semantic Guided Infrared and Visible Image Fusion for Intelligent Transportation System**|Jing Li et.al.|[2403.16227](http://arxiv.org/abs/2403.16227)|null|
 |**2024-03-23**|**Depth Estimation fusing Image and Radar Measurements with Uncertain Directions**|Masaya Kotani et.al.|[2403.15787](http://arxiv.org/abs/2403.15787)|null|
-|**2024-03-23**|**FusionINN: Invertible Image Fusion for Brain Tumor Monitoring**|Nishant Kumar et.al.|[2403.15769](http://arxiv.org/abs/2403.15769)|null|
+|**2024-03-23**|**FusionINN: Invertible Image Fusion for Brain Tumor Monitoring**|Nishant Kumar et.al.|[2403.15769](http://arxiv.org/abs/2403.15769)|**[link](https://github.com/nish03/FusionINN)**|
 |**2024-03-24**|**Task-Customized Mixture of Adapters for General Image Fusion**|Pengfei Zhu et.al.|[2403.12494](http://arxiv.org/abs/2403.12494)|**[link](https://github.com/yangsun22/tc-moa)**|
 |**2024-03-19**|**Bayesian multi-exposure image fusion for robust high dynamic range ptychography**|Shantanu Kodgirwar et.al.|[2403.11344](http://arxiv.org/abs/2403.11344)|**[link](https://github.com/microscopic-image-analysis/bayes-mef)**|
 |**2024-03-14**|**EfficientMFD: Towards More Efficient Multimodal Synchronous Fusion Detection**|Jiaqing Zhang et.al.|[2403.09323](http://arxiv.org/abs/2403.09323)|**[link](https://github.com/icey-zhang/efficientmfd)**|
@@ -2449,7 +2449,7 @@ layout: default
 |**2024-03-25**|**Text-IF: Leveraging Semantic Text Guidance for Degradation-Aware and Interactive Image Fusion**|Xunpeng Yi et.al.|[2403.16387](http://arxiv.org/abs/2403.16387)|**[link](https://github.com/xunpengyi/text-if)**|
 |**2024-03-24**|**Dual-modal Prior Semantic Guided Infrared and Visible Image Fusion for Intelligent Transportation System**|Jing Li et.al.|[2403.16227](http://arxiv.org/abs/2403.16227)|null|
 |**2024-03-23**|**Depth Estimation fusing Image and Radar Measurements with Uncertain Directions**|Masaya Kotani et.al.|[2403.15787](http://arxiv.org/abs/2403.15787)|null|
-|**2024-03-23**|**FusionINN: Invertible Image Fusion for Brain Tumor Monitoring**|Nishant Kumar et.al.|[2403.15769](http://arxiv.org/abs/2403.15769)|null|
+|**2024-03-23**|**FusionINN: Invertible Image Fusion for Brain Tumor Monitoring**|Nishant Kumar et.al.|[2403.15769](http://arxiv.org/abs/2403.15769)|**[link](https://github.com/nish03/FusionINN)**|
 |**2024-03-24**|**Task-Customized Mixture of Adapters for General Image Fusion**|Pengfei Zhu et.al.|[2403.12494](http://arxiv.org/abs/2403.12494)|**[link](https://github.com/yangsun22/tc-moa)**|
 |**2024-03-19**|**Bayesian multi-exposure image fusion for robust high dynamic range ptychography**|Shantanu Kodgirwar et.al.|[2403.11344](http://arxiv.org/abs/2403.11344)|**[link](https://github.com/microscopic-image-analysis/bayes-mef)**|
 |**2024-03-14**|**EfficientMFD: Towards More Efficient Multimodal Synchronous Fusion Detection**|Jiaqing Zhang et.al.|[2403.09323](http://arxiv.org/abs/2403.09323)|**[link](https://github.com/icey-zhang/efficientmfd)**|
