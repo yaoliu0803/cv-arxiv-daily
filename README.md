@@ -2417,6 +2417,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-04-07**|**VMambaMorph: a Visual Mamba-based Framework with Cross-Scan Module for Deformable 3D Image Registration**|Ziyang Wang et.al.|[2404.05105](http://arxiv.org/abs/2404.05105)|null|
+|**2024-04-05**|**A comprehensive liver CT landmark pair dataset for evaluating deformable image registration algorithms**|Zhendong Zhang et.al.|[2404.04427](http://arxiv.org/abs/2404.04427)|null|
 |**2024-04-05**|**DiffOp-net: A Differential Operator-based Fully Convolutional Network for Unsupervised Deformable Image Registration**|Jiong Wu et.al.|[2404.04244](http://arxiv.org/abs/2404.04244)|null|
 |**2024-04-03**|**Unsegment Anything by Simulating Deformation**|Jiahao Lu et.al.|[2404.02585](http://arxiv.org/abs/2404.02585)|**[link](https://github.com/jiahaolu97/anything-unsegmentable)**|
 |**2024-04-02**|**Neural Ordinary Differential Equation based Sequential Image Registration for Dynamic Characterization**|Yifan Wu et.al.|[2404.02106](http://arxiv.org/abs/2404.02106)|null|
