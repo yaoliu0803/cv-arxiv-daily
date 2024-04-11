@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.04.10
+## Updated on 2024.04.11
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -453,7 +453,7 @@
 |**2021-10-03**|**Quadrotor Control on $SU(2)\times R^3$ with SLAM Integration**|Marcus Greiff et.al.|[2110.01099](http://arxiv.org/abs/2110.01099)|null|
 |**2021-10-02**|**Online Incremental Non-Gaussian Inference for SLAM Using Normalizing Flows**|Qiangqiang Huang et.al.|[2110.00876](http://arxiv.org/abs/2110.00876)|**[link](https://github.com/marineroboticsgroup/nf-isam)**|
 
-<p align=right>(<a href=#updated-on-20240410>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240411>back to top</a>)</p>
 
 ## SFM
 
@@ -606,7 +606,7 @@
 |**2021-08-29**|**Solving Viewing Graph Optimization for Simultaneous Position and Rotation Registration**|Seyed-Mahdi Nasiri et.al.|[2108.12876](http://arxiv.org/abs/2108.12876)|null|
 |**2021-08-23**|**Burst Imaging for Light-Constrained Structure-From-Motion**|Ahalya Ravendran et.al.|[2108.09895](http://arxiv.org/abs/2108.09895)|null|
 
-<p align=right>(<a href=#updated-on-20240410>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240411>back to top</a>)</p>
 
 ## Visual Localization
 
@@ -1221,7 +1221,7 @@
 |**2021-09-09**|**CrowdDriven: A New Challenging Dataset for Outdoor Visual Localization**|Ara Jafarzadeh et.al.|[2109.04527](http://arxiv.org/abs/2109.04527)|null|
 |**2021-09-09**|**Keeping an Eye on Things: Deep Learned Features for Long-Term Visual Localization**|Mona Gridseth et.al.|[2109.04041](http://arxiv.org/abs/2109.04041)|**[link](https://github.com/utiasasrl/deep_learned_visual_features)**|
 
-<p align=right>(<a href=#updated-on-20240410>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240411>back to top</a>)</p>
 
 ## Keypoint Detection
 
@@ -1439,7 +1439,7 @@
 |**2021-08-31**|**A Novel Dataset for Keypoint Detection of quadruped Animals from Images**|Prianka Banik et.al.|[2108.13958](http://arxiv.org/abs/2108.13958)|**[link](https://github.com/prinik/awa-pose)**|
 |**2021-08-27**|**A Matching Algorithm based on Image Attribute Transfer and Local Features for Underwater Acoustic and Optical Images**|Xiaoteng Zhou et.al.|[2108.12151](http://arxiv.org/abs/2108.12151)|null|
 
-<p align=right>(<a href=#updated-on-20240410>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240411>back to top</a>)</p>
 
 ## Image Matching
 
@@ -1661,7 +1661,7 @@
 |**2021-08-27**|**Matching Underwater Sonar Images by the Learned Descriptor Based on Style Transfer Method**|Xiaoteng Zhou et.al.|[2108.12072](http://arxiv.org/abs/2108.12072)|null|
 |**2021-08-26**|**Efficient Joint Object Matching via Linear Programming**|Antonio De Rosa et.al.|[2108.11911](http://arxiv.org/abs/2108.11911)|null|
 
-<p align=right>(<a href=#updated-on-20240410>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240411>back to top</a>)</p>
 
 ## NeRF
 
@@ -2360,13 +2360,13 @@
 |**2022-07-29**|**Neural Density-Distance Fields**|Itsuki Ueda et.al.|[2207.14455](http://arxiv.org/abs/2207.14455)|**[link](https://github.com/ueda0319/neddf)**|
 |**2022-07-27**|**Is Attention All NeRF Needs?**|Mukund Varma T et.al.|[2207.13298](http://arxiv.org/abs/2207.13298)|null|
 
-<p align=right>(<a href=#updated-on-20240410>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240411>back to top</a>)</p>
 
 ## Image Fusion
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2024-04-09**|**Little Strokes Fell Great Oaks: Boosting the Hierarchical Features for Multi-exposure Image Fusion**|Pan Mu et.al.|[2404.06033](http://arxiv.org/abs/2404.06033)|**[link](https://github.com/zhiyingdu/bhfmef)**|
+|**2024-04-10**|**Little Strokes Fell Great Oaks: Boosting the Hierarchical Features for Multi-exposure Image Fusion**|Pan Mu et.al.|[2404.06033](http://arxiv.org/abs/2404.06033)|**[link](https://github.com/zhiyingdu/bhfmef)**|
 |**2024-04-01**|**3MOS: Multi-sources, Multi-resolutions, and Multi-scenes dataset for Optical-SAR image matching**|Yibin Ye et.al.|[2404.00838](http://arxiv.org/abs/2404.00838)|null|
 |**2024-03-25**|**Text-IF: Leveraging Semantic Text Guidance for Degradation-Aware and Interactive Image Fusion**|Xunpeng Yi et.al.|[2403.16387](http://arxiv.org/abs/2403.16387)|**[link](https://github.com/xunpengyi/text-if)**|
 |**2024-03-24**|**Dual-modal Prior Semantic Guided Infrared and Visible Image Fusion for Intelligent Transportation System**|Jing Li et.al.|[2403.16227](http://arxiv.org/abs/2403.16227)|null|
@@ -2413,13 +2413,13 @@
 |**2023-11-01**|**Graph Representation Learning for Infrared and Visible Image Fusion**|Jing Li et.al.|[2311.00291](http://arxiv.org/abs/2311.00291)|null|
 |**2023-10-24**|**ShadowSense: Unsupervised Domain Adaptation and Feature Fusion for Shadow-Agnostic Tree Crown Detection from RGB-Thermal Drone Imagery**|Rudraksh Kapil et.al.|[2310.16212](http://arxiv.org/abs/2310.16212)|**[link](https://github.com/rudrakshkapil/shadowsense)**|
 
-<p align=right>(<a href=#updated-on-20240410>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240411>back to top</a>)</p>
 
 ## Image Registration
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2024-04-07**|**VMambaMorph: a Visual Mamba-based Framework with Cross-Scan Module for Deformable 3D Image Registration**|Ziyang Wang et.al.|[2404.05105](http://arxiv.org/abs/2404.05105)|null|
+|**2024-04-07**|**VMambaMorph: a Visual Mamba-based Framework with Cross-Scan Module for Deformable 3D Image Registration**|Ziyang Wang et.al.|[2404.05105](http://arxiv.org/abs/2404.05105)|**[link](https://github.com/ziyangwang007/vmambamorph)**|
 |**2024-04-05**|**A comprehensive liver CT landmark pair dataset for evaluating deformable image registration algorithms**|Zhendong Zhang et.al.|[2404.04427](http://arxiv.org/abs/2404.04427)|null|
 |**2024-04-05**|**DiffOp-net: A Differential Operator-based Fully Convolutional Network for Unsupervised Deformable Image Registration**|Jiong Wu et.al.|[2404.04244](http://arxiv.org/abs/2404.04244)|null|
 |**2024-04-03**|**Unsegment Anything by Simulating Deformation**|Jiahao Lu et.al.|[2404.02585](http://arxiv.org/abs/2404.02585)|**[link](https://github.com/jiahaolu97/anything-unsegmentable)**|
@@ -2480,13 +2480,13 @@
 |**2023-11-25**|**SAME++: A Self-supervised Anatomical eMbeddings Enhanced medical image registration framework using stable sampling and regularized transformation**|Lin Tian et.al.|[2311.14986](http://arxiv.org/abs/2311.14986)|**[link](https://github.com/alibaba-damo-academy/same)**|
 |**2023-11-24**|**Deformable multi-modal image registration for the correlation between optical measurements and histology images**|Lianne Feenstra et.al.|[2311.14414](http://arxiv.org/abs/2311.14414)|null|
 
-<p align=right>(<a href=#updated-on-20240410>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240411>back to top</a>)</p>
 
 ## Image Registration and Fusion
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2024-04-09**|**Little Strokes Fell Great Oaks: Boosting the Hierarchical Features for Multi-exposure Image Fusion**|Pan Mu et.al.|[2404.06033](http://arxiv.org/abs/2404.06033)|**[link](https://github.com/zhiyingdu/bhfmef)**|
+|**2024-04-10**|**Little Strokes Fell Great Oaks: Boosting the Hierarchical Features for Multi-exposure Image Fusion**|Pan Mu et.al.|[2404.06033](http://arxiv.org/abs/2404.06033)|**[link](https://github.com/zhiyingdu/bhfmef)**|
 |**2024-04-01**|**3MOS: Multi-sources, Multi-resolutions, and Multi-scenes dataset for Optical-SAR image matching**|Yibin Ye et.al.|[2404.00838](http://arxiv.org/abs/2404.00838)|null|
 |**2024-03-25**|**Text-IF: Leveraging Semantic Text Guidance for Degradation-Aware and Interactive Image Fusion**|Xunpeng Yi et.al.|[2403.16387](http://arxiv.org/abs/2403.16387)|**[link](https://github.com/xunpengyi/text-if)**|
 |**2024-03-24**|**Dual-modal Prior Semantic Guided Infrared and Visible Image Fusion for Intelligent Transportation System**|Jing Li et.al.|[2403.16227](http://arxiv.org/abs/2403.16227)|null|
@@ -2533,7 +2533,7 @@
 |**2023-11-01**|**Graph Representation Learning for Infrared and Visible Image Fusion**|Jing Li et.al.|[2311.00291](http://arxiv.org/abs/2311.00291)|null|
 |**2023-10-24**|**ShadowSense: Unsupervised Domain Adaptation and Feature Fusion for Shadow-Agnostic Tree Crown Detection from RGB-Thermal Drone Imagery**|Rudraksh Kapil et.al.|[2310.16212](http://arxiv.org/abs/2310.16212)|**[link](https://github.com/rudrakshkapil/shadowsense)**|
 
-<p align=right>(<a href=#updated-on-20240410>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240411>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
