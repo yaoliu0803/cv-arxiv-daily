@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.04.22
+## Updated on 2024.04.23
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -453,7 +453,7 @@
 |**2021-10-03**|**Quadrotor Control on $SU(2)\times R^3$ with SLAM Integration**|Marcus Greiff et.al.|[2110.01099](http://arxiv.org/abs/2110.01099)|null|
 |**2021-10-02**|**Online Incremental Non-Gaussian Inference for SLAM Using Normalizing Flows**|Qiangqiang Huang et.al.|[2110.00876](http://arxiv.org/abs/2110.00876)|**[link](https://github.com/marineroboticsgroup/nf-isam)**|
 
-<p align=right>(<a href=#updated-on-20240422>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240423>back to top</a>)</p>
 
 ## SFM
 
@@ -606,7 +606,7 @@
 |**2021-08-29**|**Solving Viewing Graph Optimization for Simultaneous Position and Rotation Registration**|Seyed-Mahdi Nasiri et.al.|[2108.12876](http://arxiv.org/abs/2108.12876)|null|
 |**2021-08-23**|**Burst Imaging for Light-Constrained Structure-From-Motion**|Ahalya Ravendran et.al.|[2108.09895](http://arxiv.org/abs/2108.09895)|null|
 
-<p align=right>(<a href=#updated-on-20240422>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240423>back to top</a>)</p>
 
 ## Visual Localization
 
@@ -1221,7 +1221,7 @@
 |**2021-09-09**|**CrowdDriven: A New Challenging Dataset for Outdoor Visual Localization**|Ara Jafarzadeh et.al.|[2109.04527](http://arxiv.org/abs/2109.04527)|null|
 |**2021-09-09**|**Keeping an Eye on Things: Deep Learned Features for Long-Term Visual Localization**|Mona Gridseth et.al.|[2109.04041](http://arxiv.org/abs/2109.04041)|**[link](https://github.com/utiasasrl/deep_learned_visual_features)**|
 
-<p align=right>(<a href=#updated-on-20240422>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240423>back to top</a>)</p>
 
 ## Keypoint Detection
 
@@ -1441,7 +1441,7 @@
 |**2021-08-31**|**A Novel Dataset for Keypoint Detection of quadruped Animals from Images**|Prianka Banik et.al.|[2108.13958](http://arxiv.org/abs/2108.13958)|**[link](https://github.com/prinik/awa-pose)**|
 |**2021-08-27**|**A Matching Algorithm based on Image Attribute Transfer and Local Features for Underwater Acoustic and Optical Images**|Xiaoteng Zhou et.al.|[2108.12151](http://arxiv.org/abs/2108.12151)|null|
 
-<p align=right>(<a href=#updated-on-20240422>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240423>back to top</a>)</p>
 
 ## Image Matching
 
@@ -1667,7 +1667,7 @@
 |**2021-08-27**|**Matching Underwater Sonar Images by the Learned Descriptor Based on Style Transfer Method**|Xiaoteng Zhou et.al.|[2108.12072](http://arxiv.org/abs/2108.12072)|null|
 |**2021-08-26**|**Efficient Joint Object Matching via Linear Programming**|Antonio De Rosa et.al.|[2108.11911](http://arxiv.org/abs/2108.11911)|null|
 
-<p align=right>(<a href=#updated-on-20240422>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240423>back to top</a>)</p>
 
 ## NeRF
 
@@ -2366,7 +2366,7 @@
 |**2022-07-29**|**Neural Density-Distance Fields**|Itsuki Ueda et.al.|[2207.14455](http://arxiv.org/abs/2207.14455)|**[link](https://github.com/ueda0319/neddf)**|
 |**2022-07-27**|**Is Attention All NeRF Needs?**|Mukund Varma T et.al.|[2207.13298](http://arxiv.org/abs/2207.13298)|null|
 
-<p align=right>(<a href=#updated-on-20240422>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240423>back to top</a>)</p>
 
 ## Image Fusion
 
@@ -2378,7 +2378,7 @@
 |**2024-04-17**|**SSDiff: Spatial-spectral Integrated Diffusion Model for Remote Sensing Pansharpening**|Yu Zhong et.al.|[2404.11537](http://arxiv.org/abs/2404.11537)|null|
 |**2024-04-17**|**MaeFuse: Transferring Omni Features with Pretrained Masked Autoencoders for Infrared and Visible Image Fusion via Guided Training**|Jiayang Li et.al.|[2404.11016](http://arxiv.org/abs/2404.11016)|null|
 |**2024-04-16**|**ReWiTe: Realistic Wide-angle and Telephoto Dual Camera Fusion Dataset via Beam Splitter Camera Rig**|Chunli Peng et.al.|[2404.10584](http://arxiv.org/abs/2404.10584)|null|
-|**2024-04-15**|**FusionMamba: Dynamic Feature Enhancement for Multimodal Image Fusion with Mamba**|Xinyu Xie et.al.|[2404.09498](http://arxiv.org/abs/2404.09498)|null|
+|**2024-04-20**|**FusionMamba: Dynamic Feature Enhancement for Multimodal Image Fusion with Mamba**|Xinyu Xie et.al.|[2404.09498](http://arxiv.org/abs/2404.09498)|null|
 |**2024-04-14**|**A Novel State Space Model with Local Enhancement and State Sharing for Image Fusion**|Zihan Cao et.al.|[2404.09293](http://arxiv.org/abs/2404.09293)|null|
 |**2024-04-12**|**MambaDFuse: A Mamba-based Dual-phase Model for Multi-modality Image Fusion**|Zhe Li et.al.|[2404.08406](http://arxiv.org/abs/2404.08406)|null|
 |**2024-04-11**|**FusionMamba: Efficient Image Fusion with State Space Model**|Siran Peng et.al.|[2404.07932](http://arxiv.org/abs/2404.07932)|null|
@@ -2429,14 +2429,14 @@
 |**2023-11-01**|**Graph Representation Learning for Infrared and Visible Image Fusion**|Jing Li et.al.|[2311.00291](http://arxiv.org/abs/2311.00291)|null|
 |**2023-10-24**|**ShadowSense: Unsupervised Domain Adaptation and Feature Fusion for Shadow-Agnostic Tree Crown Detection from RGB-Thermal Drone Imagery**|Rudraksh Kapil et.al.|[2310.16212](http://arxiv.org/abs/2310.16212)|**[link](https://github.com/rudrakshkapil/shadowsense)**|
 
-<p align=right>(<a href=#updated-on-20240422>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240423>back to top</a>)</p>
 
 ## Image Registration
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2024-04-15**|**Deformable MRI Sequence Registration for AI-based Prostate Cancer Diagnosis**|Alessa Hering et.al.|[2404.09666](http://arxiv.org/abs/2404.09666)|null|
-|**2024-04-15**|**FusionMamba: Dynamic Feature Enhancement for Multimodal Image Fusion with Mamba**|Xinyu Xie et.al.|[2404.09498](http://arxiv.org/abs/2404.09498)|null|
+|**2024-04-20**|**FusionMamba: Dynamic Feature Enhancement for Multimodal Image Fusion with Mamba**|Xinyu Xie et.al.|[2404.09498](http://arxiv.org/abs/2404.09498)|null|
 |**2024-04-14**|**Increasing SLAM Pose Accuracy by Ground-to-Satellite Image Registration**|Yanhao Zhang et.al.|[2404.09169](http://arxiv.org/abs/2404.09169)|null|
 |**2024-04-14**|**VMambaMorph: a Multi-Modality Deformable Image Registration Framework based on Visual State Space Model with Cross-Scan Module**|Ziyang Wang et.al.|[2404.05105](http://arxiv.org/abs/2404.05105)|**[link](https://github.com/ziyangwang007/vmambamorph)**|
 |**2024-04-05**|**A comprehensive liver CT landmark pair dataset for evaluating deformable image registration algorithms**|Zhendong Zhang et.al.|[2404.04427](http://arxiv.org/abs/2404.04427)|null|
@@ -2499,7 +2499,7 @@
 |**2023-11-25**|**SAME++: A Self-supervised Anatomical eMbeddings Enhanced medical image registration framework using stable sampling and regularized transformation**|Lin Tian et.al.|[2311.14986](http://arxiv.org/abs/2311.14986)|**[link](https://github.com/alibaba-damo-academy/same)**|
 |**2023-11-24**|**Deformable multi-modal image registration for the correlation between optical measurements and histology images**|Lianne Feenstra et.al.|[2311.14414](http://arxiv.org/abs/2311.14414)|null|
 
-<p align=right>(<a href=#updated-on-20240422>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240423>back to top</a>)</p>
 
 ## Image Registration and Fusion
 
@@ -2511,7 +2511,7 @@
 |**2024-04-17**|**SSDiff: Spatial-spectral Integrated Diffusion Model for Remote Sensing Pansharpening**|Yu Zhong et.al.|[2404.11537](http://arxiv.org/abs/2404.11537)|null|
 |**2024-04-17**|**MaeFuse: Transferring Omni Features with Pretrained Masked Autoencoders for Infrared and Visible Image Fusion via Guided Training**|Jiayang Li et.al.|[2404.11016](http://arxiv.org/abs/2404.11016)|null|
 |**2024-04-16**|**ReWiTe: Realistic Wide-angle and Telephoto Dual Camera Fusion Dataset via Beam Splitter Camera Rig**|Chunli Peng et.al.|[2404.10584](http://arxiv.org/abs/2404.10584)|null|
-|**2024-04-15**|**FusionMamba: Dynamic Feature Enhancement for Multimodal Image Fusion with Mamba**|Xinyu Xie et.al.|[2404.09498](http://arxiv.org/abs/2404.09498)|null|
+|**2024-04-20**|**FusionMamba: Dynamic Feature Enhancement for Multimodal Image Fusion with Mamba**|Xinyu Xie et.al.|[2404.09498](http://arxiv.org/abs/2404.09498)|null|
 |**2024-04-14**|**A Novel State Space Model with Local Enhancement and State Sharing for Image Fusion**|Zihan Cao et.al.|[2404.09293](http://arxiv.org/abs/2404.09293)|null|
 |**2024-04-12**|**MambaDFuse: A Mamba-based Dual-phase Model for Multi-modality Image Fusion**|Zhe Li et.al.|[2404.08406](http://arxiv.org/abs/2404.08406)|null|
 |**2024-04-11**|**FusionMamba: Efficient Image Fusion with State Space Model**|Siran Peng et.al.|[2404.07932](http://arxiv.org/abs/2404.07932)|null|
@@ -2562,7 +2562,7 @@
 |**2023-11-01**|**Graph Representation Learning for Infrared and Visible Image Fusion**|Jing Li et.al.|[2311.00291](http://arxiv.org/abs/2311.00291)|null|
 |**2023-10-24**|**ShadowSense: Unsupervised Domain Adaptation and Feature Fusion for Shadow-Agnostic Tree Crown Detection from RGB-Thermal Drone Imagery**|Rudraksh Kapil et.al.|[2310.16212](http://arxiv.org/abs/2310.16212)|**[link](https://github.com/rudrakshkapil/shadowsense)**|
 
-<p align=right>(<a href=#updated-on-20240422>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240423>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors

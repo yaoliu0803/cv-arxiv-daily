@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.04.22
+## Updated on 2024.04.23
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -2355,7 +2355,7 @@ layout: default
 |**2024-04-17**|**SSDiff: Spatial-spectral Integrated Diffusion Model for Remote Sensing Pansharpening**|Yu Zhong et.al.|[2404.11537](http://arxiv.org/abs/2404.11537)|null|
 |**2024-04-17**|**MaeFuse: Transferring Omni Features with Pretrained Masked Autoencoders for Infrared and Visible Image Fusion via Guided Training**|Jiayang Li et.al.|[2404.11016](http://arxiv.org/abs/2404.11016)|null|
 |**2024-04-16**|**ReWiTe: Realistic Wide-angle and Telephoto Dual Camera Fusion Dataset via Beam Splitter Camera Rig**|Chunli Peng et.al.|[2404.10584](http://arxiv.org/abs/2404.10584)|null|
-|**2024-04-15**|**FusionMamba: Dynamic Feature Enhancement for Multimodal Image Fusion with Mamba**|Xinyu Xie et.al.|[2404.09498](http://arxiv.org/abs/2404.09498)|null|
+|**2024-04-20**|**FusionMamba: Dynamic Feature Enhancement for Multimodal Image Fusion with Mamba**|Xinyu Xie et.al.|[2404.09498](http://arxiv.org/abs/2404.09498)|null|
 |**2024-04-14**|**A Novel State Space Model with Local Enhancement and State Sharing for Image Fusion**|Zihan Cao et.al.|[2404.09293](http://arxiv.org/abs/2404.09293)|null|
 |**2024-04-12**|**MambaDFuse: A Mamba-based Dual-phase Model for Multi-modality Image Fusion**|Zhe Li et.al.|[2404.08406](http://arxiv.org/abs/2404.08406)|null|
 |**2024-04-11**|**FusionMamba: Efficient Image Fusion with State Space Model**|Siran Peng et.al.|[2404.07932](http://arxiv.org/abs/2404.07932)|null|
@@ -2411,7 +2411,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-04-15**|**Deformable MRI Sequence Registration for AI-based Prostate Cancer Diagnosis**|Alessa Hering et.al.|[2404.09666](http://arxiv.org/abs/2404.09666)|null|
-|**2024-04-15**|**FusionMamba: Dynamic Feature Enhancement for Multimodal Image Fusion with Mamba**|Xinyu Xie et.al.|[2404.09498](http://arxiv.org/abs/2404.09498)|null|
+|**2024-04-20**|**FusionMamba: Dynamic Feature Enhancement for Multimodal Image Fusion with Mamba**|Xinyu Xie et.al.|[2404.09498](http://arxiv.org/abs/2404.09498)|null|
 |**2024-04-14**|**Increasing SLAM Pose Accuracy by Ground-to-Satellite Image Registration**|Yanhao Zhang et.al.|[2404.09169](http://arxiv.org/abs/2404.09169)|null|
 |**2024-04-14**|**VMambaMorph: a Multi-Modality Deformable Image Registration Framework based on Visual State Space Model with Cross-Scan Module**|Ziyang Wang et.al.|[2404.05105](http://arxiv.org/abs/2404.05105)|**[link](https://github.com/ziyangwang007/vmambamorph)**|
 |**2024-04-05**|**A comprehensive liver CT landmark pair dataset for evaluating deformable image registration algorithms**|Zhendong Zhang et.al.|[2404.04427](http://arxiv.org/abs/2404.04427)|null|
@@ -2484,7 +2484,7 @@ layout: default
 |**2024-04-17**|**SSDiff: Spatial-spectral Integrated Diffusion Model for Remote Sensing Pansharpening**|Yu Zhong et.al.|[2404.11537](http://arxiv.org/abs/2404.11537)|null|
 |**2024-04-17**|**MaeFuse: Transferring Omni Features with Pretrained Masked Autoencoders for Infrared and Visible Image Fusion via Guided Training**|Jiayang Li et.al.|[2404.11016](http://arxiv.org/abs/2404.11016)|null|
 |**2024-04-16**|**ReWiTe: Realistic Wide-angle and Telephoto Dual Camera Fusion Dataset via Beam Splitter Camera Rig**|Chunli Peng et.al.|[2404.10584](http://arxiv.org/abs/2404.10584)|null|
-|**2024-04-15**|**FusionMamba: Dynamic Feature Enhancement for Multimodal Image Fusion with Mamba**|Xinyu Xie et.al.|[2404.09498](http://arxiv.org/abs/2404.09498)|null|
+|**2024-04-20**|**FusionMamba: Dynamic Feature Enhancement for Multimodal Image Fusion with Mamba**|Xinyu Xie et.al.|[2404.09498](http://arxiv.org/abs/2404.09498)|null|
 |**2024-04-14**|**A Novel State Space Model with Local Enhancement and State Sharing for Image Fusion**|Zihan Cao et.al.|[2404.09293](http://arxiv.org/abs/2404.09293)|null|
 |**2024-04-12**|**MambaDFuse: A Mamba-based Dual-phase Model for Multi-modality Image Fusion**|Zhe Li et.al.|[2404.08406](http://arxiv.org/abs/2404.08406)|null|
 |**2024-04-11**|**FusionMamba: Efficient Image Fusion with State Space Model**|Siran Peng et.al.|[2404.07932](http://arxiv.org/abs/2404.07932)|null|
