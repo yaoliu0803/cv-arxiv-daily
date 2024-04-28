@@ -2448,7 +2448,7 @@
 |**2024-04-25**|**Image registration based automated lesion correspondence pipeline for longitudinal CT data**|Subrata Mukherjee et.al.|[2404.16544](http://arxiv.org/abs/2404.16544)|null|
 |**2024-04-24**|**RetinaRegNet: A Versatile Approach for Retinal Image Registration**|Vishal Balaji Sivaraman et.al.|[2404.16017](http://arxiv.org/abs/2404.16017)|null|
 |**2024-04-24**|**A Survey on Visual Mamba**|Hanwei Zhang et.al.|[2404.15956](http://arxiv.org/abs/2404.15956)|null|
-|**2024-04-19**|**DeeperHistReg: Robust Whole Slide Images Registration Framework**|Marek Wodzinski et.al.|[2404.14434](http://arxiv.org/abs/2404.14434)|null|
+|**2024-04-19**|**DeeperHistReg: Robust Whole Slide Images Registration Framework**|Marek Wodzinski et.al.|[2404.14434](http://arxiv.org/abs/2404.14434)|**[link](https://github.com/mwod/deeperhistreg)**|
 |**2024-04-19**|**RegWSI: Whole Slide Image Registration using Combined Deep Feature- and Intensity-Based Methods: Winner of the ACROBAT 2023 Challenge**|Marek Wodzinski et.al.|[2404.13108](http://arxiv.org/abs/2404.13108)|null|
 |**2024-04-15**|**Deformable MRI Sequence Registration for AI-based Prostate Cancer Diagnosis**|Alessa Hering et.al.|[2404.09666](http://arxiv.org/abs/2404.09666)|null|
 |**2024-04-20**|**FusionMamba: Dynamic Feature Enhancement for Multimodal Image Fusion with Mamba**|Xinyu Xie et.al.|[2404.09498](http://arxiv.org/abs/2404.09498)|null|
