@@ -2376,6 +2376,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-04-26**|**Simultaneous Tri-Modal Medical Image Fusion and Super-Resolution using Conditional Diffusion Model**|Yushen Xu et.al.|[2404.17357](http://arxiv.org/abs/2404.17357)|null|
 |**2024-04-24**|**HDDGAN: A Heterogeneous Dual-Discriminator Generative Adversarial Network for Infrared and Visible Image Fusion**|Guosheng Lu et.al.|[2404.15992](http://arxiv.org/abs/2404.15992)|null|
 |**2024-04-23**|**Fourier-enhanced Implicit Neural Fusion Network for Multispectral and Hyperspectral Image Fusion**|Yu-Jie Liang et.al.|[2404.15174](http://arxiv.org/abs/2404.15174)|null|
 |**2024-04-22**|**SwinFuSR: an image fusion-inspired model for RGB-guided thermal image super-resolution**|Cyprien Arnold et.al.|[2404.14533](http://arxiv.org/abs/2404.14533)|**[link](https://github.com/visioniclab/swinfusr)**|
@@ -2520,6 +2521,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-04-26**|**Simultaneous Tri-Modal Medical Image Fusion and Super-Resolution using Conditional Diffusion Model**|Yushen Xu et.al.|[2404.17357](http://arxiv.org/abs/2404.17357)|null|
 |**2024-04-24**|**HDDGAN: A Heterogeneous Dual-Discriminator Generative Adversarial Network for Infrared and Visible Image Fusion**|Guosheng Lu et.al.|[2404.15992](http://arxiv.org/abs/2404.15992)|null|
 |**2024-04-23**|**Fourier-enhanced Implicit Neural Fusion Network for Multispectral and Hyperspectral Image Fusion**|Yu-Jie Liang et.al.|[2404.15174](http://arxiv.org/abs/2404.15174)|null|
 |**2024-04-22**|**SwinFuSR: an image fusion-inspired model for RGB-guided thermal image super-resolution**|Cyprien Arnold et.al.|[2404.14533](http://arxiv.org/abs/2404.14533)|**[link](https://github.com/visioniclab/swinfusr)**|
