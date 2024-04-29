@@ -1703,7 +1703,7 @@
 |**2023-12-08**|**Learn to Optimize Denoising Scores for 3D Generation: A Unified and Improved Diffusion Prior on NeRF and 3D Gaussian Splatting**|Xiaofeng Yang et.al.|[2312.04820](http://arxiv.org/abs/2312.04820)|null|
 |**2023-12-08**|**Reality's Canvas, Language's Brush: Crafting 3D Avatars from Monocular Video**|Yuchen Rao et.al.|[2312.04784](http://arxiv.org/abs/2312.04784)|null|
 |**2023-12-07**|**MuRF: Multi-Baseline Radiance Fields**|Haofei Xu et.al.|[2312.04565](http://arxiv.org/abs/2312.04565)|**[link](https://github.com/autonomousvision/murf)**|
-|**2023-12-07**|**EAGLES: Efficient Accelerated 3D Gaussians with Lightweight EncodingS**|Sharath Girish et.al.|[2312.04564](http://arxiv.org/abs/2312.04564)|null|
+|**2023-12-07**|**EAGLES: Efficient Accelerated 3D Gaussians with Lightweight EncodingS**|Sharath Girish et.al.|[2312.04564](http://arxiv.org/abs/2312.04564)|**[link](https://github.com/sharath-girish/efficientgaussian)**|
 |**2023-12-07**|**Correspondences of the Third Kind: Camera Pose Estimation from Object Reflection**|Kohei Yamashita et.al.|[2312.04527](http://arxiv.org/abs/2312.04527)|null|
 |**2023-12-07**|**Multi-View Unsupervised Image Generation with Cross Attention Guidance**|Llukman Cerkezi et.al.|[2312.04337](http://arxiv.org/abs/2312.04337)|null|
 |**2023-12-07**|**Towards 4D Human Video Stylization**|Tiantian Wang et.al.|[2312.04143](http://arxiv.org/abs/2312.04143)|**[link](https://github.com/tiantianwang/4d_video_stylization)**|
@@ -2388,7 +2388,7 @@
 |**2024-04-16**|**ReWiTe: Realistic Wide-angle and Telephoto Dual Camera Fusion Dataset via Beam Splitter Camera Rig**|Chunli Peng et.al.|[2404.10584](http://arxiv.org/abs/2404.10584)|null|
 |**2024-04-20**|**FusionMamba: Dynamic Feature Enhancement for Multimodal Image Fusion with Mamba**|Xinyu Xie et.al.|[2404.09498](http://arxiv.org/abs/2404.09498)|null|
 |**2024-04-14**|**A Novel State Space Model with Local Enhancement and State Sharing for Image Fusion**|Zihan Cao et.al.|[2404.09293](http://arxiv.org/abs/2404.09293)|null|
-|**2024-04-12**|**MambaDFuse: A Mamba-based Dual-phase Model for Multi-modality Image Fusion**|Zhe Li et.al.|[2404.08406](http://arxiv.org/abs/2404.08406)|null|
+|**2024-04-12**|**MambaDFuse: A Mamba-based Dual-phase Model for Multi-modality Image Fusion**|Zhe Li et.al.|[2404.08406](http://arxiv.org/abs/2404.08406)|**[link](https://github.com/Lizhe1228/MambaDFuse)**|
 |**2024-04-11**|**FusionMamba: Efficient Image Fusion with State Space Model**|Siran Peng et.al.|[2404.07932](http://arxiv.org/abs/2404.07932)|null|
 |**2024-04-10**|**Little Strokes Fell Great Oaks: Boosting the Hierarchical Features for Multi-exposure Image Fusion**|Pan Mu et.al.|[2404.06033](http://arxiv.org/abs/2404.06033)|**[link](https://github.com/zhiyingdu/bhfmef)**|
 |**2024-04-01**|**3MOS: Multi-sources, Multi-resolutions, and Multi-scenes dataset for Optical-SAR image matching**|Yibin Ye et.al.|[2404.00838](http://arxiv.org/abs/2404.00838)|null|
@@ -2446,7 +2446,7 @@
 |**2024-04-25**|**Transformer-Based Local Feature Matching for Multimodal Image Registration**|Remi Delaunay et.al.|[2404.16802](http://arxiv.org/abs/2404.16802)|null|
 |**2024-04-25**|**ConKeD++ -- Improving descriptor learning for retinal image registration: A comprehensive study of contrastive losses**|David Rivas-Villar et.al.|[2404.16773](http://arxiv.org/abs/2404.16773)|null|
 |**2024-04-25**|**Image registration based automated lesion correspondence pipeline for longitudinal CT data**|Subrata Mukherjee et.al.|[2404.16544](http://arxiv.org/abs/2404.16544)|null|
-|**2024-04-24**|**RetinaRegNet: A Versatile Approach for Retinal Image Registration**|Vishal Balaji Sivaraman et.al.|[2404.16017](http://arxiv.org/abs/2404.16017)|null|
+|**2024-04-24**|**RetinaRegNet: A Versatile Approach for Retinal Image Registration**|Vishal Balaji Sivaraman et.al.|[2404.16017](http://arxiv.org/abs/2404.16017)|**[link](https://github.com/mirthAI/RetinaRegNet)**|
 |**2024-04-26**|**A Survey on Visual Mamba**|Hanwei Zhang et.al.|[2404.15956](http://arxiv.org/abs/2404.15956)|null|
 |**2024-04-19**|**DeeperHistReg: Robust Whole Slide Images Registration Framework**|Marek Wodzinski et.al.|[2404.14434](http://arxiv.org/abs/2404.14434)|**[link](https://github.com/mwod/deeperhistreg)**|
 |**2024-04-26**|**RegWSI: Whole Slide Image Registration using Combined Deep Feature- and Intensity-Based Methods: Winner of the ACROBAT 2023 Challenge**|Marek Wodzinski et.al.|[2404.13108](http://arxiv.org/abs/2404.13108)|null|
@@ -2532,7 +2532,7 @@
 |**2024-04-16**|**ReWiTe: Realistic Wide-angle and Telephoto Dual Camera Fusion Dataset via Beam Splitter Camera Rig**|Chunli Peng et.al.|[2404.10584](http://arxiv.org/abs/2404.10584)|null|
 |**2024-04-20**|**FusionMamba: Dynamic Feature Enhancement for Multimodal Image Fusion with Mamba**|Xinyu Xie et.al.|[2404.09498](http://arxiv.org/abs/2404.09498)|null|
 |**2024-04-14**|**A Novel State Space Model with Local Enhancement and State Sharing for Image Fusion**|Zihan Cao et.al.|[2404.09293](http://arxiv.org/abs/2404.09293)|null|
-|**2024-04-12**|**MambaDFuse: A Mamba-based Dual-phase Model for Multi-modality Image Fusion**|Zhe Li et.al.|[2404.08406](http://arxiv.org/abs/2404.08406)|null|
+|**2024-04-12**|**MambaDFuse: A Mamba-based Dual-phase Model for Multi-modality Image Fusion**|Zhe Li et.al.|[2404.08406](http://arxiv.org/abs/2404.08406)|**[link](https://github.com/Lizhe1228/MambaDFuse)**|
 |**2024-04-11**|**FusionMamba: Efficient Image Fusion with State Space Model**|Siran Peng et.al.|[2404.07932](http://arxiv.org/abs/2404.07932)|null|
 |**2024-04-10**|**Little Strokes Fell Great Oaks: Boosting the Hierarchical Features for Multi-exposure Image Fusion**|Pan Mu et.al.|[2404.06033](http://arxiv.org/abs/2404.06033)|**[link](https://github.com/zhiyingdu/bhfmef)**|
 |**2024-04-01**|**3MOS: Multi-sources, Multi-resolutions, and Multi-scenes dataset for Optical-SAR image matching**|Yibin Ye et.al.|[2404.00838](http://arxiv.org/abs/2404.00838)|null|
