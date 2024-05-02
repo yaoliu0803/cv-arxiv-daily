@@ -2425,6 +2425,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-01**|**Continuous sPatial-Temporal Deformable Image Registration (CPT-DIR) for motion modelling in radiotherapy: beyond classic voxel-based methods**|Xia Li et.al.|[2405.00430](http://arxiv.org/abs/2405.00430)|null|
 |**2024-04-28**|**An automated pipeline for computation and analysis of functional ventilation and perfusion lung MRI with matrix pencil decomposition: TrueLung**|Orso Pusterla et.al.|[2404.18275](http://arxiv.org/abs/2404.18275)|null|
 |**2024-04-26**|**Attention-aware non-rigid image registration for accelerated MR imaging**|Aya Ghoul et.al.|[2404.17621](http://arxiv.org/abs/2404.17621)|**[link](https://github.com/lab-midas/gmaraft)**|
 |**2024-04-25**|**Transformer-Based Local Feature Matching for Multimodal Image Registration**|Remi Delaunay et.al.|[2404.16802](http://arxiv.org/abs/2404.16802)|null|
