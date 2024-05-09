@@ -1210,6 +1210,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-08**|**Unsupervised Skin Feature Tracking with Deep Neural Networks**|Jose Chang et.al.|[2405.04943](http://arxiv.org/abs/2405.04943)|null|
+|**2024-05-07**|**A Self-Supervised Method for Body Part Segmentation and Keypoint Detection of Rat Images**|László Kopácsi et.al.|[2405.04650](http://arxiv.org/abs/2405.04650)|null|
 |**2024-04-30**|**A Light-weight Transformer-based Self-supervised Matching Network for Heterogeneous Images**|Wang Zhang et.al.|[2404.19311](http://arxiv.org/abs/2404.19311)|null|
 |**2024-04-25**|**Adaptive Local Binary Pattern: A Novel Feature Descriptor for Enhanced Analysis of Kidney Abnormalities in CT Scan Images using ensemble based Machine Learning Approach**|Tahmim Hossain et.al.|[2404.14560](http://arxiv.org/abs/2404.14560)|null|
 |**2024-04-19**|**SkelFormer: Markerless 3D Pose and Shape Estimation using Skeletal Transformers**|Vandad Davoodnia et.al.|[2404.12625](http://arxiv.org/abs/2404.12625)|null|
@@ -2425,6 +2427,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-08**|**Unsupervised Skin Feature Tracking with Deep Neural Networks**|Jose Chang et.al.|[2405.04943](http://arxiv.org/abs/2405.04943)|null|
 |**2024-05-04**|**Diffeomorphic Transformer-based Abdomen MRI-CT Deformable Image Registration**|Yang Lei et.al.|[2405.02692](http://arxiv.org/abs/2405.02692)|null|
 |**2024-05-01**|**Continuous sPatial-Temporal Deformable Image Registration (CPT-DIR) for motion modelling in radiotherapy: beyond classic voxel-based methods**|Xia Li et.al.|[2405.00430](http://arxiv.org/abs/2405.00430)|null|
 |**2024-04-28**|**An automated pipeline for computation and analysis of functional ventilation and perfusion lung MRI with matrix pencil decomposition: TrueLung**|Orso Pusterla et.al.|[2404.18275](http://arxiv.org/abs/2404.18275)|null|
@@ -2567,6 +2570,21 @@ layout: default
 |**2023-11-03**|**Bridging the Gap between Multi-focus and Multi-modal: A Focused Integration Framework for Multi-modal Image Fusion**|Xilai Li et.al.|[2311.01886](http://arxiv.org/abs/2311.01886)|**[link](https://github.com/ixilai/mfif-mmif)**|
 |**2023-11-01**|**Graph Representation Learning for Infrared and Visible Image Fusion**|Jing Li et.al.|[2311.00291](http://arxiv.org/abs/2311.00291)|null|
 |**2023-10-24**|**ShadowSense: Unsupervised Domain Adaptation and Feature Fusion for Shadow-Agnostic Tree Crown Detection from RGB-Thermal Drone Imagery**|Rudraksh Kapil et.al.|[2310.16212](http://arxiv.org/abs/2310.16212)|**[link](https://github.com/rudrakshkapil/shadowsense)**|
+
+## gaussian convolution
+
+| Publish Date | Title | Authors | PDF | Code |
+|:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-08**|**Small ball probability for multiple singular values of symmetric random matrices**|Yi Han et.al.|[2405.04999](http://arxiv.org/abs/2405.04999)|null|
+|**2024-04-29**|**Learning Mixtures of Gaussians Using Diffusion Models**|Khashayar Gatmiry et.al.|[2404.18869](http://arxiv.org/abs/2404.18869)|null|
+|**2024-02-14**|**The Thousand-Pulsar-Array programme on MeerKAT -- XII. Discovery of long-term pulse profile evolution in 7 young pulsars**|A. Basu et.al.|[2402.09065](http://arxiv.org/abs/2402.09065)|null|
+|**2024-05-02**|**Diffusive Gibbs Sampling**|Wenlin Chen et.al.|[2402.03008](http://arxiv.org/abs/2402.03008)|**[link](https://github.com/Wenlin-Chen/DiGS)**|
+|**2023-10-30**|**Complex-valued Wigner entropy of a quantum state**|Nicolas J. Cerf et.al.|[2310.19296](http://arxiv.org/abs/2310.19296)|null|
+|**2023-09-10**|**A Dual-space Multilevel Kernel-splitting Framework for Discrete and Continuous Convolution**|Shidong Jiang et.al.|[2308.00292](http://arxiv.org/abs/2308.00292)|null|
+|**2023-06-29**|**Comparing Poisson and Gaussian channels (extended)**|Anzo Teh et.al.|[2306.16735](http://arxiv.org/abs/2306.16735)|null|
+|**2023-12-13**|**Fit Like You Sample: Sample-Efficient Generalized Score Matching from Fast Mixing Diffusions**|Yilong Qin et.al.|[2306.09332](http://arxiv.org/abs/2306.09332)|null|
+|**2023-05-11**|**High-Dimensional Smoothed Entropy Estimation via Dimensionality Reduction**|Kristjan Greenewald et.al.|[2305.04712](http://arxiv.org/abs/2305.04712)|null|
+|**2022-11-01**|**Beyond the Best: Estimating Distribution Functionals in Infinite-Armed Bandits**|Yifei Wang et.al.|[2211.01743](http://arxiv.org/abs/2211.01743)|null|
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
