@@ -26,6 +26,8 @@ keywords:
         filters: ["Image Fusion", "Image Registration and Image Fusion", "Multimodal Image Fusion", "Cross-modal Image", "Multimodal biomedical image"]
     "Keypoint Detection":
         filters: ["Keypoint Detection", "Feature Descriptor"]
+    "gaussian convolution":
+        filters: ["Gaussian Convolution"]
     "Image Matching":
         filters: ["Image Matching", "Keypoint Matching", 
                   "Line Segment Detection", "Local Feature Matching"]
