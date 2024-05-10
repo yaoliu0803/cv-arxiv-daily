@@ -2388,6 +2388,7 @@
 |**2024-04-26**|**Simultaneous Tri-Modal Medical Image Fusion and Super-Resolution using Conditional Diffusion Model**|Yushen Xu et.al.|[2404.17357](http://arxiv.org/abs/2404.17357)|null|
 |**2024-04-24**|**HDDGAN: A Heterogeneous Dual-Discriminator Generative Adversarial Network for Infrared and Visible Image Fusion**|Guosheng Lu et.al.|[2404.15992](http://arxiv.org/abs/2404.15992)|null|
 |**2024-04-23**|**Fourier-enhanced Implicit Neural Fusion Network for Multispectral and Hyperspectral Image Fusion**|Yu-Jie Liang et.al.|[2404.15174](http://arxiv.org/abs/2404.15174)|null|
+|**2024-05-09**|**A Comprehensive Survey for Hyperspectral Image Classification: The Evolution from Conventional to Transformers**|Muhammad Ahmad et.al.|[2404.14955](http://arxiv.org/abs/2404.14955)|**[link](https://github.com/mahmad00/conventional-to-transformer-for-hyperspectral-image-classification-survey-2024)**|
 |**2024-04-22**|**SwinFuSR: an image fusion-inspired model for RGB-guided thermal image super-resolution**|Cyprien Arnold et.al.|[2404.14533](http://arxiv.org/abs/2404.14533)|**[link](https://github.com/visioniclab/swinfusr)**|
 |**2024-04-19**|**Single-sample image-fusion upsampling of fluorescence lifetime images**|Valentin Kapitány et.al.|[2404.13102](http://arxiv.org/abs/2404.13102)|null|
 |**2024-04-19**|**3D Multi-frame Fusion for Video Stabilization**|Zhan Peng et.al.|[2404.12887](http://arxiv.org/abs/2404.12887)|null|
@@ -2540,6 +2541,7 @@
 |**2024-04-26**|**Simultaneous Tri-Modal Medical Image Fusion and Super-Resolution using Conditional Diffusion Model**|Yushen Xu et.al.|[2404.17357](http://arxiv.org/abs/2404.17357)|null|
 |**2024-04-24**|**HDDGAN: A Heterogeneous Dual-Discriminator Generative Adversarial Network for Infrared and Visible Image Fusion**|Guosheng Lu et.al.|[2404.15992](http://arxiv.org/abs/2404.15992)|null|
 |**2024-04-23**|**Fourier-enhanced Implicit Neural Fusion Network for Multispectral and Hyperspectral Image Fusion**|Yu-Jie Liang et.al.|[2404.15174](http://arxiv.org/abs/2404.15174)|null|
+|**2024-05-09**|**A Comprehensive Survey for Hyperspectral Image Classification: The Evolution from Conventional to Transformers**|Muhammad Ahmad et.al.|[2404.14955](http://arxiv.org/abs/2404.14955)|**[link](https://github.com/mahmad00/conventional-to-transformer-for-hyperspectral-image-classification-survey-2024)**|
 |**2024-04-22**|**SwinFuSR: an image fusion-inspired model for RGB-guided thermal image super-resolution**|Cyprien Arnold et.al.|[2404.14533](http://arxiv.org/abs/2404.14533)|**[link](https://github.com/visioniclab/swinfusr)**|
 |**2024-04-19**|**Single-sample image-fusion upsampling of fluorescence lifetime images**|Valentin Kapitány et.al.|[2404.13102](http://arxiv.org/abs/2404.13102)|null|
 |**2024-04-19**|**3D Multi-frame Fusion for Video Stabilization**|Zhan Peng et.al.|[2404.12887](http://arxiv.org/abs/2404.12887)|null|
