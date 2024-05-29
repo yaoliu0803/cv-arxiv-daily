@@ -2393,6 +2393,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-05-28**|**Hyperspectral and multispectral image fusion with arbitrary resolution through self-supervised representations**|Ting Wang et.al.|[2405.17818](http://arxiv.org/abs/2405.17818)|null|
 |**2024-04-30**|**A Light-weight Transformer-based Self-supervised Matching Network for Heterogeneous Images**|Wang Zhang et.al.|[2404.19311](http://arxiv.org/abs/2404.19311)|null|
 |**2024-04-27**|**MMA-UNet: A Multi-Modal Asymmetric UNet Architecture for Infrared and Visible Image Fusion**|Jingxue Huang et.al.|[2404.17747](http://arxiv.org/abs/2404.17747)|null|
 |**2024-05-13**|**Simultaneous Tri-Modal Medical Image Fusion and Super-Resolution using Conditional Diffusion Model**|Yushen Xu et.al.|[2404.17357](http://arxiv.org/abs/2404.17357)|null|
@@ -2464,7 +2465,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2024-05-27**|**CARL: A Framework for Equivariant Image Registration**|Hastings Greer et.al.|[2405.16738](http://arxiv.org/abs/2405.16738)|null|
+|**2024-05-28**|**CARL: A Framework for Equivariant Image Registration**|Hastings Greer et.al.|[2405.16738](http://arxiv.org/abs/2405.16738)|null|
 |**2024-05-22**|**Kinematics of Abdominal Aortic Aneurysms**|Mostafa Jamshidian et.al.|[2405.13377](http://arxiv.org/abs/2405.13377)|null|
 |**2024-05-22**|**Single color virtual H&E staining with In-and-Out Net**|Mengkun Chen et.al.|[2405.13278](http://arxiv.org/abs/2405.13278)|null|
 |**2024-05-21**|**On Image Registration and Subpixel Estimation**|Serap A. Savari et.al.|[2405.12927](http://arxiv.org/abs/2405.12927)|null|
@@ -2558,6 +2559,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-05-28**|**Hyperspectral and multispectral image fusion with arbitrary resolution through self-supervised representations**|Ting Wang et.al.|[2405.17818](http://arxiv.org/abs/2405.17818)|null|
 |**2024-04-30**|**A Light-weight Transformer-based Self-supervised Matching Network for Heterogeneous Images**|Wang Zhang et.al.|[2404.19311](http://arxiv.org/abs/2404.19311)|null|
 |**2024-04-27**|**MMA-UNet: A Multi-Modal Asymmetric UNet Architecture for Infrared and Visible Image Fusion**|Jingxue Huang et.al.|[2404.17747](http://arxiv.org/abs/2404.17747)|null|
 |**2024-05-13**|**Simultaneous Tri-Modal Medical Image Fusion and Super-Resolution using Conditional Diffusion Model**|Yushen Xu et.al.|[2404.17357](http://arxiv.org/abs/2404.17357)|null|
