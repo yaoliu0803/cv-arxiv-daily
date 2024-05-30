@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.05.29
+## Updated on 2024.05.30
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -2605,7 +2605,7 @@ layout: default
 |**2024-05-14**|**Small ball probability for multiple singular values of symmetric random matrices**|Yi Han et.al.|[2405.04999](http://arxiv.org/abs/2405.04999)|null|
 |**2024-04-29**|**Learning Mixtures of Gaussians Using Diffusion Models**|Khashayar Gatmiry et.al.|[2404.18869](http://arxiv.org/abs/2404.18869)|null|
 |**2024-02-14**|**The Thousand-Pulsar-Array programme on MeerKAT -- XII. Discovery of long-term pulse profile evolution in 7 young pulsars**|A. Basu et.al.|[2402.09065](http://arxiv.org/abs/2402.09065)|null|
-|**2024-05-24**|**Diffusive Gibbs Sampling**|Wenlin Chen et.al.|[2402.03008](http://arxiv.org/abs/2402.03008)|**[link](https://github.com/Wenlin-Chen/DiGS)**|
+|**2024-05-29**|**Diffusive Gibbs Sampling**|Wenlin Chen et.al.|[2402.03008](http://arxiv.org/abs/2402.03008)|**[link](https://github.com/Wenlin-Chen/DiGS)**|
 |**2023-10-30**|**Complex-valued Wigner entropy of a quantum state**|Nicolas J. Cerf et.al.|[2310.19296](http://arxiv.org/abs/2310.19296)|null|
 |**2023-09-10**|**A Dual-space Multilevel Kernel-splitting Framework for Discrete and Continuous Convolution**|Shidong Jiang et.al.|[2308.00292](http://arxiv.org/abs/2308.00292)|null|
 |**2023-06-29**|**Comparing Poisson and Gaussian channels (extended)**|Anzo Teh et.al.|[2306.16735](http://arxiv.org/abs/2306.16735)|null|
