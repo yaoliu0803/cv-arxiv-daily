@@ -2369,6 +2369,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-31**|**S4Fusion: Saliency-aware Selective State Space Model for Infrared Visible Image Fusion**|Haolong Ma et.al.|[2405.20881](http://arxiv.org/abs/2405.20881)|null|
+|**2024-05-31**|**CoMoFusion: Fast and High-quality Fusion of Infrared and Visible Image with Consistency Model**|Zhiming Meng et.al.|[2405.20764](http://arxiv.org/abs/2405.20764)|null|
 |**2024-05-28**|**Hyperspectral and multispectral image fusion with arbitrary resolution through self-supervised representations**|Ting Wang et.al.|[2405.17818](http://arxiv.org/abs/2405.17818)|null|
 |**2024-04-30**|**A Light-weight Transformer-based Self-supervised Matching Network for Heterogeneous Images**|Wang Zhang et.al.|[2404.19311](http://arxiv.org/abs/2404.19311)|null|
 |**2024-04-27**|**MMA-UNet: A Multi-Modal Asymmetric UNet Architecture for Infrared and Visible Image Fusion**|Jingxue Huang et.al.|[2404.17747](http://arxiv.org/abs/2404.17747)|null|
@@ -2439,6 +2441,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-31**|**Predicting ptychography probe positions using single-shot phase retrieval neural network**|Ming Du et.al.|[2405.20910](http://arxiv.org/abs/2405.20910)|null|
 |**2024-05-30**|**Towards RGB-NIR Cross-modality Image Registration and Beyond**|Huadong Li et.al.|[2405.19914](http://arxiv.org/abs/2405.19914)|null|
 |**2024-05-30**|**A structured L-BFGS method with diagonal scaling and its application to image registration**|Florian Mannel et.al.|[2405.19834](http://arxiv.org/abs/2405.19834)|null|
 |**2024-05-29**|**LLaMA-Reg: Using LLaMA 2 for Unsupervised Medical Image Registration**|Mingrui Ma et.al.|[2405.18774](http://arxiv.org/abs/2405.18774)|null|
@@ -2535,6 +2538,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-31**|**S4Fusion: Saliency-aware Selective State Space Model for Infrared Visible Image Fusion**|Haolong Ma et.al.|[2405.20881](http://arxiv.org/abs/2405.20881)|null|
+|**2024-05-31**|**CoMoFusion: Fast and High-quality Fusion of Infrared and Visible Image with Consistency Model**|Zhiming Meng et.al.|[2405.20764](http://arxiv.org/abs/2405.20764)|null|
 |**2024-05-28**|**Hyperspectral and multispectral image fusion with arbitrary resolution through self-supervised representations**|Ting Wang et.al.|[2405.17818](http://arxiv.org/abs/2405.17818)|null|
 |**2024-04-30**|**A Light-weight Transformer-based Self-supervised Matching Network for Heterogeneous Images**|Wang Zhang et.al.|[2404.19311](http://arxiv.org/abs/2404.19311)|null|
 |**2024-04-27**|**MMA-UNet: A Multi-Modal Asymmetric UNet Architecture for Infrared and Visible Image Fusion**|Jingxue Huang et.al.|[2404.17747](http://arxiv.org/abs/2404.17747)|null|
