@@ -1439,6 +1439,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-06-05**|**A Self-Supervised Denoising Strategy for Underwater Acoustic Camera Imageries**|Xiaoteng Zhou et.al.|[2406.02914](http://arxiv.org/abs/2406.02914)|null|
 |**2024-05-22**|**Affine-based Deformable Attention and Selective Fusion for Semi-dense Matching**|Hongkai Chen et.al.|[2405.13874](http://arxiv.org/abs/2405.13874)|null|
 |**2024-05-21**|**OmniGlue: Generalizable Feature Matching with Foundation Model Guidance**|Hanwen Jiang et.al.|[2405.12979](http://arxiv.org/abs/2405.12979)|**[link](https://github.com/google-research/omniglue)**|
 |**2024-05-14**|**Shape-aware synthesis of pathological lung CT scans using CycleGAN for enhanced semi-supervised lung segmentation**|Rezkellah Noureddine Khiati et.al.|[2405.08556](http://arxiv.org/abs/2405.08556)|**[link](https://github.com/noureddinekhiati/semi-supervised-lung-segmentation)**|
@@ -2444,6 +2445,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-06-05**|**Gaussian Representation for Deformable Image Registration**|Jihe Li et.al.|[2406.03394](http://arxiv.org/abs/2406.03394)|null|
 |**2024-05-31**|**Correlation-aware Coarse-to-fine MLPs for Deformable Medical Image Registration**|Mingyuan Meng et.al.|[2406.00123](http://arxiv.org/abs/2406.00123)|null|
 |**2024-05-31**|**Predicting ptychography probe positions using single-shot phase retrieval neural network**|Ming Du et.al.|[2405.20910](http://arxiv.org/abs/2405.20910)|**[link](https://github.com/mdw771/probe_position_correction_w_ptychonn)**|
 |**2024-05-30**|**Towards RGB-NIR Cross-modality Image Registration and Beyond**|Huadong Li et.al.|[2405.19914](http://arxiv.org/abs/2405.19914)|null|
