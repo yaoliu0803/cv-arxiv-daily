@@ -2396,6 +2396,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-06-06**|**From Tissue Plane to Organ World: A Benchmark Dataset for Multimodal Biomedical Image Registration using Deep Co-Attention Networks**|Yifeng Wang et.al.|[2406.04105](http://arxiv.org/abs/2406.04105)|**[link](https://github.com/haizailache999/image-registration)**|
 |**2024-06-01**|**A Review of Pulse-Coupled Neural Network Applications in Computer Vision and Image Processing**|Nurul Rafi et.al.|[2406.00239](http://arxiv.org/abs/2406.00239)|null|
 |**2024-06-03**|**S4Fusion: Saliency-aware Selective State Space Model for Infrared Visible Image Fusion**|Haolong Ma et.al.|[2405.20881](http://arxiv.org/abs/2405.20881)|null|
 |**2024-05-31**|**CoMoFusion: Fast and High-quality Fusion of Infrared and Visible Image with Consistency Model**|Zhiming Meng et.al.|[2405.20764](http://arxiv.org/abs/2405.20764)|null|
@@ -2471,6 +2472,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-06-06**|**From Tissue Plane to Organ World: A Benchmark Dataset for Multimodal Biomedical Image Registration using Deep Co-Attention Networks**|Yifeng Wang et.al.|[2406.04105](http://arxiv.org/abs/2406.04105)|**[link](https://github.com/haizailache999/image-registration)**|
 |**2024-06-05**|**Gaussian Representation for Deformable Image Registration**|Jihe Li et.al.|[2406.03394](http://arxiv.org/abs/2406.03394)|null|
 |**2024-05-31**|**Correlation-aware Coarse-to-fine MLPs for Deformable Medical Image Registration**|Mingyuan Meng et.al.|[2406.00123](http://arxiv.org/abs/2406.00123)|null|
 |**2024-05-31**|**Predicting ptychography probe positions using single-shot phase retrieval neural network**|Ming Du et.al.|[2405.20910](http://arxiv.org/abs/2405.20910)|**[link](https://github.com/mdw771/probe_position_correction_w_ptychonn)**|
