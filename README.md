@@ -2477,7 +2477,7 @@
 |**2024-05-31**|**Correlation-aware Coarse-to-fine MLPs for Deformable Medical Image Registration**|Mingyuan Meng et.al.|[2406.00123](http://arxiv.org/abs/2406.00123)|null|
 |**2024-05-31**|**Predicting ptychography probe positions using single-shot phase retrieval neural network**|Ming Du et.al.|[2405.20910](http://arxiv.org/abs/2405.20910)|**[link](https://github.com/mdw771/probe_position_correction_w_ptychonn)**|
 |**2024-05-30**|**Towards RGB-NIR Cross-modality Image Registration and Beyond**|Huadong Li et.al.|[2405.19914](http://arxiv.org/abs/2405.19914)|null|
-|**2024-05-30**|**A structured L-BFGS method with diagonal scaling and its application to image registration**|Florian Mannel et.al.|[2405.19834](http://arxiv.org/abs/2405.19834)|null|
+|**2024-05-30**|**A structured L-BFGS method with diagonal scaling and its application to image registration**|Florian Mannel et.al.|[2405.19834](http://arxiv.org/abs/2405.19834)|**[link](https://github.com/hariagr/slbfgs)**|
 |**2024-05-29**|**LLaMA-Reg: Using LLaMA 2 for Unsupervised Medical Image Registration**|Mingrui Ma et.al.|[2405.18774](http://arxiv.org/abs/2405.18774)|null|
 |**2024-05-29**|**Learning Diffeomorphism for Image Registration with Time-Continuous Networks using Semigroup Regularization**|Mohammadjavad Matinkia et.al.|[2405.18684](http://arxiv.org/abs/2405.18684)|**[link](https://github.com/mattkia/SGDIR)**|
 |**2024-05-28**|**CARL: A Framework for Equivariant Image Registration**|Hastings Greer et.al.|[2405.16738](http://arxiv.org/abs/2405.16738)|null|
