@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.06.21
+## Updated on 2024.06.22
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -1439,7 +1439,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-06-16**|**Light Up the Shadows: Enhance Long-Tailed Entity Grounding with Concept-Guided Vision-Language Models**|Yikai Zhang et.al.|[2406.10902](http://arxiv.org/abs/2406.10902)|**[link](https://github.com/ykzhang721/COG)**|
+|**2024-06-16**|**Light Up the Shadows: Enhance Long-Tailed Entity Grounding with Concept-Guided Vision-Language Models**|Yikai Zhang et.al.|[2406.10902](http://arxiv.org/abs/2406.10902)|null|
 |**2024-06-14**|**Grounding Image Matching in 3D with MASt3R**|Vincent Leroy et.al.|[2406.09756](http://arxiv.org/abs/2406.09756)|null|
 |**2024-06-05**|**A Self-Supervised Denoising Strategy for Underwater Acoustic Camera Imageries**|Xiaoteng Zhou et.al.|[2406.02914](http://arxiv.org/abs/2406.02914)|null|
 |**2024-05-22**|**Affine-based Deformable Attention and Selective Fusion for Semi-dense Matching**|Hongkai Chen et.al.|[2405.13874](http://arxiv.org/abs/2405.13874)|null|
@@ -2453,8 +2453,8 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-06-19**|**Low-rank based motion correction followed by automatic frame selection in DT-CMR**|Fanwen Wang et.al.|[2406.13708](http://arxiv.org/abs/2406.13708)|null|
 |**2024-06-19**|**Recurrent Inference Machine for Medical Image Registration**|Yi Zhang et.al.|[2406.13413](http://arxiv.org/abs/2406.13413)|null|
-|**2024-06-18**|**Encoding Matching Criteria for Cross-domain Deformable Image Registration**|Zhuoyuan Wang et.al.|[2406.12350](http://arxiv.org/abs/2406.12350)|null|
-|**2024-06-17**|**Multispectral Snapshot Image Registration Using Learned Cross Spectral Disparity Estimation and a Deep Guided Occlusion Reconstruction Network**|Frank Sippel et.al.|[2406.11284](http://arxiv.org/abs/2406.11284)|null|
+|**2024-06-18**|**Encoding Matching Criteria for Cross-domain Deformable Image Registration**|Zhuoyuan Wang et.al.|[2406.12350](http://arxiv.org/abs/2406.12350)|**[link](https://github.com/juliuswang-7/encoderreg)**|
+|**2024-06-17**|**Multispectral Snapshot Image Registration Using Learned Cross Spectral Disparity Estimation and a Deep Guided Occlusion Reconstruction Network**|Frank Sippel et.al.|[2406.11284](http://arxiv.org/abs/2406.11284)|**[link](https://github.com/fau-lms/msir)**|
 |**2024-06-14**|**A lightweight residual network for unsupervised deformable image registration**|Ahsan Raza Siyal et.al.|[2406.09774](http://arxiv.org/abs/2406.09774)|null|
 |**2024-06-11**|**Deep Implicit Optimization for Robust and Flexible Image Registration**|Rohit Jena et.al.|[2406.07361](http://arxiv.org/abs/2406.07361)|null|
 |**2024-06-10**|**Improving Deep Learning-based Automatic Cranial Defect Reconstruction by Heavy Data Augmentation: From Image Registration to Latent Diffusion Models**|Marek Wodzinski et.al.|[2406.06372](http://arxiv.org/abs/2406.06372)|null|
