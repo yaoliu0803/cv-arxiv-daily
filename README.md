@@ -2479,6 +2479,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-06-25**|**Toward Universal Medical Image Registration via Sharpness-Aware Meta-Continual Learning**|Bomin Wang et.al.|[2406.17575](http://arxiv.org/abs/2406.17575)|**[link](https://github.com/xzluo97/continual-reg)**|
+|**2024-06-14**|**The graded group action framework for sub-riemannian orbit models in shape spaces**|Thomas Pierron et.al.|[2406.16930](http://arxiv.org/abs/2406.16930)|null|
 |**2024-06-21**|**Multimodal Deformable Image Registration for Long-COVID Analysis Based on Progressive Alignment and Multi-perspective Loss**|Jiahua Li et.al.|[2406.15172](http://arxiv.org/abs/2406.15172)|null|
 |**2024-06-19**|**Low-rank based motion correction followed by automatic frame selection in DT-CMR**|Fanwen Wang et.al.|[2406.13708](http://arxiv.org/abs/2406.13708)|null|
 |**2024-06-19**|**Recurrent Inference Machine for Medical Image Registration**|Yi Zhang et.al.|[2406.13413](http://arxiv.org/abs/2406.13413)|null|
