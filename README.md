@@ -2400,6 +2400,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-06-27**|**SimpleFusion: A Simple Fusion Framework for Infrared and Visible Images**|Ming Chen et.al.|[2406.19055](http://arxiv.org/abs/2406.19055)|**[link](https://github.com/hxwxss/simplefusion-a-simple-fusion-framework-for-infrared-and-visible-images)**|
+|**2024-05-23**|**Exploration of Multi-Scale Image Fusion Systems in Intelligent Medical Image Analysis**|Yuxiang Hu et.al.|[2406.18548](http://arxiv.org/abs/2406.18548)|null|
 |**2024-06-15**|**CrossFuse: A Novel Cross Attention Mechanism based Infrared and Visible Image Fusion Approach**|Hui Li et.al.|[2406.10581](http://arxiv.org/abs/2406.10581)|**[link](https://github.com/hli1221/crossfuse)**|
 |**2024-06-17**|**Upright to supine image registration and contour propagation for thoracic patients**|M. C. Martire et.al.|[2406.04883](http://arxiv.org/abs/2406.04883)|null|
 |**2024-06-07**|**CDeFuse: Continuous Decomposition for Infrared and Visible Image Fusion**|Haolong Ma et.al.|[2406.04689](http://arxiv.org/abs/2406.04689)|null|
@@ -2592,6 +2594,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-06-27**|**SimpleFusion: A Simple Fusion Framework for Infrared and Visible Images**|Ming Chen et.al.|[2406.19055](http://arxiv.org/abs/2406.19055)|**[link](https://github.com/hxwxss/simplefusion-a-simple-fusion-framework-for-infrared-and-visible-images)**|
+|**2024-05-23**|**Exploration of Multi-Scale Image Fusion Systems in Intelligent Medical Image Analysis**|Yuxiang Hu et.al.|[2406.18548](http://arxiv.org/abs/2406.18548)|null|
 |**2024-06-15**|**CrossFuse: A Novel Cross Attention Mechanism based Infrared and Visible Image Fusion Approach**|Hui Li et.al.|[2406.10581](http://arxiv.org/abs/2406.10581)|**[link](https://github.com/hli1221/crossfuse)**|
 |**2024-06-17**|**Upright to supine image registration and contour propagation for thoracic patients**|M. C. Martire et.al.|[2406.04883](http://arxiv.org/abs/2406.04883)|null|
 |**2024-06-07**|**CDeFuse: Continuous Decomposition for Infrared and Visible Image Fusion**|Haolong Ma et.al.|[2406.04689](http://arxiv.org/abs/2406.04689)|null|
