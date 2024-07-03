@@ -1210,6 +1210,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-07-02**|**Multi-Grained Contrast for Data-Efficient Unsupervised Representation Learning**|Chengchao Shen et.al.|[2407.02014](http://arxiv.org/abs/2407.02014)|**[link](https://github.com/visresearch/mgc)**|
 |**2024-06-28**|**Beyond First-Order: A Multi-Scale Approach to Finger Knuckle Print Biometrics**|Chengrui Gao et.al.|[2406.19672](http://arxiv.org/abs/2406.19672)|null|
 |**2024-06-24**|**A Certifiable Algorithm for Simultaneous Shape Estimation and Object Tracking**|Lorenzo Shaikewitz et.al.|[2406.16837](http://arxiv.org/abs/2406.16837)|**[link](https://github.com/mit-spark/certifiable_tracking)**|
 |**2024-06-03**|**Scale-Free Image Keypoints Using Differentiable Persistent Homology**|Giovanni Barbarani et.al.|[2406.01315](http://arxiv.org/abs/2406.01315)|**[link](https://github.com/gbarbarani/MorseDet)**|
@@ -2377,6 +2378,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-07-02**|**Real HSI-MSI-PAN image dataset for the hyperspectral/multi-spectral/panchromatic image fusion and super-resolution fields**|Shuangliang Li et.al.|[2407.02387](http://arxiv.org/abs/2407.02387)|**[link](https://github.com/rs-lsl/cssnet)**|
+|**2024-06-29**|**Benchmark Evaluation of Image Fusion algorithms for Smartphone Camera Capture**|Lucas N. Kirsten et.al.|[2407.00301](http://arxiv.org/abs/2407.00301)|null|
 |**2024-06-28**|**CSAKD: Knowledge Distillation with Cross Self-Attention for Hyperspectral and Multispectral Image Fusion**|Chih-Chung Hsu et.al.|[2406.19666](http://arxiv.org/abs/2406.19666)|**[link](https://github.com/ming053l/csakd)**|
 |**2024-06-27**|**SimpleFusion: A Simple Fusion Framework for Infrared and Visible Images**|Ming Chen et.al.|[2406.19055](http://arxiv.org/abs/2406.19055)|**[link](https://github.com/hxwxss/simplefusion-a-simple-fusion-framework-for-infrared-and-visible-images)**|
 |**2024-05-23**|**Exploration of Multi-Scale Image Fusion Systems in Intelligent Medical Image Analysis**|Yuxiang Hu et.al.|[2406.18548](http://arxiv.org/abs/2406.18548)|null|
@@ -2457,6 +2460,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-07-02**|**LaMoD: Latent Motion Diffusion Model For Myocardial Strain Generation**|Jiarui Xing et.al.|[2407.02229](http://arxiv.org/abs/2407.02229)|null|
+|**2024-07-02**|**Let it shine: Autofluorescence of Papanicolaou-stain improves AI-based cytological oral cancer detection**|Wenyi Lian et.al.|[2407.01869](http://arxiv.org/abs/2407.01869)|null|
+|**2024-06-30**|**A Review of Image Processing Methods in Prostate Ultrasound**|Haiqiao Wang et.al.|[2407.00678](http://arxiv.org/abs/2407.00678)|null|
 |**2024-06-28**|**Impact of Initialization on Intra-subject Pediatric Brain MR Image Registration: A Comparative Analysis between SyN ANTs and Deep Learning-Based Approaches**|Andjela Dimitrijevic et.al.|[2406.19943](http://arxiv.org/abs/2406.19943)|**[link](https://github.com/neuropoly/pediatric-dl-registration)**|
 |**2024-06-25**|**Toward Universal Medical Image Registration via Sharpness-Aware Meta-Continual Learning**|Bomin Wang et.al.|[2406.17575](http://arxiv.org/abs/2406.17575)|**[link](https://github.com/xzluo97/continual-reg)**|
 |**2024-06-14**|**The graded group action framework for sub-riemannian orbit models in shape spaces**|Thomas Pierron et.al.|[2406.16930](http://arxiv.org/abs/2406.16930)|null|
@@ -2569,6 +2575,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-07-02**|**Real HSI-MSI-PAN image dataset for the hyperspectral/multi-spectral/panchromatic image fusion and super-resolution fields**|Shuangliang Li et.al.|[2407.02387](http://arxiv.org/abs/2407.02387)|**[link](https://github.com/rs-lsl/cssnet)**|
+|**2024-06-29**|**Benchmark Evaluation of Image Fusion algorithms for Smartphone Camera Capture**|Lucas N. Kirsten et.al.|[2407.00301](http://arxiv.org/abs/2407.00301)|null|
 |**2024-06-28**|**CSAKD: Knowledge Distillation with Cross Self-Attention for Hyperspectral and Multispectral Image Fusion**|Chih-Chung Hsu et.al.|[2406.19666](http://arxiv.org/abs/2406.19666)|**[link](https://github.com/ming053l/csakd)**|
 |**2024-06-27**|**SimpleFusion: A Simple Fusion Framework for Infrared and Visible Images**|Ming Chen et.al.|[2406.19055](http://arxiv.org/abs/2406.19055)|**[link](https://github.com/hxwxss/simplefusion-a-simple-fusion-framework-for-infrared-and-visible-images)**|
 |**2024-05-23**|**Exploration of Multi-Scale Image Fusion Systems in Intelligent Medical Image Analysis**|Yuxiang Hu et.al.|[2406.18548](http://arxiv.org/abs/2406.18548)|null|
