@@ -1445,7 +1445,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-07-03**|**IMC 2024 Methods & Solutions Review**|Shyam Gupta et.al.|[2407.03172](http://arxiv.org/abs/2407.03172)|null|
 |**2024-06-21**|**High Resolution Surface Reconstruction of Cultural Heritage Objects Using Shape from Polarization Method**|F. S. Mortazavi et.al.|[2406.15121](http://arxiv.org/abs/2406.15121)|null|
-|**2024-06-16**|**Light Up the Shadows: Enhance Long-Tailed Entity Grounding with Concept-Guided Vision-Language Models**|Yikai Zhang et.al.|[2406.10902](http://arxiv.org/abs/2406.10902)|null|
+|**2024-06-16**|**Light Up the Shadows: Enhance Long-Tailed Entity Grounding with Concept-Guided Vision-Language Models**|Yikai Zhang et.al.|[2406.10902](http://arxiv.org/abs/2406.10902)|**[link](https://github.com/ykzhang721/COG)**|
 |**2024-06-14**|**Grounding Image Matching in 3D with MASt3R**|Vincent Leroy et.al.|[2406.09756](http://arxiv.org/abs/2406.09756)|null|
 |**2024-06-05**|**A Self-Supervised Denoising Strategy for Underwater Acoustic Camera Imageries**|Xiaoteng Zhou et.al.|[2406.02914](http://arxiv.org/abs/2406.02914)|null|
 |**2024-05-22**|**Affine-based Deformable Attention and Selective Fusion for Semi-dense Matching**|Hongkai Chen et.al.|[2405.13874](http://arxiv.org/abs/2405.13874)|null|
@@ -2462,7 +2462,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-07-03**|**Biomechanics-informed Non-rigid Medical Image Registration and its Inverse Material Property Estimation with Linear and Nonlinear Elasticity**|Zhe Min et.al.|[2407.03292](http://arxiv.org/abs/2407.03292)|null|
+|**2024-07-03**|**Biomechanics-informed Non-rigid Medical Image Registration and its Inverse Material Property Estimation with Linear and Nonlinear Elasticity**|Zhe Min et.al.|[2407.03292](http://arxiv.org/abs/2407.03292)|**[link](https://github.com/zhemin-1992/registration_pinns)**|
 |**2024-07-03**|**3D Multimodal Image Registration for Plant Phenotyping**|Eric Stumpe et.al.|[2407.02946](http://arxiv.org/abs/2407.02946)|**[link](https://github.com/eric-stumpe/plant3dimagereg)**|
 |**2024-07-02**|**LaMoD: Latent Motion Diffusion Model For Myocardial Strain Generation**|Jiarui Xing et.al.|[2407.02229](http://arxiv.org/abs/2407.02229)|null|
 |**2024-07-02**|**Let it shine: Autofluorescence of Papanicolaou-stain improves AI-based cytological oral cancer detection**|Wenyi Lian et.al.|[2407.01869](http://arxiv.org/abs/2407.01869)|null|
