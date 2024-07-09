@@ -2382,6 +2382,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-06-11**|**A Semantic-Aware and Multi-Guided Network for Infrared-Visible Image Fusion**|Xiaoli Zhang et.al.|[2407.06159](http://arxiv.org/abs/2407.06159)|null|
 |**2024-07-04**|**Performance of Medical Image Fusion in High-level Analysis Tasks: A Mutual Enhancement Framework for Unaligned PAT and MRI Image Fusion**|Yutian Zhong et.al.|[2407.03992](http://arxiv.org/abs/2407.03992)|**[link](https://github.com/zhongniuniu/PAMRFuse-plus)**|
 |**2024-07-04**|**The Solution for the GAIIC2024 RGB-TIR object detection Challenge**|Xiangyu Wu et.al.|[2407.03872](http://arxiv.org/abs/2407.03872)|null|
 |**2024-07-04**|**Real HSI-MSI-PAN image dataset for the hyperspectral/multi-spectral/panchromatic image fusion and super-resolution fields**|Shuangliang Li et.al.|[2407.02387](http://arxiv.org/abs/2407.02387)|**[link](https://github.com/rs-lsl/cssnet)**|
@@ -2466,6 +2467,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-07-07**|**A Hybrid Registration and Fusion Method for Hyperspectral Super-resolution**|Kunjing Yang et.al.|[2407.05279](http://arxiv.org/abs/2407.05279)|null|
+|**2024-07-07**|**Self-Paced Sample Selection for Barely-Supervised Medical Image Segmentation**|Junming Su et.al.|[2407.05248](http://arxiv.org/abs/2407.05248)|null|
 |**2024-07-05**|**Data-Driven Tissue- and Subject-Specific Elastic Regularization for Medical Image Registration**|Anna Reithmeir et.al.|[2407.04355](http://arxiv.org/abs/2407.04355)|**[link](https://github.com/compai-lab/2024-miccai-reithmeir)**|
 |**2024-07-04**|**POLAFFINI: Efficient feature-based polyaffine initialization for improved non-linear image registration**|Antoine Legouhy et.al.|[2407.03922](http://arxiv.org/abs/2407.03922)|null|
 |**2024-07-03**|**Physics-informed motion registration of lung parenchyma across static CT images**|Sunder Neelakantan et.al.|[2407.03457](http://arxiv.org/abs/2407.03457)|null|
@@ -2586,6 +2589,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-06-11**|**A Semantic-Aware and Multi-Guided Network for Infrared-Visible Image Fusion**|Xiaoli Zhang et.al.|[2407.06159](http://arxiv.org/abs/2407.06159)|null|
 |**2024-07-04**|**Performance of Medical Image Fusion in High-level Analysis Tasks: A Mutual Enhancement Framework for Unaligned PAT and MRI Image Fusion**|Yutian Zhong et.al.|[2407.03992](http://arxiv.org/abs/2407.03992)|**[link](https://github.com/zhongniuniu/PAMRFuse-plus)**|
 |**2024-07-04**|**The Solution for the GAIIC2024 RGB-TIR object detection Challenge**|Xiangyu Wu et.al.|[2407.03872](http://arxiv.org/abs/2407.03872)|null|
 |**2024-07-04**|**Real HSI-MSI-PAN image dataset for the hyperspectral/multi-spectral/panchromatic image fusion and super-resolution fields**|Shuangliang Li et.al.|[2407.02387](http://arxiv.org/abs/2407.02387)|**[link](https://github.com/rs-lsl/cssnet)**|
