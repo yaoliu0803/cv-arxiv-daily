@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.07.09
+## Updated on 2024.07.10
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -454,7 +454,7 @@
 |**2021-10-03**|**Quadrotor Control on $SU(2)\times R^3$ with SLAM Integration**|Marcus Greiff et.al.|[2110.01099](http://arxiv.org/abs/2110.01099)|null|
 |**2021-10-02**|**Online Incremental Non-Gaussian Inference for SLAM Using Normalizing Flows**|Qiangqiang Huang et.al.|[2110.00876](http://arxiv.org/abs/2110.00876)|**[link](https://github.com/marineroboticsgroup/nf-isam)**|
 
-<p align=right>(<a href=#updated-on-20240709>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240710>back to top</a>)</p>
 
 ## SFM
 
@@ -607,7 +607,7 @@
 |**2021-08-29**|**Solving Viewing Graph Optimization for Simultaneous Position and Rotation Registration**|Seyed-Mahdi Nasiri et.al.|[2108.12876](http://arxiv.org/abs/2108.12876)|null|
 |**2021-08-23**|**Burst Imaging for Light-Constrained Structure-From-Motion**|Ahalya Ravendran et.al.|[2108.09895](http://arxiv.org/abs/2108.09895)|null|
 
-<p align=right>(<a href=#updated-on-20240709>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240710>back to top</a>)</p>
 
 ## Visual Localization
 
@@ -1222,14 +1222,14 @@
 |**2021-09-09**|**CrowdDriven: A New Challenging Dataset for Outdoor Visual Localization**|Ara Jafarzadeh et.al.|[2109.04527](http://arxiv.org/abs/2109.04527)|null|
 |**2021-09-09**|**Keeping an Eye on Things: Deep Learned Features for Long-Term Visual Localization**|Mona Gridseth et.al.|[2109.04041](http://arxiv.org/abs/2109.04041)|**[link](https://github.com/utiasasrl/deep_learned_visual_features)**|
 
-<p align=right>(<a href=#updated-on-20240709>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240710>back to top</a>)</p>
 
 ## Keypoint Detection
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2024-07-04**|**PFGS: High Fidelity Point Cloud Rendering via Feature Splatting**|Jiaxu Wang et.al.|[2407.03857](http://arxiv.org/abs/2407.03857)|null|
-|**2024-07-03**|**A Radiometric Correction based Optical Modeling Approach to Removing Reflection Noise in TLS Point Clouds of Urban Scenes**|Li Fang et.al.|[2407.02830](http://arxiv.org/abs/2407.02830)|null|
+|**2024-07-04**|**PFGS: High Fidelity Point Cloud Rendering via Feature Splatting**|Jiaxu Wang et.al.|[2407.03857](http://arxiv.org/abs/2407.03857)|**[link](https://github.com/Mercerai/PFGS)**|
+|**2024-07-03**|**A Radiometric Correction based Optical Modeling Approach to Removing Reflection Noise in TLS Point Clouds of Urban Scenes**|Li Fang et.al.|[2407.02830](http://arxiv.org/abs/2407.02830)|**[link](https://github.com/tsuiky/3drn)**|
 |**2024-07-02**|**Multi-Grained Contrast for Data-Efficient Unsupervised Representation Learning**|Chengchao Shen et.al.|[2407.02014](http://arxiv.org/abs/2407.02014)|**[link](https://github.com/visresearch/mgc)**|
 |**2024-06-28**|**Beyond First-Order: A Multi-Scale Approach to Finger Knuckle Print Biometrics**|Chengrui Gao et.al.|[2406.19672](http://arxiv.org/abs/2406.19672)|null|
 |**2024-06-24**|**A Certifiable Algorithm for Simultaneous Shape Estimation and Object Tracking**|Lorenzo Shaikewitz et.al.|[2406.16837](http://arxiv.org/abs/2406.16837)|**[link](https://github.com/mit-spark/certifiable_tracking)**|
@@ -1458,7 +1458,7 @@
 |**2021-08-31**|**A Novel Dataset for Keypoint Detection of quadruped Animals from Images**|Prianka Banik et.al.|[2108.13958](http://arxiv.org/abs/2108.13958)|**[link](https://github.com/prinik/awa-pose)**|
 |**2021-08-27**|**A Matching Algorithm based on Image Attribute Transfer and Local Features for Underwater Acoustic and Optical Images**|Xiaoteng Zhou et.al.|[2108.12151](http://arxiv.org/abs/2108.12151)|null|
 
-<p align=right>(<a href=#updated-on-20240709>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240710>back to top</a>)</p>
 
 ## Image Matching
 
@@ -1701,7 +1701,7 @@
 |**2021-08-27**|**Matching Underwater Sonar Images by the Learned Descriptor Based on Style Transfer Method**|Xiaoteng Zhou et.al.|[2108.12072](http://arxiv.org/abs/2108.12072)|null|
 |**2021-08-26**|**Efficient Joint Object Matching via Linear Programming**|Antonio De Rosa et.al.|[2108.11911](http://arxiv.org/abs/2108.11911)|null|
 
-<p align=right>(<a href=#updated-on-20240709>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240710>back to top</a>)</p>
 
 ## NeRF
 
@@ -2400,7 +2400,7 @@
 |**2022-07-29**|**Neural Density-Distance Fields**|Itsuki Ueda et.al.|[2207.14455](http://arxiv.org/abs/2207.14455)|**[link](https://github.com/ueda0319/neddf)**|
 |**2022-07-27**|**Is Attention All NeRF Needs?**|Mukund Varma T et.al.|[2207.13298](http://arxiv.org/abs/2207.13298)|null|
 
-<p align=right>(<a href=#updated-on-20240709>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240710>back to top</a>)</p>
 
 ## Image Fusion
 
@@ -2487,7 +2487,7 @@
 |**2023-11-01**|**Graph Representation Learning for Infrared and Visible Image Fusion**|Jing Li et.al.|[2311.00291](http://arxiv.org/abs/2311.00291)|null|
 |**2023-10-24**|**ShadowSense: Unsupervised Domain Adaptation and Feature Fusion for Shadow-Agnostic Tree Crown Detection from RGB-Thermal Drone Imagery**|Rudraksh Kapil et.al.|[2310.16212](http://arxiv.org/abs/2310.16212)|**[link](https://github.com/rudrakshkapil/shadowsense)**|
 
-<p align=right>(<a href=#updated-on-20240709>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240710>back to top</a>)</p>
 
 ## Image Registration
 
@@ -2496,9 +2496,9 @@
 |**2024-07-07**|**A Hybrid Registration and Fusion Method for Hyperspectral Super-resolution**|Kunjing Yang et.al.|[2407.05279](http://arxiv.org/abs/2407.05279)|null|
 |**2024-07-07**|**Self-Paced Sample Selection for Barely-Supervised Medical Image Segmentation**|Junming Su et.al.|[2407.05248](http://arxiv.org/abs/2407.05248)|null|
 |**2024-07-05**|**Data-Driven Tissue- and Subject-Specific Elastic Regularization for Medical Image Registration**|Anna Reithmeir et.al.|[2407.04355](http://arxiv.org/abs/2407.04355)|**[link](https://github.com/compai-lab/2024-miccai-reithmeir)**|
-|**2024-07-04**|**POLAFFINI: Efficient feature-based polyaffine initialization for improved non-linear image registration**|Antoine Legouhy et.al.|[2407.03922](http://arxiv.org/abs/2407.03922)|null|
+|**2024-07-09**|**POLAFFINI: Efficient feature-based polyaffine initialization for improved non-linear image registration**|Antoine Legouhy et.al.|[2407.03922](http://arxiv.org/abs/2407.03922)|null|
 |**2024-07-03**|**Physics-informed motion registration of lung parenchyma across static CT images**|Sunder Neelakantan et.al.|[2407.03457](http://arxiv.org/abs/2407.03457)|null|
-|**2024-07-03**|**Biomechanics-informed Non-rigid Medical Image Registration and its Inverse Material Property Estimation with Linear and Nonlinear Elasticity**|Zhe Min et.al.|[2407.03292](http://arxiv.org/abs/2407.03292)|**[link](https://github.com/zhemin-1992/registration_pinns)**|
+|**2024-07-09**|**Biomechanics-informed Non-rigid Medical Image Registration and its Inverse Material Property Estimation with Linear and Nonlinear Elasticity**|Zhe Min et.al.|[2407.03292](http://arxiv.org/abs/2407.03292)|**[link](https://github.com/zhemin-1992/registration_pinns)**|
 |**2024-07-03**|**3D Multimodal Image Registration for Plant Phenotyping**|Eric Stumpe et.al.|[2407.02946](http://arxiv.org/abs/2407.02946)|**[link](https://github.com/eric-stumpe/plant3dimagereg)**|
 |**2024-07-02**|**LaMoD: Latent Motion Diffusion Model For Myocardial Strain Generation**|Jiarui Xing et.al.|[2407.02229](http://arxiv.org/abs/2407.02229)|null|
 |**2024-07-02**|**Let it shine: Autofluorescence of Papanicolaou-stain improves AI-based cytological oral cancer detection**|Wenyi Lian et.al.|[2407.01869](http://arxiv.org/abs/2407.01869)|null|
@@ -2611,7 +2611,7 @@
 |**2023-11-25**|**SAME++: A Self-supervised Anatomical eMbeddings Enhanced medical image registration framework using stable sampling and regularized transformation**|Lin Tian et.al.|[2311.14986](http://arxiv.org/abs/2311.14986)|**[link](https://github.com/alibaba-damo-academy/same)**|
 |**2023-11-24**|**Deformable multi-modal image registration for the correlation between optical measurements and histology images**|Lianne Feenstra et.al.|[2311.14414](http://arxiv.org/abs/2311.14414)|null|
 
-<p align=right>(<a href=#updated-on-20240709>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240710>back to top</a>)</p>
 
 ## Image Registration and Fusion
 
@@ -2697,7 +2697,7 @@
 |**2023-11-01**|**Graph Representation Learning for Infrared and Visible Image Fusion**|Jing Li et.al.|[2311.00291](http://arxiv.org/abs/2311.00291)|null|
 |**2023-10-24**|**ShadowSense: Unsupervised Domain Adaptation and Feature Fusion for Shadow-Agnostic Tree Crown Detection from RGB-Thermal Drone Imagery**|Rudraksh Kapil et.al.|[2310.16212](http://arxiv.org/abs/2310.16212)|**[link](https://github.com/rudrakshkapil/shadowsense)**|
 
-<p align=right>(<a href=#updated-on-20240709>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240710>back to top</a>)</p>
 
 ## gaussian convolution
 
@@ -2716,7 +2716,7 @@
 |**2023-05-11**|**High-Dimensional Smoothed Entropy Estimation via Dimensionality Reduction**|Kristjan Greenewald et.al.|[2305.04712](http://arxiv.org/abs/2305.04712)|null|
 |**2022-11-01**|**Beyond the Best: Estimating Distribution Functionals in Infinite-Armed Bandits**|Yifei Wang et.al.|[2211.01743](http://arxiv.org/abs/2211.01743)|null|
 
-<p align=right>(<a href=#updated-on-20240709>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240710>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
