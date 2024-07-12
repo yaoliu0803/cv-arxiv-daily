@@ -2471,6 +2471,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-07-11**|**MapLocNet: Coarse-to-Fine Feature Registration for Visual Re-Localization in Navigation Maps**|Hang Wu et.al.|[2407.08561](http://arxiv.org/abs/2407.08561)|null|
+|**2024-07-11**|**GUI-based Pedicle Screw Planning on Fluoroscopic Images Utilizing Vertebral Segmentation**|Vivek Maik et.al.|[2407.08347](http://arxiv.org/abs/2407.08347)|null|
+|**2024-07-10**|**MemWarp: Discontinuity-Preserving Cardiac Registration with Memorized Anatomical Filters**|Hang Zhang et.al.|[2407.08093](http://arxiv.org/abs/2407.08093)|null|
 |**2024-07-10**|**Deformation-Recovery Diffusion Model (DRDM): Instance Deformation for Image Manipulation and Synthesis**|Jian-Qing Zheng et.al.|[2407.07295](http://arxiv.org/abs/2407.07295)|null|
 |**2024-07-07**|**A Hybrid Registration and Fusion Method for Hyperspectral Super-resolution**|Kunjing Yang et.al.|[2407.05279](http://arxiv.org/abs/2407.05279)|null|
 |**2024-07-07**|**Self-Paced Sample Selection for Barely-Supervised Medical Image Segmentation**|Junming Su et.al.|[2407.05248](http://arxiv.org/abs/2407.05248)|null|
