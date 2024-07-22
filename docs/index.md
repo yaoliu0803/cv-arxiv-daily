@@ -2388,6 +2388,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-07-19**|**Double-Shot 3D Shape Measurement with a Dual-Branch Network**|Mingyang Lei et.al.|[2407.14198](http://arxiv.org/abs/2407.14198)|null|
+|**2024-07-19**|**TaGAT: Topology-Aware Graph Attention Network For Multi-modal Retinal Image Fusion**|Xin Tian et.al.|[2407.14188](http://arxiv.org/abs/2407.14188)|**[link](https://github.com/xintian-99/tagat)**|
 |**2024-07-15**|**An Empirical Study of Mamba-based Pedestrian Attribute Recognition**|Xiao Wang et.al.|[2407.10374](http://arxiv.org/abs/2407.10374)|**[link](https://github.com/event-ahu/openpar)**|
 |**2024-07-14**|**HSFusion: A high-level vision task-driven infrared and visible image fusion network via semantic and geometric domain transformation**|Chengjie Jiang et.al.|[2407.10047](http://arxiv.org/abs/2407.10047)|null|
 |**2024-07-10**|**Multi-modal Crowd Counting via a Broker Modality**|Haoliang Meng et.al.|[2407.07518](http://arxiv.org/abs/2407.07518)|**[link](https://github.com/henrycilence/broker-modality-crowd-counting)**|
@@ -2609,6 +2611,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-07-19**|**Double-Shot 3D Shape Measurement with a Dual-Branch Network**|Mingyang Lei et.al.|[2407.14198](http://arxiv.org/abs/2407.14198)|null|
+|**2024-07-19**|**TaGAT: Topology-Aware Graph Attention Network For Multi-modal Retinal Image Fusion**|Xin Tian et.al.|[2407.14188](http://arxiv.org/abs/2407.14188)|**[link](https://github.com/xintian-99/tagat)**|
 |**2024-07-15**|**An Empirical Study of Mamba-based Pedestrian Attribute Recognition**|Xiao Wang et.al.|[2407.10374](http://arxiv.org/abs/2407.10374)|**[link](https://github.com/event-ahu/openpar)**|
 |**2024-07-14**|**HSFusion: A high-level vision task-driven infrared and visible image fusion network via semantic and geometric domain transformation**|Chengjie Jiang et.al.|[2407.10047](http://arxiv.org/abs/2407.10047)|null|
 |**2024-07-10**|**Multi-modal Crowd Counting via a Broker Modality**|Haoliang Meng et.al.|[2407.07518](http://arxiv.org/abs/2407.07518)|**[link](https://github.com/henrycilence/broker-modality-crowd-counting)**|
