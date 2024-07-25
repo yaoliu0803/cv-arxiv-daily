@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.07.24
+## Updated on 2024.07.25
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -1216,7 +1216,7 @@ layout: default
 |**2024-07-03**|**A Radiometric Correction based Optical Modeling Approach to Removing Reflection Noise in TLS Point Clouds of Urban Scenes**|Li Fang et.al.|[2407.02830](http://arxiv.org/abs/2407.02830)|**[link](https://github.com/tsuiky/3drn)**|
 |**2024-07-02**|**Multi-Grained Contrast for Data-Efficient Unsupervised Representation Learning**|Chengchao Shen et.al.|[2407.02014](http://arxiv.org/abs/2407.02014)|**[link](https://github.com/visresearch/mgc)**|
 |**2024-06-28**|**Beyond First-Order: A Multi-Scale Approach to Finger Knuckle Print Biometrics**|Chengrui Gao et.al.|[2406.19672](http://arxiv.org/abs/2406.19672)|null|
-|**2024-06-24**|**A Certifiable Algorithm for Simultaneous Shape Estimation and Object Tracking**|Lorenzo Shaikewitz et.al.|[2406.16837](http://arxiv.org/abs/2406.16837)|**[link](https://github.com/mit-spark/certifiable_tracking)**|
+|**2024-07-23**|**A Certifiable Algorithm for Simultaneous Shape Estimation and Object Tracking**|Lorenzo Shaikewitz et.al.|[2406.16837](http://arxiv.org/abs/2406.16837)|**[link](https://github.com/mit-spark/certifiable_tracking)**|
 |**2024-06-03**|**Scale-Free Image Keypoints Using Differentiable Persistent Homology**|Giovanni Barbarani et.al.|[2406.01315](http://arxiv.org/abs/2406.01315)|**[link](https://github.com/gbarbarani/MorseDet)**|
 |**2024-06-23**|**W-Net: A Facial Feature-Guided Face Super-Resolution Network**|Hao Liu et.al.|[2406.00676](http://arxiv.org/abs/2406.00676)|null|
 |**2024-05-25**|**Deep-PE: A Learning-Based Pose Evaluator for Point Cloud Registration**|Junjie Gao et.al.|[2405.16085](http://arxiv.org/abs/2405.16085)|null|
@@ -2483,7 +2483,7 @@ layout: default
 |**2024-07-18**|**WiNet: Wavelet-based Incremental Learning for Efficient Medical Image Registration**|Xinxing Cheng et.al.|[2407.13426](http://arxiv.org/abs/2407.13426)|**[link](https://github.com/x-xc/WiNet)**|
 |**2024-07-18**|**General Vision Encoder Features as Guidance in Medical Image Registration**|Fryderyk Kögl et.al.|[2407.13311](http://arxiv.org/abs/2407.13311)|null|
 |**2024-07-17**|**DD_RoTIR: Dual-Domain Image Registration via Image Translation and Hierarchical Feature-matching**|Ruixiong Wang et.al.|[2407.11223](http://arxiv.org/abs/2407.11223)|null|
-|**2024-07-15**|**TLRN: Temporal Latent Residual Networks For Large Deformation Image Registration**|Nian Wu et.al.|[2407.11219](http://arxiv.org/abs/2407.11219)|**[link](https://github.com/nellie689/tlrn)**|
+|**2024-07-24**|**TLRN: Temporal Latent Residual Networks For Large Deformation Image Registration**|Nian Wu et.al.|[2407.11219](http://arxiv.org/abs/2407.11219)|**[link](https://github.com/nellie689/tlrn)**|
 |**2024-07-15**|**PULPo: Probabilistic Unsupervised Laplacian Pyramid Registration**|Leonard Siegert et.al.|[2407.10567](http://arxiv.org/abs/2407.10567)|**[link](https://github.com/leonardsiegert/PULPo)**|
 |**2024-07-14**|**Vector Field Attention for Deformable Image Registration**|Yihao Liu et.al.|[2407.10209](http://arxiv.org/abs/2407.10209)|**[link](https://github.com/yihao6/vfa)**|
 |**2024-07-12**|**High-Resolution Hyperspectral Video Imaging Using A Hexagonal Camera Array**|Frank Sippel et.al.|[2407.09038](http://arxiv.org/abs/2407.09038)|null|
