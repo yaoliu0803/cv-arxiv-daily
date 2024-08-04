@@ -1210,6 +1210,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-07-31**|**Certifying Robustness of Learning-Based Keypoint Detection and Pose Estimation Methods**|Xusheng Luo et.al.|[2408.00117](http://arxiv.org/abs/2408.00117)|null|
 |**2024-07-26**|**SHIC: Shape-Image Correspondences with no Keypoint Supervision**|Aleksandar Shtedritski et.al.|[2407.18907](http://arxiv.org/abs/2407.18907)|null|
 |**2024-07-25**|**LION: Linear Group RNN for 3D Object Detection in Point Clouds**|Zhe Liu et.al.|[2407.18232](http://arxiv.org/abs/2407.18232)|**[link](https://github.com/happinesslz/LION)**|
 |**2024-07-22**|**RADA: Robust and Accurate Feature Learning with Domain Adaptation**|Jingtai He et.al.|[2407.15791](http://arxiv.org/abs/2407.15791)|null|
@@ -2484,6 +2485,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-01**|**Centimeter-sized Objects at Micrometer Resolution: Extending Field-of-View in Wavefront Marker X-ray Phase-Contrast Tomography**|Dominik John et.al.|[2408.00482](http://arxiv.org/abs/2408.00482)|null|
+|**2024-08-01**|**multiGradICON: A Foundation Model for Multimodal Medical Image Registration**|Basar Demir et.al.|[2408.00221](http://arxiv.org/abs/2408.00221)|null|
 |**2024-07-30**|**Neural Fields for Continuous Periodic Motion Estimation in 4D Cardiovascular Imaging**|Simone Garzia et.al.|[2407.20728](http://arxiv.org/abs/2407.20728)|null|
 |**2024-07-27**|**Mamba? Catch The Hype Or Rethink What Really Helps for Image Registration**|Bailiang Jian et.al.|[2407.19274](http://arxiv.org/abs/2407.19274)|**[link](https://github.com/bailiangj/rethink-reg)**|
 |**2024-07-25**|**Segmentation by registration-enabled SAM prompt engineering using five reference images**|Yaxi Chen et.al.|[2407.17933](http://arxiv.org/abs/2407.17933)|**[link](https://github.com/chrissyinreallife/kneesegmentwithsam)**|
