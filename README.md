@@ -1228,6 +1228,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-15**|**Towards Practical Human Motion Prediction with LiDAR Point Clouds**|Xiao Han et.al.|[2408.08202](http://arxiv.org/abs/2408.08202)|null|
 |**2024-07-31**|**Certifying Robustness of Learning-Based Keypoint Detection and Pose Estimation Methods**|Xusheng Luo et.al.|[2408.00117](http://arxiv.org/abs/2408.00117)|null|
 |**2024-07-26**|**SHIC: Shape-Image Correspondences with no Keypoint Supervision**|Aleksandar Shtedritski et.al.|[2407.18907](http://arxiv.org/abs/2407.18907)|null|
 |**2024-07-25**|**LION: Linear Group RNN for 3D Object Detection in Point Clouds**|Zhe Liu et.al.|[2407.18232](http://arxiv.org/abs/2407.18232)|**[link](https://github.com/happinesslz/LION)**|
