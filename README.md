@@ -1502,7 +1502,7 @@
 |**2024-04-22**|**Scene Coordinate Reconstruction: Posing of Image Collections via Incremental Learning of a Relocalizer**|Eric Brachmann et.al.|[2404.14351](http://arxiv.org/abs/2404.14351)|null|
 |**2024-04-17**|**A Semantic Segmentation-guided Approach for Ground-to-Aerial Image Matching**|Francesco Pro et.al.|[2404.11302](http://arxiv.org/abs/2404.11302)|**[link](https://github.com/pro1944191/semanticalignnet)**|
 |**2024-04-16**|**Exploring selective image matching methods for zero-shot and few-sample unsupervised domain adaptation of urban canopy prediction**|John Francis et.al.|[2404.10626](http://arxiv.org/abs/2404.10626)|null|
-|**2024-04-15**|**XoFTR: Cross-modal Feature Matching Transformer**|Önder Tuzcuoğlu et.al.|[2404.09692](http://arxiv.org/abs/2404.09692)|null|
+|**2024-04-15**|**XoFTR: Cross-modal Feature Matching Transformer**|Önder Tuzcuoğlu et.al.|[2404.09692](http://arxiv.org/abs/2404.09692)|**[link](https://github.com/ondert/xoftr)**|
 |**2024-04-13**|**DeDoDe v2: Analyzing and Improving the DeDoDe Keypoint Detector**|Johan Edstedt et.al.|[2404.08928](http://arxiv.org/abs/2404.08928)|**[link](https://github.com/parskatt/dedode)**|
 |**2024-04-09**|**Matching 2D Images in 3D: Metric Relative Pose from Metric Correspondences**|Axel Barroso-Laguna et.al.|[2404.06337](http://arxiv.org/abs/2404.06337)|**[link](https://github.com/nianticlabs/mickey)**|
 |**2024-04-01**|**Marrying NeRF with Feature Matching for One-step Pose Estimation**|Ronghan Chen et.al.|[2404.00891](http://arxiv.org/abs/2404.00891)|null|
@@ -1568,7 +1568,7 @@
 |**2023-07-22**|**A Stronger Stitching Algorithm for Fisheye Images based on Deblurring and Registration**|Jing Hao et.al.|[2307.11997](http://arxiv.org/abs/2307.11997)|null|
 |**2023-07-21**|**Reverse Knowledge Distillation: Training a Large Model using a Small One for Retinal Image Matching on Limited Data**|Sahar Almahfouz Nasser et.al.|[2307.10698](http://arxiv.org/abs/2307.10698)|**[link](https://github.com/SaharAlmahfouzNasser/MeDAL-Retina)**|
 |**2023-08-08**|**Balancing Privacy and Progress in Artificial Intelligence: Anonymization in Histopathology for Biomedical Research and Education**|Neel Kanwal et.al.|[2307.09426](http://arxiv.org/abs/2307.09426)|null|
-|**2023-08-01**|**Unsupervised Deep Graph Matching Based on Cycle Consistency**|Siddharth Tourani et.al.|[2307.08930](http://arxiv.org/abs/2307.08930)|null|
+|**2023-08-01**|**Unsupervised Deep Graph Matching Based on Cycle Consistency**|Siddharth Tourani et.al.|[2307.08930](http://arxiv.org/abs/2307.08930)|**[link](https://github.com/skt9/clum-semantic-correspondence)**|
 |**2023-07-15**|**Tightly-Coupled LiDAR-Visual SLAM Based on Geometric Features for Mobile Agents**|Ke Cao et.al.|[2307.07763](http://arxiv.org/abs/2307.07763)|null|
 |**2023-07-09**|**Augmenters at SemEval-2023 Task 1: Enhancing CLIP in Handling Compositionality and Ambiguity for Zero-Shot Visual WSD through Prompt Augmentation and Text-To-Image Diffusion**|Jie S. Li et.al.|[2307.05564](http://arxiv.org/abs/2307.05564)|null|
 |**2023-07-11**|**ResMatch: Residual Attention Learning for Local Feature Matching**|Yuxin Deng et.al.|[2307.05180](http://arxiv.org/abs/2307.05180)|**[link](https://github.com/acuooooo/resmatch)**|
@@ -1818,7 +1818,7 @@
 |**2023-11-22**|**Compact 3D Gaussian Representation for Radiance Field**|Joo Chan Lee et.al.|[2311.13681](http://arxiv.org/abs/2311.13681)|**[link](https://github.com/maincold2/Compact-3DGS)**|
 |**2023-11-22**|**Boosting3D: High-Fidelity Image-to-3D by Boosting 2D Diffusion Prior to 3D Prior with Progressive Learning**|Kai Yu et.al.|[2311.13617](http://arxiv.org/abs/2311.13617)|null|
 |**2023-11-22**|**Animatable 3D Gaussians for High-fidelity Synthesis of Human Motions**|Keyang Ye et.al.|[2311.13404](http://arxiv.org/abs/2311.13404)|null|
-|**2023-11-22**|**Depth-Regularized Optimization for 3D Gaussian Splatting in Few-Shot Images**|Jaeyoung Chung et.al.|[2311.13398](http://arxiv.org/abs/2311.13398)|null|
+|**2023-11-22**|**Depth-Regularized Optimization for 3D Gaussian Splatting in Few-Shot Images**|Jaeyoung Chung et.al.|[2311.13398](http://arxiv.org/abs/2311.13398)|**[link](https://github.com/robot0321/DepthRegularizedGS)**|
 |**2023-11-22**|**3D Face Style Transfer with a Hybrid Solution of NeRF and Mesh Rasterization**|Jianwei Feng et.al.|[2311.13168](http://arxiv.org/abs/2311.13168)|null|
 |**2023-11-22**|**PIE-NeRF: Physics-based Interactive Elastodynamics with NeRF**|Yutao Feng et.al.|[2311.13099](http://arxiv.org/abs/2311.13099)|null|
 |**2023-11-21**|**SuGaR: Surface-Aligned Gaussian Splatting for Efficient 3D Mesh Reconstruction and High-Quality Mesh Rendering**|Antoine Guédon et.al.|[2311.12775](http://arxiv.org/abs/2311.12775)|**[link](https://github.com/Anttwo/SuGaR)**|
@@ -1858,7 +1858,7 @@
 |**2023-10-30**|**Generative Neural Fields by Mixtures of Neural Implicit Functions**|Tackgeun You et.al.|[2310.19464](http://arxiv.org/abs/2310.19464)|null|
 |**2023-11-04**|**TiV-NeRF: Tracking and Mapping via Time-Varying Representation with Dynamic Neural Radiance Fields**|Chengyao Duan et.al.|[2310.18917](http://arxiv.org/abs/2310.18917)|null|
 |**2023-10-28**|**INCODE: Implicit Neural Conditioning with Prior Knowledge Embeddings**|Amirhossein Kazerouni et.al.|[2310.18846](http://arxiv.org/abs/2310.18846)|**[link](https://github.com/xmindflow/INCODE)**|
-|**2023-10-27**|**ZeroNVS: Zero-Shot 360-Degree View Synthesis from a Single Real Image**|Kyle Sargent et.al.|[2310.17994](http://arxiv.org/abs/2310.17994)|null|
+|**2023-10-27**|**ZeroNVS: Zero-Shot 360-Degree View Synthesis from a Single Real Image**|Kyle Sargent et.al.|[2310.17994](http://arxiv.org/abs/2310.17994)|**[link](https://github.com/kylesargent/zeronvs)**|
 |**2023-10-27**|**Reconstructive Latent-Space Neural Radiance Fields for Efficient 3D Scene Representations**|Tristan Aumentado-Armstrong et.al.|[2310.17880](http://arxiv.org/abs/2310.17880)|null|
 |**2023-10-27**|**HyperFields: Towards Zero-Shot Generation of NeRFs from Text**|Sudarshan Babu et.al.|[2310.17075](http://arxiv.org/abs/2310.17075)|null|
 |**2023-10-25**|**4D-Editor: Interactive Object-level Editing in Dynamic Neural Radiance Fields via 4D Semantic Segmentation**|Dadong Jiang et.al.|[2310.16858](http://arxiv.org/abs/2310.16858)|null|
@@ -2461,7 +2461,7 @@
 |**2024-04-17**|**SSDiff: Spatial-spectral Integrated Diffusion Model for Remote Sensing Pansharpening**|Yu Zhong et.al.|[2404.11537](http://arxiv.org/abs/2404.11537)|null|
 |**2024-04-17**|**MaeFuse: Transferring Omni Features with Pretrained Masked Autoencoders for Infrared and Visible Image Fusion via Guided Training**|Jiayang Li et.al.|[2404.11016](http://arxiv.org/abs/2404.11016)|null|
 |**2024-04-16**|**ReWiTe: Realistic Wide-angle and Telephoto Dual Camera Fusion Dataset via Beam Splitter Camera Rig**|Chunli Peng et.al.|[2404.10584](http://arxiv.org/abs/2404.10584)|null|
-|**2024-04-20**|**FusionMamba: Dynamic Feature Enhancement for Multimodal Image Fusion with Mamba**|Xinyu Xie et.al.|[2404.09498](http://arxiv.org/abs/2404.09498)|null|
+|**2024-04-20**|**FusionMamba: Dynamic Feature Enhancement for Multimodal Image Fusion with Mamba**|Xinyu Xie et.al.|[2404.09498](http://arxiv.org/abs/2404.09498)|**[link](https://github.com/milliexie/fusionmamba)**|
 |**2024-04-14**|**A Novel State Space Model with Local Enhancement and State Sharing for Image Fusion**|Zihan Cao et.al.|[2404.09293](http://arxiv.org/abs/2404.09293)|null|
 |**2024-04-12**|**MambaDFuse: A Mamba-based Dual-phase Model for Multi-modality Image Fusion**|Zhe Li et.al.|[2404.08406](http://arxiv.org/abs/2404.08406)|**[link](https://github.com/Lizhe1228/MambaDFuse)**|
 |**2024-04-11**|**FusionMamba: Efficient Image Fusion with State Space Model**|Siran Peng et.al.|[2404.07932](http://arxiv.org/abs/2404.07932)|**[link](https://github.com/PSRben/FusionMamba)**|
@@ -2593,7 +2593,7 @@
 |**2024-04-19**|**DeeperHistReg: Robust Whole Slide Images Registration Framework**|Marek Wodzinski et.al.|[2404.14434](http://arxiv.org/abs/2404.14434)|**[link](https://github.com/mwod/deeperhistreg)**|
 |**2024-04-26**|**RegWSI: Whole Slide Image Registration using Combined Deep Feature- and Intensity-Based Methods: Winner of the ACROBAT 2023 Challenge**|Marek Wodzinski et.al.|[2404.13108](http://arxiv.org/abs/2404.13108)|null|
 |**2024-04-15**|**Deformable MRI Sequence Registration for AI-based Prostate Cancer Diagnosis**|Alessa Hering et.al.|[2404.09666](http://arxiv.org/abs/2404.09666)|null|
-|**2024-04-20**|**FusionMamba: Dynamic Feature Enhancement for Multimodal Image Fusion with Mamba**|Xinyu Xie et.al.|[2404.09498](http://arxiv.org/abs/2404.09498)|null|
+|**2024-04-20**|**FusionMamba: Dynamic Feature Enhancement for Multimodal Image Fusion with Mamba**|Xinyu Xie et.al.|[2404.09498](http://arxiv.org/abs/2404.09498)|**[link](https://github.com/milliexie/fusionmamba)**|
 |**2024-04-14**|**Increasing SLAM Pose Accuracy by Ground-to-Satellite Image Registration**|Yanhao Zhang et.al.|[2404.09169](http://arxiv.org/abs/2404.09169)|**[link](https://github.com/yanhaozhang/slam-g2s-fusion)**|
 |**2024-04-14**|**VMambaMorph: a Multi-Modality Deformable Image Registration Framework based on Visual State Space Model with Cross-Scan Module**|Ziyang Wang et.al.|[2404.05105](http://arxiv.org/abs/2404.05105)|**[link](https://github.com/ziyangwang007/vmambamorph)**|
 |**2024-04-05**|**A comprehensive liver CT landmark pair dataset for evaluating deformable image registration algorithms**|Zhendong Zhang et.al.|[2404.04427](http://arxiv.org/abs/2404.04427)|null|
@@ -2697,7 +2697,7 @@
 |**2024-04-17**|**SSDiff: Spatial-spectral Integrated Diffusion Model for Remote Sensing Pansharpening**|Yu Zhong et.al.|[2404.11537](http://arxiv.org/abs/2404.11537)|null|
 |**2024-04-17**|**MaeFuse: Transferring Omni Features with Pretrained Masked Autoencoders for Infrared and Visible Image Fusion via Guided Training**|Jiayang Li et.al.|[2404.11016](http://arxiv.org/abs/2404.11016)|null|
 |**2024-04-16**|**ReWiTe: Realistic Wide-angle and Telephoto Dual Camera Fusion Dataset via Beam Splitter Camera Rig**|Chunli Peng et.al.|[2404.10584](http://arxiv.org/abs/2404.10584)|null|
-|**2024-04-20**|**FusionMamba: Dynamic Feature Enhancement for Multimodal Image Fusion with Mamba**|Xinyu Xie et.al.|[2404.09498](http://arxiv.org/abs/2404.09498)|null|
+|**2024-04-20**|**FusionMamba: Dynamic Feature Enhancement for Multimodal Image Fusion with Mamba**|Xinyu Xie et.al.|[2404.09498](http://arxiv.org/abs/2404.09498)|**[link](https://github.com/milliexie/fusionmamba)**|
 |**2024-04-14**|**A Novel State Space Model with Local Enhancement and State Sharing for Image Fusion**|Zihan Cao et.al.|[2404.09293](http://arxiv.org/abs/2404.09293)|null|
 |**2024-04-12**|**MambaDFuse: A Mamba-based Dual-phase Model for Multi-modality Image Fusion**|Zhe Li et.al.|[2404.08406](http://arxiv.org/abs/2404.08406)|**[link](https://github.com/Lizhe1228/MambaDFuse)**|
 |**2024-04-11**|**FusionMamba: Efficient Image Fusion with State Space Model**|Siran Peng et.al.|[2404.07932](http://arxiv.org/abs/2404.07932)|**[link](https://github.com/PSRben/FusionMamba)**|
