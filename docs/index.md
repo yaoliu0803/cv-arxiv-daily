@@ -1450,6 +1450,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-19**|**BrewCLIP: A Bifurcated Representation Learning Framework for Audio-Visual Retrieval**|Zhenyu Lu et.al.|[2408.10383](http://arxiv.org/abs/2408.10383)|null|
 |**2024-08-14**|**RSD-DOG : A New Image Descriptor based on Second Order Derivatives**|Darshan Venkatrayappa et.al.|[2408.07687](http://arxiv.org/abs/2408.07687)|null|
 |**2024-08-09**|**One Shot is Enough for Sequential Infrared Small Target Segmentation**|Bingbing Dan et.al.|[2408.04823](http://arxiv.org/abs/2408.04823)|null|
 |**2024-08-07**|**PRISM: PRogressive dependency maxImization for Scale-invariant image Matching**|Xudong Cai et.al.|[2408.03598](http://arxiv.org/abs/2408.03598)|null|
@@ -2492,6 +2493,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-20**|**Large Language Models for Multimodal Deformable Image Registration**|Mingrui Ma et.al.|[2408.10703](http://arxiv.org/abs/2408.10703)|**[link](https://github.com/ninjannn/llm-morph)**|
+|**2024-08-20**|**deepmriprep: Voxel-based Morphometry (VBM) Preprocessing via Deep Neural Networks**|Lukas Fisch et.al.|[2408.10656](http://arxiv.org/abs/2408.10656)|**[link](https://github.com/wwu-mmll/deepmriprep)**|
 |**2024-08-11**|**Deep Learning in Medical Image Registration: Magic or Mirage?**|Rohit Jena et.al.|[2408.05839](http://arxiv.org/abs/2408.05839)|null|
 |**2024-08-11**|**Deformable Image Registration with Multi-scale Feature Fusion from Shared Encoder, Auxiliary and Pyramid Decoders**|Hongchao Zhou et.al.|[2408.05717](http://arxiv.org/abs/2408.05717)|null|
 |**2024-08-03**|**CAR: Contrast-Agnostic Deformable Medical Image Registration with Contrast-Invariant Latent Regularization**|Yinsong Wang et.al.|[2408.05341](http://arxiv.org/abs/2408.05341)|null|
