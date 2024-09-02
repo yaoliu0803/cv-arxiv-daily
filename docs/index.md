@@ -1059,7 +1059,7 @@ layout: default
 |**2022-08-17**|**Understanding Attention for Vision-and-Language Tasks**|Feiqi Cao et.al.|[2208.08104](http://arxiv.org/abs/2208.08104)|**[link](https://github.com/adlnlp/attention_vl)**|
 |**2022-08-14**|**Visual Localization via Few-Shot Scene Region Classification**|Siyan Dong et.al.|[2208.06933](http://arxiv.org/abs/2208.06933)|**[link](https://github.com/siyandong/src)**|
 |**2022-08-14**|**HyP $^2$ Loss: Beyond Hypersphere Metric Space for Multi-label Image Retrieval**|Chengyin Xu et.al.|[2208.06866](http://arxiv.org/abs/2208.06866)|**[link](https://github.com/jerryxu0129/hyp2-loss)**|
-|**2022-08-13**|**Finding Point with Image: An End-to-End Benchmark for Vision-based UAV Localization**|Ming Dai et.al.|[2208.06561](http://arxiv.org/abs/2208.06561)|null|
+|**2022-08-13**|**Finding Point with Image: An End-to-End Benchmark for Vision-based UAV Localization**|Ming Dai et.al.|[2208.06561](http://arxiv.org/abs/2208.06561)|**[link](https://github.com/dmmm1997/drl)**|
 |**2022-08-16**|**Category-Level Pose Retrieval with Contrastive Features Learnt with Occlusion Augmentation**|Georgios Kouros et.al.|[2208.06195](http://arxiv.org/abs/2208.06195)|**[link](https://github.com/gkouros/contrastive-pose-retrieval)**|
 |**2022-08-12**|**Instance Image Retrieval by Learning Purely From Within the Dataset**|Zhongyan Zhang et.al.|[2208.06119](http://arxiv.org/abs/2208.06119)|null|
 |**2022-08-07**|**CVLNet: Cross-View Semantic Correspondence Learning for Video-based Camera Localization**|Yujiao Shi et.al.|[2208.03660](http://arxiv.org/abs/2208.03660)|null|
@@ -2446,7 +2446,7 @@ layout: default
 |**2024-04-17**|**MaeFuse: Transferring Omni Features with Pretrained Masked Autoencoders for Infrared and Visible Image Fusion via Guided Training**|Jiayang Li et.al.|[2404.11016](http://arxiv.org/abs/2404.11016)|null|
 |**2024-04-16**|**ReWiTe: Realistic Wide-angle and Telephoto Dual Camera Fusion Dataset via Beam Splitter Camera Rig**|Chunli Peng et.al.|[2404.10584](http://arxiv.org/abs/2404.10584)|null|
 |**2024-04-20**|**FusionMamba: Dynamic Feature Enhancement for Multimodal Image Fusion with Mamba**|Xinyu Xie et.al.|[2404.09498](http://arxiv.org/abs/2404.09498)|**[link](https://github.com/milliexie/fusionmamba)**|
-|**2024-04-14**|**A Novel State Space Model with Local Enhancement and State Sharing for Image Fusion**|Zihan Cao et.al.|[2404.09293](http://arxiv.org/abs/2404.09293)|null|
+|**2024-04-14**|**A Novel State Space Model with Local Enhancement and State Sharing for Image Fusion**|Zihan Cao et.al.|[2404.09293](http://arxiv.org/abs/2404.09293)|**[link](https://github.com/294coder/efficient-mif)**|
 |**2024-04-12**|**MambaDFuse: A Mamba-based Dual-phase Model for Multi-modality Image Fusion**|Zhe Li et.al.|[2404.08406](http://arxiv.org/abs/2404.08406)|**[link](https://github.com/Lizhe1228/MambaDFuse)**|
 |**2024-04-11**|**FusionMamba: Efficient Image Fusion with State Space Model**|Siran Peng et.al.|[2404.07932](http://arxiv.org/abs/2404.07932)|**[link](https://github.com/PSRben/FusionMamba)**|
 |**2024-04-10**|**Little Strokes Fell Great Oaks: Boosting the Hierarchical Features for Multi-exposure Image Fusion**|Pan Mu et.al.|[2404.06033](http://arxiv.org/abs/2404.06033)|**[link](https://github.com/zhiyingdu/bhfmef)**|
@@ -2504,7 +2504,7 @@ layout: default
 |**2024-08-27**|**Geometric Artifact Correction for Symmetric Multi-Linear Trajectory CT: Theory, Method, and Generalization**|Zhisheng Wang et.al.|[2408.15069](http://arxiv.org/abs/2408.15069)|null|
 |**2024-08-26**|**Reliable Multi-modal Medical Image-to-image Translation Independent of Pixel-wise Aligned Data**|Langrui Zhou et.al.|[2408.14270](http://arxiv.org/abs/2408.14270)|null|
 |**2024-08-26**|**Application of Disentanglement to Map Registration Problem**|Hae Jin Song et.al.|[2408.14152](http://arxiv.org/abs/2408.14152)|null|
-|**2024-08-26**|**Fast Edge-Aware Occlusion Detection in the Context of Multispectral Camera Arrays**|Frank Sippel et.al.|[2408.14050](http://arxiv.org/abs/2408.14050)|null|
+|**2024-08-26**|**Fast Edge-Aware Occlusion Detection in the Context of Multispectral Camera Arrays**|Frank Sippel et.al.|[2408.14050](http://arxiv.org/abs/2408.14050)|**[link](https://github.com/fau-lms/fast-occlusion-detection)**|
 |**2024-08-21**|**MBSS-T1: Model-Based Self-Supervised Motion Correction for Robust Cardiac T1 Mapping**|Eyal Hanania et.al.|[2408.11992](http://arxiv.org/abs/2408.11992)|null|
 |**2024-08-20**|**Large Language Models for Multimodal Deformable Image Registration**|Mingrui Ma et.al.|[2408.10703](http://arxiv.org/abs/2408.10703)|**[link](https://github.com/ninjannn/llm-morph)**|
 |**2024-08-20**|**deepmriprep: Voxel-based Morphometry (VBM) Preprocessing via Deep Neural Networks**|Lukas Fisch et.al.|[2408.10656](http://arxiv.org/abs/2408.10656)|**[link](https://github.com/wwu-mmll/deepmriprep)**|
@@ -2688,7 +2688,7 @@ layout: default
 |**2024-04-17**|**MaeFuse: Transferring Omni Features with Pretrained Masked Autoencoders for Infrared and Visible Image Fusion via Guided Training**|Jiayang Li et.al.|[2404.11016](http://arxiv.org/abs/2404.11016)|null|
 |**2024-04-16**|**ReWiTe: Realistic Wide-angle and Telephoto Dual Camera Fusion Dataset via Beam Splitter Camera Rig**|Chunli Peng et.al.|[2404.10584](http://arxiv.org/abs/2404.10584)|null|
 |**2024-04-20**|**FusionMamba: Dynamic Feature Enhancement for Multimodal Image Fusion with Mamba**|Xinyu Xie et.al.|[2404.09498](http://arxiv.org/abs/2404.09498)|**[link](https://github.com/milliexie/fusionmamba)**|
-|**2024-04-14**|**A Novel State Space Model with Local Enhancement and State Sharing for Image Fusion**|Zihan Cao et.al.|[2404.09293](http://arxiv.org/abs/2404.09293)|null|
+|**2024-04-14**|**A Novel State Space Model with Local Enhancement and State Sharing for Image Fusion**|Zihan Cao et.al.|[2404.09293](http://arxiv.org/abs/2404.09293)|**[link](https://github.com/294coder/efficient-mif)**|
 |**2024-04-12**|**MambaDFuse: A Mamba-based Dual-phase Model for Multi-modality Image Fusion**|Zhe Li et.al.|[2404.08406](http://arxiv.org/abs/2404.08406)|**[link](https://github.com/Lizhe1228/MambaDFuse)**|
 |**2024-04-11**|**FusionMamba: Efficient Image Fusion with State Space Model**|Siran Peng et.al.|[2404.07932](http://arxiv.org/abs/2404.07932)|**[link](https://github.com/PSRben/FusionMamba)**|
 |**2024-04-10**|**Little Strokes Fell Great Oaks: Boosting the Hierarchical Features for Multi-exposure Image Fusion**|Pan Mu et.al.|[2404.06033](http://arxiv.org/abs/2404.06033)|**[link](https://github.com/zhiyingdu/bhfmef)**|
