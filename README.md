@@ -1470,6 +1470,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-09-05**|**Enabling Practical and Privacy-Preserving Image Processing**|Chao Wang et.al.|[2409.03568](http://arxiv.org/abs/2409.03568)|null|
+|**2024-09-04**|**A General Albedo Recovery Approach for Aerial Photogrammetric Images through Inverse Rendering**|Shuang Song et.al.|[2409.03032](http://arxiv.org/abs/2409.03032)|null|
 |**2024-08-29**|**Super-Resolution works for coastal simulations**|Zhi-Song Liu et.al.|[2408.16553](http://arxiv.org/abs/2408.16553)|null|
 |**2024-08-29**|**Mismatched: Evaluating the Limits of Image Matching Approaches and Benchmarks**|Sierra Bonilla et.al.|[2408.16445](http://arxiv.org/abs/2408.16445)|**[link](https://github.com/surgical-vision/colmap-match-converter)**|
 |**2024-08-26**|**Affine steerers for structured keypoint description**|Georg Bökman et.al.|[2408.14186](http://arxiv.org/abs/2408.14186)|**[link](https://github.com/georg-bn/affine-steerers)**|
@@ -2431,7 +2433,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2024-09-04**|**Multi-Head Attention Residual Unfolded Network for Model-Based Pansharpening**|Ivan Pereira-Sánchez et.al.|[2409.02675](http://arxiv.org/abs/2409.02675)|null|
+|**2024-09-05**|**Why mamba is effective? Exploit Linear Transformer-Mamba Network for Multi-Modality Image Fusion**|Chenguang Zhu et.al.|[2409.03223](http://arxiv.org/abs/2409.03223)|null|
+|**2024-09-04**|**Multi-Head Attention Residual Unfolded Network for Model-Based Pansharpening**|Ivan Pereira-Sánchez et.al.|[2409.02675](http://arxiv.org/abs/2409.02675)|**[link](https://github.com/tami-uib/marnet)**|
 |**2024-09-03**|**Shuffle Mamba: State Space Models with Random Shuffle for Multi-Modal Image Fusion**|Ke Cao et.al.|[2409.01728](http://arxiv.org/abs/2409.01728)|null|
 |**2024-08-28**|**MMDRFuse: Distilled Mini-Model with Dynamic Refresh for Multi-Modality Image Fusion**|Yanglin Deng et.al.|[2408.15641](http://arxiv.org/abs/2408.15641)|**[link](https://github.com/yanglindeng/mmdrfuse)**|
 |**2024-08-26**|**FusionSAM: Latent Space driven Segment Anything Model for Multimodal Fusion and Segmentation**|Daixun Li et.al.|[2408.13980](http://arxiv.org/abs/2408.13980)|null|
@@ -2683,7 +2686,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2024-09-04**|**Multi-Head Attention Residual Unfolded Network for Model-Based Pansharpening**|Ivan Pereira-Sánchez et.al.|[2409.02675](http://arxiv.org/abs/2409.02675)|null|
+|**2024-09-05**|**Why mamba is effective? Exploit Linear Transformer-Mamba Network for Multi-Modality Image Fusion**|Chenguang Zhu et.al.|[2409.03223](http://arxiv.org/abs/2409.03223)|null|
+|**2024-09-04**|**Multi-Head Attention Residual Unfolded Network for Model-Based Pansharpening**|Ivan Pereira-Sánchez et.al.|[2409.02675](http://arxiv.org/abs/2409.02675)|**[link](https://github.com/tami-uib/marnet)**|
 |**2024-09-03**|**Shuffle Mamba: State Space Models with Random Shuffle for Multi-Modal Image Fusion**|Ke Cao et.al.|[2409.01728](http://arxiv.org/abs/2409.01728)|null|
 |**2024-08-28**|**MMDRFuse: Distilled Mini-Model with Dynamic Refresh for Multi-Modality Image Fusion**|Yanglin Deng et.al.|[2408.15641](http://arxiv.org/abs/2408.15641)|**[link](https://github.com/yanglindeng/mmdrfuse)**|
 |**2024-08-26**|**FusionSAM: Latent Space driven Segment Anything Model for Multimodal Fusion and Segmentation**|Daixun Li et.al.|[2408.13980](http://arxiv.org/abs/2408.13980)|null|
@@ -2779,6 +2783,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-09-05**|**The Kneser--Poulsen phenomena for entropy**|Gautam Aishwarya et.al.|[2409.03664](http://arxiv.org/abs/2409.03664)|null|
 |**2024-09-04**|**Regularized Multi-output Gaussian Convolution Process with Domain Adaptation**|Wang Xinming et.al.|[2409.02778](http://arxiv.org/abs/2409.02778)|null|
 |**2024-06-11**|**Closing the Computational-Query Depth Gap in Parallel Stochastic Convex Optimization**|Arun Jambulapati et.al.|[2406.07373](http://arxiv.org/abs/2406.07373)|null|
 |**2024-05-25**|**Iterative Thresholding Methods for Longest Minimal Length Partitions**|Shilong Hu et.al.|[2405.16040](http://arxiv.org/abs/2405.16040)|null|
