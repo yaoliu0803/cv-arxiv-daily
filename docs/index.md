@@ -2507,6 +2507,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-09-09**|**Adaptive Visual Servoing for On-Orbit Servicing**|Farhad Aghili et.al.|[2409.05295](http://arxiv.org/abs/2409.05295)|null|
+|**2024-09-08**|**Unsupervised Multimodal 3D Medical Image Registration with Multilevel Correlation Balanced Optimization**|Jiazheng Wang et.al.|[2409.05040](http://arxiv.org/abs/2409.05040)|null|
+|**2024-09-06**|**Influence of Early through Late Fusion on Pancreas Segmentation from Imperfectly Registered Multimodal MRI**|Lucas W. Remedios et.al.|[2409.04563](http://arxiv.org/abs/2409.04563)|**[link](https://github.com/masilab/influence_of_fusion_on_pancreas_segmentation)**|
 |**2024-09-04**|**Image Registration with Averaging Network and Edge-Based Loss for Low-SNR Cardiac MRI**|Xuan Lei et.al.|[2409.02348](http://arxiv.org/abs/2409.02348)|null|
 |**2024-09-02**|**Progressive Retinal Image Registration via Global and Local Deformable Transformations**|Yepeng Liu et.al.|[2409.01068](http://arxiv.org/abs/2409.01068)|**[link](https://github.com/lyp-deeplearning/awesome-retinal-registration)**|
 |**2024-09-04**|**Large Scale Unsupervised Brain MRI Image Registration Solution for Learn2Reg 2024**|Yuxi Zhang et.al.|[2409.00917](http://arxiv.org/abs/2409.00917)|null|
