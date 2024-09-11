@@ -1451,6 +1451,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-09-10**|**Weakly-supervised Camera Localization by Ground-to-satellite Image Registration**|Yujiao Shi et.al.|[2409.06471](http://arxiv.org/abs/2409.06471)|**[link](https://github.com/yujiaoshi/g2sweakly)**|
 |**2024-09-05**|**Enabling Practical and Privacy-Preserving Image Processing**|Chao Wang et.al.|[2409.03568](http://arxiv.org/abs/2409.03568)|null|
 |**2024-09-04**|**A General Albedo Recovery Approach for Aerial Photogrammetric Images through Inverse Rendering**|Shuang Song et.al.|[2409.03032](http://arxiv.org/abs/2409.03032)|null|
 |**2024-08-29**|**Super-Resolution works for coastal simulations**|Zhi-Song Liu et.al.|[2408.16553](http://arxiv.org/abs/2408.16553)|null|
@@ -2507,6 +2508,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-09-10**|**Weakly-supervised Camera Localization by Ground-to-satellite Image Registration**|Yujiao Shi et.al.|[2409.06471](http://arxiv.org/abs/2409.06471)|**[link](https://github.com/yujiaoshi/g2sweakly)**|
 |**2024-09-09**|**Adaptive Visual Servoing for On-Orbit Servicing**|Farhad Aghili et.al.|[2409.05295](http://arxiv.org/abs/2409.05295)|null|
 |**2024-09-08**|**Unsupervised Multimodal 3D Medical Image Registration with Multilevel Correlation Balanced Optimization**|Jiazheng Wang et.al.|[2409.05040](http://arxiv.org/abs/2409.05040)|null|
 |**2024-09-06**|**Influence of Early through Late Fusion on Pancreas Segmentation from Imperfectly Registered Multimodal MRI**|Lucas W. Remedios et.al.|[2409.04563](http://arxiv.org/abs/2409.04563)|**[link](https://github.com/masilab/influence_of_fusion_on_pancreas_segmentation)**|
