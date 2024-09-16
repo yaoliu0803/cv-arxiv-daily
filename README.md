@@ -44,7 +44,7 @@
 |**2023-09-20**|**OCC-VO: Dense Mapping via 3D Occupancy-Based Visual Odometry for Autonomous Driving**|Heng Li et.al.|[2309.11011](http://arxiv.org/abs/2309.11011)|**[link](https://github.com/ustclh/occ-vo)**|
 |**2023-09-19**|**LiDAR-Generated Images Derived Keypoints Assisted Point Cloud Registration Scheme in Odometry Estimation**|Haizhou Zhang et.al.|[2309.10436](http://arxiv.org/abs/2309.10436)|**[link](https://github.com/tiers/ws-lidar-as-camera-odom)**|
 |**2023-09-21**|**Dive Deeper into Rectifying Homography for Stereo Camera Online Self-Calibration**|Hongbo Zhao et.al.|[2309.10314](http://arxiv.org/abs/2309.10314)|null|
-|**2023-09-18**|**End-to-End Learned Event- and Image-based Visual Odometry**|Roberto Pellerito et.al.|[2309.09947](http://arxiv.org/abs/2309.09947)|null|
+|**2023-09-18**|**End-to-End Learned Event- and Image-based Visual Odometry**|Roberto Pellerito et.al.|[2309.09947](http://arxiv.org/abs/2309.09947)|**[link](https://github.com/uzh-rpg/rampvo)**|
 |**2023-09-14**|**An Explicit Method for Fast Monocular Depth Recovery in Corridor Environments**|Yehao Liu et.al.|[2309.07408](http://arxiv.org/abs/2309.07408)|null|
 |**2023-09-11**|**Evaluating Visual Odometry Methods for Autonomous Driving in Rain**|Yu Xiang Tan et.al.|[2309.05249](http://arxiv.org/abs/2309.05249)|null|
 |**2023-09-08**|**Robot Localization and Mapping Final Report -- Sequential Adversarial Learning for Self-Supervised Deep Visual Odometry**|Akankshya Kar et.al.|[2309.04147](http://arxiv.org/abs/2309.04147)|null|
@@ -237,7 +237,7 @@
 |**2022-08-25**|**Lidar SLAM for Autonomous Driving Vehicles**|Farhad Aghili et.al.|[2208.11855](http://arxiv.org/abs/2208.11855)|null|
 |**2022-08-24**|**DynaVINS: A Visual-Inertial SLAM for Dynamic Environments**|Seungwon Song et.al.|[2208.11500](http://arxiv.org/abs/2208.11500)|**[link](https://github.com/url-kaist/dynavins)**|
 |**2022-08-22**|**Doppler Exploitation in Bistatic mmWave Radio SLAM**|Yu Ge et.al.|[2208.10204](http://arxiv.org/abs/2208.10204)|null|
-|**2022-08-21**|**Hilti-Oxford Dataset: A Millimetre-Accurate Benchmark for Simultaneous Localization and Mapping**|Lintong Zhang et.al.|[2208.09825](http://arxiv.org/abs/2208.09825)|null|
+|**2022-08-21**|**Hilti-Oxford Dataset: A Millimetre-Accurate Benchmark for Simultaneous Localization and Mapping**|Lintong Zhang et.al.|[2208.09825](http://arxiv.org/abs/2208.09825)|**[link](https://github.com/hilti-research/hilti-slam-challenge-2022)**|
 |**2022-08-26**|**JVLDLoc: a Joint Optimization of Visual-LiDAR Constraints and Direction Priors for Localization in Driving Scenario**|Longrui Dong et.al.|[2208.09777](http://arxiv.org/abs/2208.09777)|null|
 |**2022-08-15**|**BoW3D: Bag of Words for Real-time Loop Closing in 3D LiDAR SLAM**|Yunge Cui et.al.|[2208.07473](http://arxiv.org/abs/2208.07473)|**[link](https://github.com/yungecui/bow3d)**|
 |**2022-08-12**|**Handling Constrained Optimization in Factor Graphs for Autonomous Navigation**|Barbara Bazzana et.al.|[2208.06325](http://arxiv.org/abs/2208.06325)|null|
