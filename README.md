@@ -2568,7 +2568,7 @@
 |**2024-09-01**|**MBSS-T1: Model-Based Self-Supervised Motion Correction for Robust Cardiac T1 Mapping**|Eyal Hanania et.al.|[2408.11992](http://arxiv.org/abs/2408.11992)|null|
 |**2024-08-20**|**Large Language Models for Multimodal Deformable Image Registration**|Mingrui Ma et.al.|[2408.10703](http://arxiv.org/abs/2408.10703)|**[link](https://github.com/ninjannn/llm-morph)**|
 |**2024-08-20**|**deepmriprep: Voxel-based Morphometry (VBM) Preprocessing via Deep Neural Networks**|Lukas Fisch et.al.|[2408.10656](http://arxiv.org/abs/2408.10656)|**[link](https://github.com/wwu-mmll/deepmriprep)**|
-|**2024-08-11**|**Deep Learning in Medical Image Registration: Magic or Mirage?**|Rohit Jena et.al.|[2408.05839](http://arxiv.org/abs/2408.05839)|null|
+|**2024-08-11**|**Deep Learning in Medical Image Registration: Magic or Mirage?**|Rohit Jena et.al.|[2408.05839](http://arxiv.org/abs/2408.05839)|**[link](https://github.com/rohitrango/Magic-or-Mirage)**|
 |**2024-08-11**|**Deformable Image Registration with Multi-scale Feature Fusion from Shared Encoder, Auxiliary and Pyramid Decoders**|Hongchao Zhou et.al.|[2408.05717](http://arxiv.org/abs/2408.05717)|null|
 |**2024-08-03**|**CAR: Contrast-Agnostic Deformable Medical Image Registration with Contrast-Invariant Latent Regularization**|Yinsong Wang et.al.|[2408.05341](http://arxiv.org/abs/2408.05341)|null|
 |**2024-08-01**|**Centimeter-sized Objects at Micrometer Resolution: Extending Field-of-View in Wavefront Marker X-ray Phase-Contrast Tomography**|Dominik John et.al.|[2408.00482](http://arxiv.org/abs/2408.00482)|null|
