@@ -1228,6 +1228,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-08**|**Unsupervised Model Diagnosis**|Yinong Oliver Wang et.al.|[2410.06243](http://arxiv.org/abs/2410.06243)|null|
+|**2024-10-08**|**Equi-GSPR: Equivariant SE(3) Graph Network Model for Sparse Point Cloud Registration**|Xueyang Kang et.al.|[2410.05729](http://arxiv.org/abs/2410.05729)|**[link](https://github.com/alexandor91/se3-equi-graph-registration)**|
 |**2024-10-03**|**Key-Grid: Unsupervised 3D Keypoints Detection using Grid Heatmap Features**|Chengkai Hou et.al.|[2410.02237](http://arxiv.org/abs/2410.02237)|null|
 |**2024-10-02**|**Gaussian-Det: Learning Closed-Surface Gaussians for 3D Object Detection**|Hongru Yan et.al.|[2410.01404](http://arxiv.org/abs/2410.01404)|null|
 |**2024-09-30**|**OpenKD: Opening Prompt Diversity for Zero- and Few-shot Keypoint Detection**|Changsheng Lu et.al.|[2409.19899](http://arxiv.org/abs/2409.19899)|null|
@@ -2445,6 +2447,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-09**|**Rethinking the Evaluation of Visible and Infrared Image Fusion**|Dayan Guan et.al.|[2410.06811](http://arxiv.org/abs/2410.06811)|**[link](https://github.com/yixuan-2002/sea)**|
 |**2024-09-28**|**Extending Depth of Field for Varifocal Multiview Images**|Zhilong Li et.al.|[2409.19220](http://arxiv.org/abs/2409.19220)|null|
 |**2024-09-27**|**Multi-modal Medical Image Fusion For Non-Small Cell Lung Cancer Classification**|Salma Hassan et.al.|[2409.18715](http://arxiv.org/abs/2409.18715)|null|
 |**2024-09-07**|**A Lightweight GAN-Based Image Fusion Algorithm for Visible and Infrared Images**|Zhizhong Wu et.al.|[2409.15332](http://arxiv.org/abs/2409.15332)|null|
@@ -2726,6 +2729,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-09**|**Rethinking the Evaluation of Visible and Infrared Image Fusion**|Dayan Guan et.al.|[2410.06811](http://arxiv.org/abs/2410.06811)|**[link](https://github.com/yixuan-2002/sea)**|
 |**2024-09-28**|**Extending Depth of Field for Varifocal Multiview Images**|Zhilong Li et.al.|[2409.19220](http://arxiv.org/abs/2409.19220)|null|
 |**2024-09-27**|**Multi-modal Medical Image Fusion For Non-Small Cell Lung Cancer Classification**|Salma Hassan et.al.|[2409.18715](http://arxiv.org/abs/2409.18715)|null|
 |**2024-09-07**|**A Lightweight GAN-Based Image Fusion Algorithm for Visible and Infrared Images**|Zhizhong Wu et.al.|[2409.15332](http://arxiv.org/abs/2409.15332)|null|
