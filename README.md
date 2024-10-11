@@ -2566,7 +2566,7 @@
 |**2024-09-29**|**Dual-Attention Frequency Fusion at Multi-Scale for Joint Segmentation and Deformable Medical Image Registration**|Hongchao Zhou et.al.|[2409.19658](http://arxiv.org/abs/2409.19658)|null|
 |**2024-09-27**|**ADEPT: A Noninvasive Method for Determining Elastic Properties of Valve Tissue**|Wensi Wu et.al.|[2409.19081](http://arxiv.org/abs/2409.19081)|null|
 |**2024-09-24**|**Automatic Registration of SHG and H&E Images with Feature-based Initial Alignment and Intensity-based Instance Optimization: Contribution to the COMULIS Challenge**|Marek Wodzinski et.al.|[2409.15931](http://arxiv.org/abs/2409.15931)|null|
-|**2024-09-20**|**Unsupervised Learning of Multi-modal Affine Registration for PET/CT**|Junyu Chen et.al.|[2409.13863](http://arxiv.org/abs/2409.13863)|null|
+|**2024-09-20**|**Unsupervised Learning of Multi-modal Affine Registration for PET/CT**|Junyu Chen et.al.|[2409.13863](http://arxiv.org/abs/2409.13863)|**[link](https://github.com/junyuchen245/correlation_ratio)**|
 |**2024-09-20**|**A solution for co-locating 2D histology images in 3D for histology-to-CT and MR image registration: closing the loop for bone sarcoma treatment planning**|Robert Phillips et.al.|[2409.13217](http://arxiv.org/abs/2409.13217)|null|
 |**2024-09-18**|**Tumor aware recurrent inter-patient deformable image registration of computed tomography scans with lung cancer**|Jue Jiang et.al.|[2409.11910](http://arxiv.org/abs/2409.11910)|null|
 |**2024-09-11**|**Quantifying Knee Cartilage Shape and Lesion: From Image to Metrics**|Yongcheng Yao et.al.|[2409.07361](http://arxiv.org/abs/2409.07361)|**[link](https://github.com/yongchengyao/cmt-amai24paper)**|
