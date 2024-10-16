@@ -1481,6 +1481,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-15**|**LoGS: Visual Localization via Gaussian Splatting with Fewer Training Images**|Yuzhou Cheng et.al.|[2410.11505](http://arxiv.org/abs/2410.11505)|null|
 |**2024-10-12**|**Leveraging Semantic Cues from Foundation Vision Models for Enhanced Local Feature Correspondence**|Felipe Cadar et.al.|[2410.09533](http://arxiv.org/abs/2410.09533)|null|
 |**2024-09-27**|**Exploiting Motion Prior for Accurate Pose Estimation of Dashboard Cameras**|Yipeng Lu et.al.|[2409.18673](http://arxiv.org/abs/2409.18673)|null|
 |**2024-09-25**|**Game4Loc: A UAV Geo-Localization Benchmark from Game Data**|Yuxiang Ji et.al.|[2409.16925](http://arxiv.org/abs/2409.16925)|**[link](https://github.com/Yux1angJi/GTA-UAV)**|
@@ -2560,6 +2561,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-15**|**RS-MOCO: A deep learning-based topology-preserving image registration method for cardiac T1 mapping**|Chiyi Huang et.al.|[2410.11651](http://arxiv.org/abs/2410.11651)|null|
+|**2024-10-14**|**MoonMetaSync: Lunar Image Registration Analysis**|Ashutosh Kumar et.al.|[2410.11118](http://arxiv.org/abs/2410.11118)|null|
+|**2024-10-14**|**Stationary Velocity Fields on Matrix Groups for Deformable Image Registration**|Johannes Bostelmann et.al.|[2410.10997](http://arxiv.org/abs/2410.10997)|null|
 |**2024-10-14**|**A Counterexample in Image Registration**|Serap A. Savari et.al.|[2410.10725](http://arxiv.org/abs/2410.10725)|null|
 |**2024-10-12**|**FiRework: Field Refinement Framework for Efficient Enhancement of Deformable Registration**|Haiqiao Wang et.al.|[2410.09595](http://arxiv.org/abs/2410.09595)|**[link](https://github.com/zax130/firework)**|
 |**2024-10-12**|**Leveraging Semantic Cues from Foundation Vision Models for Enhanced Local Feature Correspondence**|Felipe Cadar et.al.|[2410.09533](http://arxiv.org/abs/2410.09533)|null|
