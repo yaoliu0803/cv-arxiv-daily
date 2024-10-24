@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.10.23
+## Updated on 2024.10.24
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -2542,7 +2542,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-10-21**|**Improving Instance Optimization in Deformable Image Registration with Gradient Projection**|Yi Zhang et.al.|[2410.15767](http://arxiv.org/abs/2410.15767)|null|
+|**2024-10-23**|**Improving Instance Optimization in Deformable Image Registration with Gradient Projection**|Yi Zhang et.al.|[2410.15767](http://arxiv.org/abs/2410.15767)|null|
 |**2024-10-18**|**GESH-Net: Graph-Enhanced Spherical Harmonic Convolutional Networks for Cortical Surface Registration**|Ruoyu Zhang et.al.|[2410.14805](http://arxiv.org/abs/2410.14805)|null|
 |**2024-10-18**|**2D-3D Deformable Image Registration of Histology Slide and Micro-CT with ML-based Initialization**|Junan Chen et.al.|[2410.14343](http://arxiv.org/abs/2410.14343)|null|
 |**2024-10-17**|**SAMReg: SAM-enabled Image Registration with ROI-based Correspondence**|Shiqi Huang et.al.|[2410.14083](http://arxiv.org/abs/2410.14083)|**[link](https://github.com/sqhuang0103/samreg)**|
