@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.11.10
+## Updated on 2024.11.11
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -2445,7 +2445,7 @@ layout: default
 |**2024-11-07**|**Dynamic Brightness Adaptation for Robust Multi-modal Image Fusion**|Yiming Sun et.al.|[2411.04697](http://arxiv.org/abs/2411.04697)|**[link](https://github.com/sunym2020/ba-fusion)**|
 |**2024-11-07**|**l0-Regularized Sparse Coding-based Interpretable Network for Multi-Modal Image Fusion**|Gargi Panda et.al.|[2411.04519](http://arxiv.org/abs/2411.04519)|null|
 |**2024-11-05**|**Test-Time Dynamic Image Fusion**|Bing Cao et.al.|[2411.02840](http://arxiv.org/abs/2411.02840)|**[link](https://github.com/yinan-xia/ttd)**|
-|**2024-11-03**|**Conditional Controllable Image Fusion**|Bing Cao et.al.|[2411.01573](http://arxiv.org/abs/2411.01573)|null|
+|**2024-11-03**|**Conditional Controllable Image Fusion**|Bing Cao et.al.|[2411.01573](http://arxiv.org/abs/2411.01573)|**[link](https://github.com/jehovahxu/CCF)**|
 |**2024-10-31**|**Text-DiFuse: An Interactive Multi-Modal Image Fusion Framework based on Text-modulated Diffusion Model**|Hao Zhang et.al.|[2410.23905](http://arxiv.org/abs/2410.23905)|**[link](https://github.com/leiii-cao/text-difuse)**|
 |**2024-10-30**|**SFDFusion: An Efficient Spatial-Frequency Domain Fusion Network for Infrared and Visible Image Fusion**|Kun Hu et.al.|[2410.22837](http://arxiv.org/abs/2410.22837)|**[link](https://github.com/lqz2/SFDFusion)**|
 |**2024-10-28**|**Kandinsky 3: Text-to-Image Synthesis for Multifunctional Generative Framework**|Vladimir Arkhipkin et.al.|[2410.21061](http://arxiv.org/abs/2410.21061)|null|
@@ -2754,7 +2754,7 @@ layout: default
 |**2024-11-07**|**Dynamic Brightness Adaptation for Robust Multi-modal Image Fusion**|Yiming Sun et.al.|[2411.04697](http://arxiv.org/abs/2411.04697)|**[link](https://github.com/sunym2020/ba-fusion)**|
 |**2024-11-07**|**l0-Regularized Sparse Coding-based Interpretable Network for Multi-Modal Image Fusion**|Gargi Panda et.al.|[2411.04519](http://arxiv.org/abs/2411.04519)|null|
 |**2024-11-05**|**Test-Time Dynamic Image Fusion**|Bing Cao et.al.|[2411.02840](http://arxiv.org/abs/2411.02840)|**[link](https://github.com/yinan-xia/ttd)**|
-|**2024-11-03**|**Conditional Controllable Image Fusion**|Bing Cao et.al.|[2411.01573](http://arxiv.org/abs/2411.01573)|null|
+|**2024-11-03**|**Conditional Controllable Image Fusion**|Bing Cao et.al.|[2411.01573](http://arxiv.org/abs/2411.01573)|**[link](https://github.com/jehovahxu/CCF)**|
 |**2024-10-31**|**Text-DiFuse: An Interactive Multi-Modal Image Fusion Framework based on Text-modulated Diffusion Model**|Hao Zhang et.al.|[2410.23905](http://arxiv.org/abs/2410.23905)|**[link](https://github.com/leiii-cao/text-difuse)**|
 |**2024-10-30**|**SFDFusion: An Efficient Spatial-Frequency Domain Fusion Network for Infrared and Visible Image Fusion**|Kun Hu et.al.|[2410.22837](http://arxiv.org/abs/2410.22837)|**[link](https://github.com/lqz2/SFDFusion)**|
 |**2024-10-28**|**Kandinsky 3: Text-to-Image Synthesis for Multifunctional Generative Framework**|Vladimir Arkhipkin et.al.|[2410.21061](http://arxiv.org/abs/2410.21061)|null|
