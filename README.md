@@ -2587,6 +2587,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-11-13**|**A generalized software framework for consolidation of radiotherapy planning and delivery data from diverse data sources**|Yasin Abdulkadir et.al.|[2411.08876](http://arxiv.org/abs/2411.08876)|null|
 |**2024-11-12**|**Atmospheric turbulence restoration by diffeomorphic image registration and blind deconvolution**|Jerome Gilles et.al.|[2411.07578](http://arxiv.org/abs/2411.07578)|null|
 |**2024-11-12**|**Uncertainty-Aware Test-Time Adaptation for Inverse Consistent Diffeomorphic Lung Image Registration**|Muhammad F. A. Chaudhary et.al.|[2411.07567](http://arxiv.org/abs/2411.07567)|null|
 |**2024-11-11**|**XPoint: A Self-Supervised Visual-State-Space based Architecture for Multispectral Image Registration**|Ismail Can Yagmur et.al.|[2411.07430](http://arxiv.org/abs/2411.07430)|**[link](https://github.com/canyagmur/xpoint)**|
