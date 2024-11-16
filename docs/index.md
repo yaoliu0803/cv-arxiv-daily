@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.11.15
+## Updated on 2024.11.16
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -2451,7 +2451,7 @@ layout: default
 |**2024-11-03**|**Conditional Controllable Image Fusion**|Bing Cao et.al.|[2411.01573](http://arxiv.org/abs/2411.01573)|**[link](https://github.com/jehovahxu/CCF)**|
 |**2024-10-31**|**Text-DiFuse: An Interactive Multi-Modal Image Fusion Framework based on Text-modulated Diffusion Model**|Hao Zhang et.al.|[2410.23905](http://arxiv.org/abs/2410.23905)|**[link](https://github.com/leiii-cao/text-difuse)**|
 |**2024-10-30**|**SFDFusion: An Efficient Spatial-Frequency Domain Fusion Network for Infrared and Visible Image Fusion**|Kun Hu et.al.|[2410.22837](http://arxiv.org/abs/2410.22837)|**[link](https://github.com/lqz2/SFDFusion)**|
-|**2024-10-28**|**Kandinsky 3: Text-to-Image Synthesis for Multifunctional Generative Framework**|Vladimir Arkhipkin et.al.|[2410.21061](http://arxiv.org/abs/2410.21061)|null|
+|**2024-10-28**|**Kandinsky 3: Text-to-Image Synthesis for Multifunctional Generative Framework**|Vladimir Arkhipkin et.al.|[2410.21061](http://arxiv.org/abs/2410.21061)|**[link](https://github.com/ai-forever/kandinsky-3)**|
 |**2024-10-21**|**Scene-Segmentation-Based Exposure Compensation for Tone Mapping of High Dynamic Range Scenes**|Yuma Kinoshita et.al.|[2410.19839](http://arxiv.org/abs/2410.19839)|null|
 |**2024-10-16**|**Fusion from Decomposition: A Self-Supervised Approach for Image Fusion and Beyond**|Pengwei Liang et.al.|[2410.12274](http://arxiv.org/abs/2410.12274)|null|
 |**2024-10-13**|**Fusion Based Hand Geometry Recognition Using Dempster-Shafer Theory**|Asish Bera et.al.|[2410.09842](http://arxiv.org/abs/2410.09842)|null|
@@ -2767,7 +2767,7 @@ layout: default
 |**2024-11-03**|**Conditional Controllable Image Fusion**|Bing Cao et.al.|[2411.01573](http://arxiv.org/abs/2411.01573)|**[link](https://github.com/jehovahxu/CCF)**|
 |**2024-10-31**|**Text-DiFuse: An Interactive Multi-Modal Image Fusion Framework based on Text-modulated Diffusion Model**|Hao Zhang et.al.|[2410.23905](http://arxiv.org/abs/2410.23905)|**[link](https://github.com/leiii-cao/text-difuse)**|
 |**2024-10-30**|**SFDFusion: An Efficient Spatial-Frequency Domain Fusion Network for Infrared and Visible Image Fusion**|Kun Hu et.al.|[2410.22837](http://arxiv.org/abs/2410.22837)|**[link](https://github.com/lqz2/SFDFusion)**|
-|**2024-10-28**|**Kandinsky 3: Text-to-Image Synthesis for Multifunctional Generative Framework**|Vladimir Arkhipkin et.al.|[2410.21061](http://arxiv.org/abs/2410.21061)|null|
+|**2024-10-28**|**Kandinsky 3: Text-to-Image Synthesis for Multifunctional Generative Framework**|Vladimir Arkhipkin et.al.|[2410.21061](http://arxiv.org/abs/2410.21061)|**[link](https://github.com/ai-forever/kandinsky-3)**|
 |**2024-10-21**|**Scene-Segmentation-Based Exposure Compensation for Tone Mapping of High Dynamic Range Scenes**|Yuma Kinoshita et.al.|[2410.19839](http://arxiv.org/abs/2410.19839)|null|
 |**2024-10-16**|**Fusion from Decomposition: A Self-Supervised Approach for Image Fusion and Beyond**|Pengwei Liang et.al.|[2410.12274](http://arxiv.org/abs/2410.12274)|null|
 |**2024-10-13**|**Fusion Based Hand Geometry Recognition Using Dempster-Shafer Theory**|Asish Bera et.al.|[2410.09842](http://arxiv.org/abs/2410.09842)|null|
