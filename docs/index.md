@@ -2571,6 +2571,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-11-25**|**Improving Deformable Image Registration Accuracy through a Hybrid Similarity Metric and CycleGAN Based Auto-Segmentation**|Keyur D. Shah et.al.|[2411.16992](http://arxiv.org/abs/2411.16992)|null|
 |**2024-11-25**|**Oriented histogram-based vector field embedding for characterizing 4D CT data sets in radiotherapy**|Frederic Madesta et.al.|[2411.16314](http://arxiv.org/abs/2411.16314)|null|
 |**2024-11-24**|**ZeroGS: Training 3D Gaussian Splatting from Unposed Images**|Yu Chen et.al.|[2411.15779](http://arxiv.org/abs/2411.15779)|null|
 |**2024-11-23**|**LDM-Morph: Latent diffusion model guided deformable image registration**|Jiong Wu et.al.|[2411.15426](http://arxiv.org/abs/2411.15426)|**[link](https://github.com/wujiong-hub/ldm-morph)**|
