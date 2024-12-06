@@ -2450,6 +2450,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-05**|**Hipandas: Hyperspectral Image Joint Denoising and Super-Resolution by Image Fusion with the Panchromatic Image**|Shuang Xu et.al.|[2412.04201](http://arxiv.org/abs/2412.04201)|null|
 |**2024-12-04**|**Task-driven Image Fusion with Learnable Fusion Loss**|Haowen Bai et.al.|[2412.03240](http://arxiv.org/abs/2412.03240)|null|
 |**2024-12-02**|**Pixel-aligned RGB-NIR Stereo Imaging and Dataset for Robot Vision**|Jinnyeong Kim et.al.|[2411.18025](http://arxiv.org/abs/2411.18025)|null|
 |**2024-11-16**|**Infrared-Assisted Single-Stage Framework for Joint Restoration and Fusion of Visible and Infrared Images under Hazy Conditions**|Huafeng Li et.al.|[2411.12586](http://arxiv.org/abs/2411.12586)|null|
@@ -2781,6 +2782,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-05**|**Hipandas: Hyperspectral Image Joint Denoising and Super-Resolution by Image Fusion with the Panchromatic Image**|Shuang Xu et.al.|[2412.04201](http://arxiv.org/abs/2412.04201)|null|
 |**2024-12-04**|**Task-driven Image Fusion with Learnable Fusion Loss**|Haowen Bai et.al.|[2412.03240](http://arxiv.org/abs/2412.03240)|null|
 |**2024-12-02**|**Pixel-aligned RGB-NIR Stereo Imaging and Dataset for Robot Vision**|Jinnyeong Kim et.al.|[2411.18025](http://arxiv.org/abs/2411.18025)|null|
 |**2024-11-16**|**Infrared-Assisted Single-Stage Framework for Joint Restoration and Fusion of Visible and Infrared Images under Hazy Conditions**|Huafeng Li et.al.|[2411.12586](http://arxiv.org/abs/2411.12586)|null|
