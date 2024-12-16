@@ -1210,6 +1210,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-12**|**Agtech Framework for Cranberry-Ripening Analysis Using Vision Foundation Models**|Faith Johnson et.al.|[2412.09739](http://arxiv.org/abs/2412.09739)|null|
 |**2024-12-09**|**An Efficient Scene Coordinate Encoding and Relocalization Method**|Kuan Xu et.al.|[2412.06488](http://arxiv.org/abs/2412.06488)|**[link](https://github.com/sair-lab/SeqACE)**|
 |**2024-12-09**|**ZeroKey: Point-Level Reasoning and Zero-Shot 3D Keypoint Detection from Large Language Models**|Bingchen Gong et.al.|[2412.06292](http://arxiv.org/abs/2412.06292)|null|
 |**2024-12-07**|**Securing Social Media Against Deepfakes using Identity, Behavioral, and Geometric Signatures**|Muhammad Umar Farooq et.al.|[2412.05487](http://arxiv.org/abs/2412.05487)|null|
@@ -2453,8 +2454,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-13**|**$\textrm{A}^{\textrm{2}}$ RNet: Adversarial Attack Resilient Network for Robust Infrared and Visible Image Fusion**|Jiawei Li et.al.|[2412.09954](http://arxiv.org/abs/2412.09954)|null|
 |**2024-12-11**|**Visible and Infrared Image Fusion Using Encoder-Decoder Network**|Ferhat Can Ataman et.al.|[2412.08073](http://arxiv.org/abs/2412.08073)|**[link](https://github.com/ferhatcan/pyfusionsr)**|
-|**2024-12-11**|**BSAFusion: A Bidirectional Stepwise Feature Alignment Network for Unaligned Medical Image Fusion**|Huafeng Li et.al.|[2412.08050](http://arxiv.org/abs/2412.08050)|**[link](https://github.com/slrl123/bsafusion)**|
+|**2024-12-13**|**BSAFusion: A Bidirectional Stepwise Feature Alignment Network for Unaligned Medical Image Fusion**|Huafeng Li et.al.|[2412.08050](http://arxiv.org/abs/2412.08050)|**[link](https://github.com/slrl123/bsafusion)**|
 |**2024-12-08**|**A Review on Multisensor Data Fusion for Wearable Health Monitoring**|Arlene John et.al.|[2412.05895](http://arxiv.org/abs/2412.05895)|null|
 |**2024-12-06**|**DEYOLO: Dual-Feature-Enhancement YOLO for Cross-Modality Object Detection**|Yishuo Chen et.al.|[2412.04931](http://arxiv.org/abs/2412.04931)|**[link](https://github.com/chips96/deyolo)**|
 |**2024-12-06**|**Modality Decoupling is All You Need: A Simple Solution for Unsupervised Hyperspectral Image Fusion**|Songcheng Du et.al.|[2412.04802](http://arxiv.org/abs/2412.04802)|null|
@@ -2585,6 +2587,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-12**|**On Round-Off Errors and Gaussian Blur in Superresolution and in Image Registration**|Serap A. Savari et.al.|[2412.09741](http://arxiv.org/abs/2412.09741)|null|
 |**2024-11-27**|**Neural Image Unfolding: Flattening Sparse Anatomical Structures using Neural Fields**|Leonhard Rist et.al.|[2411.18415](http://arxiv.org/abs/2411.18415)|null|
 |**2024-11-26**|**CAMLD: Contrast-Agnostic Medical Landmark Detection with Consistency-Based Regularization**|Soorena Salari et.al.|[2411.17845](http://arxiv.org/abs/2411.17845)|null|
 |**2024-11-25**|**Improving Deformable Image Registration Accuracy through a Hybrid Similarity Metric and CycleGAN Based Auto-Segmentation**|Keyur D. Shah et.al.|[2411.16992](http://arxiv.org/abs/2411.16992)|null|
@@ -2790,8 +2793,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-13**|**$\textrm{A}^{\textrm{2}}$ RNet: Adversarial Attack Resilient Network for Robust Infrared and Visible Image Fusion**|Jiawei Li et.al.|[2412.09954](http://arxiv.org/abs/2412.09954)|null|
 |**2024-12-11**|**Visible and Infrared Image Fusion Using Encoder-Decoder Network**|Ferhat Can Ataman et.al.|[2412.08073](http://arxiv.org/abs/2412.08073)|**[link](https://github.com/ferhatcan/pyfusionsr)**|
-|**2024-12-11**|**BSAFusion: A Bidirectional Stepwise Feature Alignment Network for Unaligned Medical Image Fusion**|Huafeng Li et.al.|[2412.08050](http://arxiv.org/abs/2412.08050)|**[link](https://github.com/slrl123/bsafusion)**|
+|**2024-12-13**|**BSAFusion: A Bidirectional Stepwise Feature Alignment Network for Unaligned Medical Image Fusion**|Huafeng Li et.al.|[2412.08050](http://arxiv.org/abs/2412.08050)|**[link](https://github.com/slrl123/bsafusion)**|
 |**2024-12-08**|**A Review on Multisensor Data Fusion for Wearable Health Monitoring**|Arlene John et.al.|[2412.05895](http://arxiv.org/abs/2412.05895)|null|
 |**2024-12-06**|**DEYOLO: Dual-Feature-Enhancement YOLO for Cross-Modality Object Detection**|Yishuo Chen et.al.|[2412.04931](http://arxiv.org/abs/2412.04931)|**[link](https://github.com/chips96/deyolo)**|
 |**2024-12-06**|**Modality Decoupling is All You Need: A Simple Solution for Unsupervised Hyperspectral Image Fusion**|Songcheng Du et.al.|[2412.04802](http://arxiv.org/abs/2412.04802)|null|
