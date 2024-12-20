@@ -1210,6 +1210,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-19**|**Corn Ear Detection and Orientation Estimation Using Deep Learning**|Nathan Sprague et.al.|[2412.14954](http://arxiv.org/abs/2412.14954)|null|
 |**2024-12-12**|**Agtech Framework for Cranberry-Ripening Analysis Using Vision Foundation Models**|Faith Johnson et.al.|[2412.09739](http://arxiv.org/abs/2412.09739)|null|
 |**2024-12-09**|**An Efficient Scene Coordinate Encoding and Relocalization Method**|Kuan Xu et.al.|[2412.06488](http://arxiv.org/abs/2412.06488)|**[link](https://github.com/sair-lab/SeqACE)**|
 |**2024-12-09**|**ZeroKey: Point-Level Reasoning and Zero-Shot 3D Keypoint Detection from Large Language Models**|Bingchen Gong et.al.|[2412.06292](http://arxiv.org/abs/2412.06292)|null|
@@ -2455,7 +2456,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-12-18**|**Multi-Exposure Image Fusion via Distilled 3D LUT Grid with Editable Mode**|Xin Su et.al.|[2412.13749](http://arxiv.org/abs/2412.13749)|null|
+|**2024-12-18**|**Multi-Exposure Image Fusion via Distilled 3D LUT Grid with Editable Mode**|Xin Su et.al.|[2412.13749](http://arxiv.org/abs/2412.13749)|**[link](https://github.com/zzr-idam/uhd-multi-exposure-image-fusion-algorithm)**|
 |**2024-12-18**|**VIIS: Visible and Infrared Information Synthesis for Severe Low-light Image Enhancement**|Chen Zhao et.al.|[2412.13655](http://arxiv.org/abs/2412.13655)|**[link](https://github.com/chenz418/viis)**|
 |**2024-12-16**|**Ultra-High-Definition Dynamic Multi-Exposure Image Fusion via Infinite Pixel Learning**|Xingchi Chen et.al.|[2412.11685](http://arxiv.org/abs/2412.11685)|null|
 |**2024-12-16**|**CLIP-SR: Collaborative Linguistic and Image Processing for Super-Resolution**|Bingwen Hu et.al.|[2412.11609](http://arxiv.org/abs/2412.11609)|null|
@@ -2592,6 +2593,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-19**|**MUSTER: Longitudinal Deformable Registration by Composition of Consecutive Deformations**|Edvard O. S. Grødem et.al.|[2412.14671](http://arxiv.org/abs/2412.14671)|null|
 |**2024-12-17**|**Image registration is a geometric deep learning task**|Vasiliki Sideri-Lampretsa et.al.|[2412.13294](http://arxiv.org/abs/2412.13294)|null|
 |**2024-12-12**|**On Round-Off Errors and Gaussian Blur in Superresolution and in Image Registration**|Serap A. Savari et.al.|[2412.09741](http://arxiv.org/abs/2412.09741)|null|
 |**2024-11-27**|**Neural Image Unfolding: Flattening Sparse Anatomical Structures using Neural Fields**|Leonhard Rist et.al.|[2411.18415](http://arxiv.org/abs/2411.18415)|null|
@@ -2799,7 +2801,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-12-18**|**Multi-Exposure Image Fusion via Distilled 3D LUT Grid with Editable Mode**|Xin Su et.al.|[2412.13749](http://arxiv.org/abs/2412.13749)|null|
+|**2024-12-18**|**Multi-Exposure Image Fusion via Distilled 3D LUT Grid with Editable Mode**|Xin Su et.al.|[2412.13749](http://arxiv.org/abs/2412.13749)|**[link](https://github.com/zzr-idam/uhd-multi-exposure-image-fusion-algorithm)**|
 |**2024-12-18**|**VIIS: Visible and Infrared Information Synthesis for Severe Low-light Image Enhancement**|Chen Zhao et.al.|[2412.13655](http://arxiv.org/abs/2412.13655)|**[link](https://github.com/chenz418/viis)**|
 |**2024-12-16**|**Ultra-High-Definition Dynamic Multi-Exposure Image Fusion via Infinite Pixel Learning**|Xingchi Chen et.al.|[2412.11685](http://arxiv.org/abs/2412.11685)|null|
 |**2024-12-16**|**CLIP-SR: Collaborative Linguistic and Image Processing for Super-Resolution**|Bingwen Hu et.al.|[2412.11609](http://arxiv.org/abs/2412.11609)|null|
@@ -2935,6 +2937,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-18**|**Gaussian-convolution-invariant shell approximation to spherically-symmetric functions**|Alexandre G. Urzhumtsev et.al.|[2412.14350](http://arxiv.org/abs/2412.14350)|null|
 |**2024-10-23**|**Diffusion Priors for Variational Likelihood Estimation and Image Denoising**|Jun Cheng et.al.|[2410.17521](http://arxiv.org/abs/2410.17521)|**[link](https://github.com/hust-tan/diffusionvi)**|
 |**2024-10-07**|**Smoothing of the higher-order Stokes phenomenon**|Chris J. Howls et.al.|[2410.04894](http://arxiv.org/abs/2410.04894)|null|
 |**2024-09-05**|**The Kneser--Poulsen phenomena for entropy**|Gautam Aishwarya et.al.|[2409.03664](http://arxiv.org/abs/2409.03664)|null|
