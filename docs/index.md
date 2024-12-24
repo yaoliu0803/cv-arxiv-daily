@@ -1210,6 +1210,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-21**|**A Novel Approach to Tomato Harvesting Using a Hybrid Gripper with Semantic Segmentation and Keypoint Detection**|Shahid Ansari et.al.|[2412.16755](http://arxiv.org/abs/2412.16755)|null|
 |**2024-12-19**|**Corn Ear Detection and Orientation Estimation Using Deep Learning**|Nathan Sprague et.al.|[2412.14954](http://arxiv.org/abs/2412.14954)|null|
 |**2024-12-12**|**Agtech Framework for Cranberry-Ripening Analysis Using Vision Foundation Models**|Faith Johnson et.al.|[2412.09739](http://arxiv.org/abs/2412.09739)|null|
 |**2024-12-09**|**An Efficient Scene Coordinate Encoding and Relocalization Method**|Kuan Xu et.al.|[2412.06488](http://arxiv.org/abs/2412.06488)|**[link](https://github.com/sair-lab/SeqACE)**|
@@ -2456,6 +2457,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-21**|**Complementary Advantages: Exploiting Cross-Field Frequency Correlation for NIR-Assisted Image Denoising**|Yuchen Wang et.al.|[2412.16645](http://arxiv.org/abs/2412.16645)|null|
 |**2024-12-18**|**Multi-Exposure Image Fusion via Distilled 3D LUT Grid with Editable Mode**|Xin Su et.al.|[2412.13749](http://arxiv.org/abs/2412.13749)|**[link](https://github.com/zzr-idam/uhd-multi-exposure-image-fusion-algorithm)**|
 |**2024-12-18**|**VIIS: Visible and Infrared Information Synthesis for Severe Low-light Image Enhancement**|Chen Zhao et.al.|[2412.13655](http://arxiv.org/abs/2412.13655)|**[link](https://github.com/chenz418/viis)**|
 |**2024-12-16**|**Ultra-High-Definition Dynamic Multi-Exposure Image Fusion via Infinite Pixel Learning**|Xingchi Chen et.al.|[2412.11685](http://arxiv.org/abs/2412.11685)|null|
@@ -2593,6 +2595,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-22**|**Classifier-guided registration of coronary CT angiography and intravascular ultrasound**|R. L. M. van Herten et.al.|[2412.17100](http://arxiv.org/abs/2412.17100)|null|
 |**2024-12-20**|**LEDA: Log-Euclidean Diffeomorphic Autoencoder for Efficient Statistical Analysis of Diffeomorphism**|Krithika Iyer et.al.|[2412.16129](http://arxiv.org/abs/2412.16129)|null|
 |**2024-12-20**|**From Model Based to Learned Regularization in Medical Image Registration: A Comprehensive Review**|Anna Reithmeir et.al.|[2412.15740](http://arxiv.org/abs/2412.15740)|null|
 |**2024-12-19**|**MUSTER: Longitudinal Deformable Registration by Composition of Consecutive Deformations**|Edvard O. S. Grødem et.al.|[2412.14671](http://arxiv.org/abs/2412.14671)|**[link](https://github.com/crai-ous/muster)**|
@@ -2803,6 +2806,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-21**|**Complementary Advantages: Exploiting Cross-Field Frequency Correlation for NIR-Assisted Image Denoising**|Yuchen Wang et.al.|[2412.16645](http://arxiv.org/abs/2412.16645)|null|
 |**2024-12-18**|**Multi-Exposure Image Fusion via Distilled 3D LUT Grid with Editable Mode**|Xin Su et.al.|[2412.13749](http://arxiv.org/abs/2412.13749)|**[link](https://github.com/zzr-idam/uhd-multi-exposure-image-fusion-algorithm)**|
 |**2024-12-18**|**VIIS: Visible and Infrared Information Synthesis for Severe Low-light Image Enhancement**|Chen Zhao et.al.|[2412.13655](http://arxiv.org/abs/2412.13655)|**[link](https://github.com/chenz418/viis)**|
 |**2024-12-16**|**Ultra-High-Definition Dynamic Multi-Exposure Image Fusion via Infinite Pixel Learning**|Xingchi Chen et.al.|[2412.11685](http://arxiv.org/abs/2412.11685)|null|
