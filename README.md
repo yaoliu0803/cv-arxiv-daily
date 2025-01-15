@@ -2492,7 +2492,7 @@
 |---|---|---|---|---|
 |**2025-01-13**|**Depth and Image Fusion for Road Obstacle Detection Using Stereo Camera**|Oleg Perezyabov et.al.|[2501.07245](http://arxiv.org/abs/2501.07245)|null|
 |**2025-01-09**|**ResPanDiff: Diffusion Model with Disentangled Modulations for Image Fusion**|Shiqi Cao et.al.|[2501.05091](http://arxiv.org/abs/2501.05091)|null|
-|**2025-01-11**|**HyFusion: Enhanced Reception Field Transformer for Hyperspectral Image Fusion**|Chia-Ming Lee et.al.|[2501.04665](http://arxiv.org/abs/2501.04665)|null|
+|**2025-01-14**|**HyFusion: Enhanced Reception Field Transformer for Hyperspectral Image Fusion**|Chia-Ming Lee et.al.|[2501.04665](http://arxiv.org/abs/2501.04665)|null|
 |**2024-12-30**|**Text-to-Image GAN with Pretrained Representations**|Xiaozhou You et.al.|[2501.00116](http://arxiv.org/abs/2501.00116)|null|
 |**2024-12-21**|**Complementary Advantages: Exploiting Cross-Field Frequency Correlation for NIR-Assisted Image Denoising**|Yuchen Wang et.al.|[2412.16645](http://arxiv.org/abs/2412.16645)|null|
 |**2024-12-18**|**Multi-Exposure Image Fusion via Distilled 3D LUT Grid with Editable Mode**|Xin Su et.al.|[2412.13749](http://arxiv.org/abs/2412.13749)|**[link](https://github.com/zzr-idam/uhd-multi-exposure-image-fusion-algorithm)**|
@@ -2858,7 +2858,7 @@
 |---|---|---|---|---|
 |**2025-01-13**|**Depth and Image Fusion for Road Obstacle Detection Using Stereo Camera**|Oleg Perezyabov et.al.|[2501.07245](http://arxiv.org/abs/2501.07245)|null|
 |**2025-01-09**|**ResPanDiff: Diffusion Model with Disentangled Modulations for Image Fusion**|Shiqi Cao et.al.|[2501.05091](http://arxiv.org/abs/2501.05091)|null|
-|**2025-01-11**|**HyFusion: Enhanced Reception Field Transformer for Hyperspectral Image Fusion**|Chia-Ming Lee et.al.|[2501.04665](http://arxiv.org/abs/2501.04665)|null|
+|**2025-01-14**|**HyFusion: Enhanced Reception Field Transformer for Hyperspectral Image Fusion**|Chia-Ming Lee et.al.|[2501.04665](http://arxiv.org/abs/2501.04665)|null|
 |**2024-12-30**|**Text-to-Image GAN with Pretrained Representations**|Xiaozhou You et.al.|[2501.00116](http://arxiv.org/abs/2501.00116)|null|
 |**2024-12-21**|**Complementary Advantages: Exploiting Cross-Field Frequency Correlation for NIR-Assisted Image Denoising**|Yuchen Wang et.al.|[2412.16645](http://arxiv.org/abs/2412.16645)|null|
 |**2024-12-18**|**Multi-Exposure Image Fusion via Distilled 3D LUT Grid with Editable Mode**|Xin Su et.al.|[2412.13749](http://arxiv.org/abs/2412.13749)|**[link](https://github.com/zzr-idam/uhd-multi-exposure-image-fusion-algorithm)**|
