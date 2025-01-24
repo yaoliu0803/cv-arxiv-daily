@@ -2614,6 +2614,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-23**|**Variational U-Net with Local Alignment for Joint Tumor Extraction and Registration (VALOR-Net) of Breast MRI Data Acquired at Two Different Field Strengths**|Muhammad Shahkar Khan et.al.|[2501.13690](http://arxiv.org/abs/2501.13690)|**[link](https://github.com/wadudwali/joint-segmentation-and-registration)**|
 |**2025-01-22**|**Learning accurate rigid registration for longitudinal brain MRI from synthetic data**|Jingru Fu et.al.|[2501.13010](http://arxiv.org/abs/2501.13010)|null|
 |**2025-01-18**|**Deformable Image Registration of Dark-Field Chest Radiographs for Local Lung Signal Change Assessment**|Fabian Drexel et.al.|[2501.10757](http://arxiv.org/abs/2501.10757)|null|
 |**2025-01-15**|**A Vessel Bifurcation Landmark Pair Dataset for Abdominal CT Deformable Image Registration (DIR) Validation**|Edward R Criscuolo et.al.|[2501.09162](http://arxiv.org/abs/2501.09162)|**[link](https://github.com/deshanyang/abdominal-dir-qa)**|
