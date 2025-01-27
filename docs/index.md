@@ -2651,7 +2651,7 @@ layout: default
 |**2024-11-05**|**A Symmetric Dynamic Learning Framework for Diffeomorphic Medical Image Registration**|Jinqiu Deng et.al.|[2411.02888](http://arxiv.org/abs/2411.02888)|null|
 |**2024-11-05**|**Applications of Automatic Differentiation in Image Registration**|Warin Watson et.al.|[2411.02806](http://arxiv.org/abs/2411.02806)|**[link](https://github.com/wdwatson2/ImgRegPytorchProject)**|
 |**2024-11-04**|**Multi-modal deformable image registration using untrained neural networks**|Quang Luong Nhat Nguyen et.al.|[2411.02672](http://arxiv.org/abs/2411.02672)|null|
-|**2024-11-04**|**Advanced computer vision for extracting georeferenced vehicle trajectories from drone imagery**|Robert Fonod et.al.|[2411.02136](http://arxiv.org/abs/2411.02136)|null|
+|**2024-11-04**|**Advanced computer vision for extracting georeferenced vehicle trajectories from drone imagery**|Robert Fonod et.al.|[2411.02136](http://arxiv.org/abs/2411.02136)|**[link](https://github.com/rfonod/geo-trax)**|
 |**2024-11-03**|**MambaReg: Mamba-Based Disentangled Convolutional Sparse Coding for Unsupervised Deformable Multi-Modal Image Registration**|Kaiang Wen et.al.|[2411.01399](http://arxiv.org/abs/2411.01399)|null|
 |**2024-10-29**|**NCA-Morph: Medical Image Registration with Neural Cellular Automata**|Amin Ranem et.al.|[2410.22265](http://arxiv.org/abs/2410.22265)|**[link](https://github.com/MECLabTUDA/NCA-Morph)**|
 |**2024-10-27**|**UTSRMorph: A Unified Transformer and Superresolution Network for Unsupervised Medical Image Registration**|Runshi Zhang et.al.|[2410.20348](http://arxiv.org/abs/2410.20348)|**[link](https://github.com/runshi-zhang/utsrmorph)**|
