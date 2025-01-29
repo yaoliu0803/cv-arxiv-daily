@@ -2641,6 +2641,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-27**|**Multi-Objective Deep-Learning-based Biomechanical Deformable Image Registration with MOREA**|Georgios Andreadis et.al.|[2501.16525](http://arxiv.org/abs/2501.16525)|null|
 |**2025-01-23**|**Variational U-Net with Local Alignment for Joint Tumor Extraction and Registration (VALOR-Net) of Breast MRI Data Acquired at Two Different Field Strengths**|Muhammad Shahkar Khan et.al.|[2501.13690](http://arxiv.org/abs/2501.13690)|null|
 |**2025-01-22**|**Learning accurate rigid registration for longitudinal brain MRI from synthetic data**|Jingru Fu et.al.|[2501.13010](http://arxiv.org/abs/2501.13010)|null|
 |**2025-01-18**|**Deformable Image Registration of Dark-Field Chest Radiographs for Local Lung Signal Change Assessment**|Fabian Drexel et.al.|[2501.10757](http://arxiv.org/abs/2501.10757)|null|
