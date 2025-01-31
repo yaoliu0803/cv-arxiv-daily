@@ -1210,6 +1210,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-30**|**Transfer Learning for Keypoint Detection in Low-Resolution Thermal TUG Test Images**|Wei-Lun Chen et.al.|[2501.18453](http://arxiv.org/abs/2501.18453)|null|
+|**2025-01-30**|**Video-based Surgical Tool-tip and Keypoint Tracking using Multi-frame Context-driven Deep Learning Models**|Bhargav Ghanekar et.al.|[2501.18361](http://arxiv.org/abs/2501.18361)|null|
+|**2025-01-30**|**Lifelong 3D Mapping Framework for Hand-held & Robot-mounted LiDAR Mapping Systems**|Liudi Yang et.al.|[2501.18110](http://arxiv.org/abs/2501.18110)|null|
 |**2025-01-21**|**Keypoint Detection Empowered Near-Field User Localization and Channel Reconstruction**|Mengyuan Li et.al.|[2501.11844](http://arxiv.org/abs/2501.11844)|null|
 |**2025-01-20**|**MIFNet: Learning Modality-Invariant Features for Generalizable Multimodal Image Matching**|Yepeng Liu et.al.|[2501.11299](http://arxiv.org/abs/2501.11299)|null|
 |**2025-01-19**|**Refinement Module based on Parse Graph of Feature Map for Human Pose Estimation**|Shibang Liu et.al.|[2501.11069](http://arxiv.org/abs/2501.11069)|null|
@@ -2471,6 +2474,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-30**|**Arbitrary Data as Images: Fusion of Patient Data Across Modalities and Irregular Intervals with Vision Transformers**|Malte Tölle et.al.|[2501.18237](http://arxiv.org/abs/2501.18237)|null|
 |**2025-01-19**|**Rethinking Early-Fusion Strategies for Improved Multimodal Image Segmentation**|Zhengwen Shen et.al.|[2501.10958](http://arxiv.org/abs/2501.10958)|null|
 |**2025-01-18**|**Infrared and Visible Image Fusion: From Data Compatibility to Task Adaption**|Jinyuan Liu et.al.|[2501.10761](http://arxiv.org/abs/2501.10761)|**[link](https://github.com/rollingplain/ivif_zoo)**|
 |**2025-01-13**|**Depth and Image Fusion for Road Obstacle Detection Using Stereo Camera**|Oleg Perezyabov et.al.|[2501.07245](http://arxiv.org/abs/2501.07245)|null|
@@ -2841,6 +2845,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-30**|**Arbitrary Data as Images: Fusion of Patient Data Across Modalities and Irregular Intervals with Vision Transformers**|Malte Tölle et.al.|[2501.18237](http://arxiv.org/abs/2501.18237)|null|
 |**2025-01-19**|**Rethinking Early-Fusion Strategies for Improved Multimodal Image Segmentation**|Zhengwen Shen et.al.|[2501.10958](http://arxiv.org/abs/2501.10958)|null|
 |**2025-01-18**|**Infrared and Visible Image Fusion: From Data Compatibility to Task Adaption**|Jinyuan Liu et.al.|[2501.10761](http://arxiv.org/abs/2501.10761)|**[link](https://github.com/rollingplain/ivif_zoo)**|
 |**2025-01-13**|**Depth and Image Fusion for Road Obstacle Detection Using Stereo Camera**|Oleg Perezyabov et.al.|[2501.07245](http://arxiv.org/abs/2501.07245)|null|
