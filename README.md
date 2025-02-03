@@ -2817,7 +2817,7 @@
 |**2024-03-25**|**ModeTv2: GPU-accelerated Motion Decomposition Transformer for Pairwise Optimization in Medical Image Registration**|Haiqiao Wang et.al.|[2403.16526](http://arxiv.org/abs/2403.16526)|**[link](https://github.com/zax130/modetv2)**|
 |**2024-03-25**|**Medical Image Registration and Its Application in Retinal Images: A Review**|Qiushi Nie et.al.|[2403.16502](http://arxiv.org/abs/2403.16502)|null|
 |**2024-03-24**|**Low Rank Groupwise Deformations for Motion Tracking in Cardiac Cine MRI**|Sean Rendell et.al.|[2403.16240](http://arxiv.org/abs/2403.16240)|null|
-|**2024-03-23**|**Innovative Quantitative Analysis for Disease Progression Assessment in Familial Cerebral Cavernous Malformations**|Ruige Zong et.al.|[2403.15803](http://arxiv.org/abs/2403.15803)|null|
+|**2024-03-23**|**Innovative Quantitative Analysis for Disease Progression Assessment in Familial Cerebral Cavernous Malformations**|Ruige Zong et.al.|[2403.15803](http://arxiv.org/abs/2403.15803)|**[link](https://github.com/6zrg/quantitative-statistics-of-fccm)**|
 |**2024-03-16**|**A Spectrum-based Image Denoising Method with Edge Feature Enhancement**|Peter Luvton et.al.|[2403.11036](http://arxiv.org/abs/2403.11036)|null|
 |**2024-03-16**|**EfficientMorph: Parameter-Efficient Transformer-Based Architecture for 3D Image Registration**|Abu Zahid Bin Aziz et.al.|[2403.11026](http://arxiv.org/abs/2403.11026)|null|
 |**2024-03-09**|**uniGradICON: A Foundation Model for Medical Image Registration**|Lin Tian et.al.|[2403.05780](http://arxiv.org/abs/2403.05780)|**[link](https://github.com/uncbiag/unigradicon)**|
