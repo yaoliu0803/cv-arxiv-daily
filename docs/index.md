@@ -1489,7 +1489,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2025-02-16**|**FeaKM: Robust Collaborative Perception under Noisy Pose Conditions**|Jiuwu Hao et.al.|[2502.11003](http://arxiv.org/abs/2502.11003)|null|
+|**2025-02-16**|**FeaKM: Robust Collaborative Perception under Noisy Pose Conditions**|Jiuwu Hao et.al.|[2502.11003](http://arxiv.org/abs/2502.11003)|**[link](https://github.com/uestchjw/feakm)**|
 |**2025-02-11**|**Enhancing Ground-to-Aerial Image Matching for Visual Misinformation Detection Using Semantic Segmentation**|Emanuele Mule et.al.|[2502.06288](http://arxiv.org/abs/2502.06288)|**[link](https://github.com/MatteoPannacci/SemanticAlignNet-QUAD)**|
 |**2025-02-04**|**Muographic Image Upsampling with Machine Learning for Built Infrastructure Applications**|William O'Donnell et.al.|[2502.02624](http://arxiv.org/abs/2502.02624)|null|
 |**2025-02-01**|**MambaGlue: Fast and Robust Local Feature Matching With Mamba**|Kihwan Ryoo et.al.|[2502.00462](http://arxiv.org/abs/2502.00462)|**[link](https://github.com/url-kaist/mambaglue)**|
@@ -2479,6 +2479,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-02-20**|**CrossFuse: Learning Infrared and Visible Image Fusion by Cross-Sensor Top-K Vision Alignment and Beyond**|Yukai Shi et.al.|[2502.14493](http://arxiv.org/abs/2502.14493)|null|
 |**2025-02-18**|**Local Flaw Detection with Adaptive Pyramid Image Fusion Across Spatial Sampling Resolution for SWRs**|Siyu You et.al.|[2502.12512](http://arxiv.org/abs/2502.12512)|null|
 |**2025-02-07**|**HetSSNet: Spatial-Spectral Heterogeneous Graph Learning Network for Panchromatic and Multispectral Images Fusion**|Mengting Ma et.al.|[2502.04623](http://arxiv.org/abs/2502.04623)|null|
 |**2025-02-04**|**MATCNN: Infrared and Visible Image Fusion Method Based on Multi-scale CNN with Attention Transformer**|Jingjing Liu et.al.|[2502.01959](http://arxiv.org/abs/2502.01959)|**[link](https://github.com/zhang3849/matcnn)**|
@@ -2629,8 +2630,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-02-19**|**Triad: Vision Foundation Model for 3D Magnetic Resonance Imaging**|Shansong Wang et.al.|[2502.14064](http://arxiv.org/abs/2502.14064)|null|
 |**2025-02-17**|**On the Logic Elements Associated with Round-Off Errors and Gaussian Blur in Image Registration: A Simple Case of Commingling**|Serap A. Savari et.al.|[2502.11992](http://arxiv.org/abs/2502.11992)|null|
-|**2025-02-17**|**Medical Image Registration Meets Vision Foundation Model: Prototype Learning and Contour Awareness**|Hao Xu et.al.|[2502.11440](http://arxiv.org/abs/2502.11440)|null|
+|**2025-02-17**|**Medical Image Registration Meets Vision Foundation Model: Prototype Learning and Contour Awareness**|Hao Xu et.al.|[2502.11440](http://arxiv.org/abs/2502.11440)|**[link](https://github.com/haoxu0507/ipmi25-sam-assisted-registration)**|
 |**2025-02-13**|**Vision-based Geo-Localization of Future Mars Rotorcraft in Challenging Illumination Conditions**|Dario Pisanti et.al.|[2502.09795](http://arxiv.org/abs/2502.09795)|null|
 |**2025-02-12**|**MRUCT: Mixed Reality Assistance for Acupuncture Guided by Ultrasonic Computed Tomography**|Yue Yang et.al.|[2502.08786](http://arxiv.org/abs/2502.08786)|null|
 |**2025-02-07**|**Investigating the impact of kernel harmonization and deformable registration on inspiratory and expiratory chest CT images for people with COPD**|Aravind R. Krishnan et.al.|[2502.05119](http://arxiv.org/abs/2502.05119)|null|
@@ -2869,6 +2871,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-02-20**|**CrossFuse: Learning Infrared and Visible Image Fusion by Cross-Sensor Top-K Vision Alignment and Beyond**|Yukai Shi et.al.|[2502.14493](http://arxiv.org/abs/2502.14493)|null|
 |**2025-02-18**|**Local Flaw Detection with Adaptive Pyramid Image Fusion Across Spatial Sampling Resolution for SWRs**|Siyu You et.al.|[2502.12512](http://arxiv.org/abs/2502.12512)|null|
 |**2025-02-07**|**HetSSNet: Spatial-Spectral Heterogeneous Graph Learning Network for Panchromatic and Multispectral Images Fusion**|Mengting Ma et.al.|[2502.04623](http://arxiv.org/abs/2502.04623)|null|
 |**2025-02-04**|**MATCNN: Infrared and Visible Image Fusion Method Based on Multi-scale CNN with Attention Transformer**|Jingjing Liu et.al.|[2502.01959](http://arxiv.org/abs/2502.01959)|**[link](https://github.com/zhang3849/matcnn)**|
