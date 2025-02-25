@@ -1489,8 +1489,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-02-24**|**Unposed Sparse Views Room Layout Reconstruction in the Age of Pretrain Model**|Yaxuan Huang et.al.|[2502.16779](http://arxiv.org/abs/2502.16779)|null|
 |**2025-02-16**|**FeaKM: Robust Collaborative Perception under Noisy Pose Conditions**|Jiuwu Hao et.al.|[2502.11003](http://arxiv.org/abs/2502.11003)|**[link](https://github.com/uestchjw/feakm)**|
-|**2025-02-11**|**Enhancing Ground-to-Aerial Image Matching for Visual Misinformation Detection Using Semantic Segmentation**|Emanuele Mule et.al.|[2502.06288](http://arxiv.org/abs/2502.06288)|**[link](https://github.com/MatteoPannacci/SemanticAlignNet-QUAD)**|
+|**2025-02-24**|**Enhancing Ground-to-Aerial Image Matching for Visual Misinformation Detection Using Semantic Segmentation**|Emanuele Mule et.al.|[2502.06288](http://arxiv.org/abs/2502.06288)|**[link](https://github.com/MatteoPannacci/SemanticAlignNet-QUAD)**|
 |**2025-02-04**|**Muographic Image Upsampling with Machine Learning for Built Infrastructure Applications**|William O'Donnell et.al.|[2502.02624](http://arxiv.org/abs/2502.02624)|null|
 |**2025-02-01**|**MambaGlue: Fast and Robust Local Feature Matching With Mamba**|Kihwan Ryoo et.al.|[2502.00462](http://arxiv.org/abs/2502.00462)|**[link](https://github.com/url-kaist/mambaglue)**|
 |**2025-01-24**|**Dense-SfM: Structure from Motion with Dense Consistent Matching**|JongMin Lee et.al.|[2501.14277](http://arxiv.org/abs/2501.14277)|null|
@@ -2630,7 +2631,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2025-02-19**|**Triad: Vision Foundation Model for 3D Magnetic Resonance Imaging**|Shansong Wang et.al.|[2502.14064](http://arxiv.org/abs/2502.14064)|null|
+|**2025-02-22**|**Generalization is not a universal guarantee: Estimating similarity to training data with an ensemble out-of-distribution metric**|W. Max Schreyer et.al.|[2502.16329](http://arxiv.org/abs/2502.16329)|null|
+|**2025-02-23**|**Triad: Vision Foundation Model for 3D Magnetic Resonance Imaging**|Shansong Wang et.al.|[2502.14064](http://arxiv.org/abs/2502.14064)|null|
 |**2025-02-17**|**On the Logic Elements Associated with Round-Off Errors and Gaussian Blur in Image Registration: A Simple Case of Commingling**|Serap A. Savari et.al.|[2502.11992](http://arxiv.org/abs/2502.11992)|null|
 |**2025-02-17**|**Medical Image Registration Meets Vision Foundation Model: Prototype Learning and Contour Awareness**|Hao Xu et.al.|[2502.11440](http://arxiv.org/abs/2502.11440)|**[link](https://github.com/haoxu0507/ipmi25-sam-assisted-registration)**|
 |**2025-02-13**|**Vision-based Geo-Localization of Future Mars Rotorcraft in Challenging Illumination Conditions**|Dario Pisanti et.al.|[2502.09795](http://arxiv.org/abs/2502.09795)|null|
