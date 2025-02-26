@@ -1489,6 +1489,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-02-25**|**PromptMID: Modal Invariant Descriptors Based on Diffusion and Vision Foundation Models for Optical-SAR Image Matching**|Han Nie et.al.|[2502.18104](http://arxiv.org/abs/2502.18104)|null|
+|**2025-02-25**|**Improving Transformer Based Line Segment Detection with Matched Predicting and Re-ranking**|Xin Tong et.al.|[2502.17766](http://arxiv.org/abs/2502.17766)|null|
 |**2025-02-24**|**Unposed Sparse Views Room Layout Reconstruction in the Age of Pretrain Model**|Yaxuan Huang et.al.|[2502.16779](http://arxiv.org/abs/2502.16779)|null|
 |**2025-02-16**|**FeaKM: Robust Collaborative Perception under Noisy Pose Conditions**|Jiuwu Hao et.al.|[2502.11003](http://arxiv.org/abs/2502.11003)|**[link](https://github.com/uestchjw/feakm)**|
 |**2025-02-24**|**Enhancing Ground-to-Aerial Image Matching for Visual Misinformation Detection Using Semantic Segmentation**|Emanuele Mule et.al.|[2502.06288](http://arxiv.org/abs/2502.06288)|**[link](https://github.com/MatteoPannacci/SemanticAlignNet-QUAD)**|
@@ -2631,7 +2633,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2025-02-22**|**Generalization is not a universal guarantee: Estimating similarity to training data with an ensemble out-of-distribution metric**|W. Max Schreyer et.al.|[2502.16329](http://arxiv.org/abs/2502.16329)|null|
+|**2025-02-24**|**SynthRAD2025 Grand Challenge dataset: generating synthetic CTs for radiotherapy**|Adrian Thummerer et.al.|[2502.17609](http://arxiv.org/abs/2502.17609)|null|
+|**2025-02-25**|**Generalization is not a universal guarantee: Estimating similarity to training data with an ensemble out-of-distribution metric**|W. Max Schreyer et.al.|[2502.16329](http://arxiv.org/abs/2502.16329)|null|
 |**2025-02-23**|**Triad: Vision Foundation Model for 3D Magnetic Resonance Imaging**|Shansong Wang et.al.|[2502.14064](http://arxiv.org/abs/2502.14064)|**[link](https://github.com/wangshansong1/Triad)**|
 |**2025-02-17**|**On the Logic Elements Associated with Round-Off Errors and Gaussian Blur in Image Registration: A Simple Case of Commingling**|Serap A. Savari et.al.|[2502.11992](http://arxiv.org/abs/2502.11992)|null|
 |**2025-02-17**|**Medical Image Registration Meets Vision Foundation Model: Prototype Learning and Contour Awareness**|Hao Xu et.al.|[2502.11440](http://arxiv.org/abs/2502.11440)|**[link](https://github.com/haoxu0507/ipmi25-sam-assisted-registration)**|
