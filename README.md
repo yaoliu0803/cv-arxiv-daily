@@ -1228,6 +1228,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-04**|**A Novel Streamline-based diffusion MRI Tractography Registration Method with Probabilistic Keypoint Detection**|Junyi Wang et.al.|[2503.02481](http://arxiv.org/abs/2503.02481)|null|
+|**2025-03-01**|**Autonomous Dissection in Robotic Cholecystectomy**|Ki-Hwan Oh et.al.|[2503.00666](http://arxiv.org/abs/2503.00666)|null|
+|**2025-02-28**|**CNSv2: Probabilistic Correspondence Encoded Neural Image Servo**|Anzhe Chen et.al.|[2503.00132](http://arxiv.org/abs/2503.00132)|null|
 |**2025-02-27**|**Automatic Temporal Segmentation for Post-Stroke Rehabilitation: A Keypoint Detection and Temporal Segmentation Approach for Small Datasets**|Jisoo Lee et.al.|[2502.19766](http://arxiv.org/abs/2502.19766)|null|
 |**2025-02-23**|**Rewards-based image analysis in microscopy**|Kamyar Barakati et.al.|[2502.18522](http://arxiv.org/abs/2502.18522)|null|
 |**2025-02-19**|**2.5D U-Net with Depth Reduction for 3D CryoET Object Identification**|Yusuke Uchida et.al.|[2502.13484](http://arxiv.org/abs/2502.13484)|**[link](https://github.com/tattaka/czii-cryo-et-object-identification-public)**|
@@ -1511,12 +1514,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-28**|**CNSv2: Probabilistic Correspondence Encoded Neural Image Servo**|Anzhe Chen et.al.|[2503.00132](http://arxiv.org/abs/2503.00132)|null|
 |**2025-02-27**|**A2-GNN: Angle-Annular GNN for Visual Descriptor-free Camera Relocalization**|Yejun Zhang et.al.|[2502.20036](http://arxiv.org/abs/2502.20036)|**[link](https://github.com/yejunzhang/a2-gnn)**|
 |**2025-02-27**|**RUBIK: A Structured Benchmark for Image Matching across Geometric Challenges**|Thibaut Loiseau et.al.|[2502.19955](http://arxiv.org/abs/2502.19955)|null|
-|**2025-02-26**|**BEV-LIO(LC): BEV Image Assisted LiDAR-Inertial Odometry with Loop Closure**|Haoxin Cai et.al.|[2502.19242](http://arxiv.org/abs/2502.19242)|null|
+|**2025-02-26**|**BEV-LIO(LC): BEV Image Assisted LiDAR-Inertial Odometry with Loop Closure**|Haoxin Cai et.al.|[2502.19242](http://arxiv.org/abs/2502.19242)|**[link](https://github.com/hxca1/bev-lio-lc)**|
 |**2025-02-25**|**PromptMID: Modal Invariant Descriptors Based on Diffusion and Vision Foundation Models for Optical-SAR Image Matching**|Han Nie et.al.|[2502.18104](http://arxiv.org/abs/2502.18104)|**[link](https://github.com/hanniewhu/promptmid)**|
 |**2025-02-25**|**Improving Transformer Based Line Segment Detection with Matched Predicting and Re-ranking**|Xin Tong et.al.|[2502.17766](http://arxiv.org/abs/2502.17766)|null|
-|**2025-02-28**|**Unposed Sparse Views Room Layout Reconstruction in the Age of Pretrain Model**|Yaxuan Huang et.al.|[2502.16779](http://arxiv.org/abs/2502.16779)|null|
+|**2025-03-04**|**Unposed Sparse Views Room Layout Reconstruction in the Age of Pretrain Model**|Yaxuan Huang et.al.|[2502.16779](http://arxiv.org/abs/2502.16779)|null|
 |**2025-02-16**|**FeaKM: Robust Collaborative Perception under Noisy Pose Conditions**|Jiuwu Hao et.al.|[2502.11003](http://arxiv.org/abs/2502.11003)|**[link](https://github.com/uestchjw/feakm)**|
 |**2025-02-24**|**Enhancing Ground-to-Aerial Image Matching for Visual Misinformation Detection Using Semantic Segmentation**|Emanuele Mule et.al.|[2502.06288](http://arxiv.org/abs/2502.06288)|**[link](https://github.com/MatteoPannacci/SemanticAlignNet-QUAD)**|
 |**2025-02-04**|**Muographic Image Upsampling with Machine Learning for Built Infrastructure Applications**|William O'Donnell et.al.|[2502.02624](http://arxiv.org/abs/2502.02624)|null|
@@ -2511,6 +2515,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-03**|**Every SAM Drop Counts: Embracing Semantic Priors for Multi-Modality Image Fusion and Beyond**|Guanyao Wu et.al.|[2503.01210](http://arxiv.org/abs/2503.01210)|null|
+|**2025-03-02**|**Explainable Classifier for Malignant Lymphoma Subtyping via Cell Graph and Image Fusion**|Daiki Nishiyama et.al.|[2503.00925](http://arxiv.org/abs/2503.00925)|null|
 |**2025-02-27**|**One Model for ALL: Low-Level Task Interaction Is a Key to Task-Agnostic Image Fusion**|Chunyang Cheng et.al.|[2502.19854](http://arxiv.org/abs/2502.19854)|**[link](https://github.com/awcxv/gifnet)**|
 |**2025-02-20**|**CrossFuse: Learning Infrared and Visible Image Fusion by Cross-Sensor Top-K Vision Alignment and Beyond**|Yukai Shi et.al.|[2502.14493](http://arxiv.org/abs/2502.14493)|null|
 |**2025-02-18**|**Local Flaw Detection with Adaptive Pyramid Image Fusion Across Spatial Sampling Resolution for SWRs**|Siyu You et.al.|[2502.12512](http://arxiv.org/abs/2502.12512)|null|
@@ -2665,6 +2671,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-02**|**Personalizing the meshed SPL/NAC Brain Atlas for patient-specific scientific computing using SynthMorph**|Andy Huynh et.al.|[2503.00931](http://arxiv.org/abs/2503.00931)|null|
+|**2025-03-02**|**NCF: Neural Correspondence Field for Medical Image Registration**|Lei Zhou et.al.|[2503.00760](http://arxiv.org/abs/2503.00760)|null|
 |**2025-02-26**|**Deep learning and classical computer vision techniques in medical image analysis: Case studies on brain MRI tissue segmentation, lung CT COPD registration, and skin lesion classification**|Anyimadu Daniel Tweneboah et.al.|[2502.19258](http://arxiv.org/abs/2502.19258)|null|
 |**2025-02-26**|**From Traditional to Deep Learning Approaches in Whole Slide Image Registration: A Methodological Review**|Behnaz Elhaminia et.al.|[2502.19123](http://arxiv.org/abs/2502.19123)|null|
 |**2025-02-24**|**SynthRAD2025 Grand Challenge dataset: generating synthetic CTs for radiotherapy**|Adrian Thummerer et.al.|[2502.17609](http://arxiv.org/abs/2502.17609)|null|
@@ -2912,6 +2920,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-03**|**Every SAM Drop Counts: Embracing Semantic Priors for Multi-Modality Image Fusion and Beyond**|Guanyao Wu et.al.|[2503.01210](http://arxiv.org/abs/2503.01210)|null|
+|**2025-03-02**|**Explainable Classifier for Malignant Lymphoma Subtyping via Cell Graph and Image Fusion**|Daiki Nishiyama et.al.|[2503.00925](http://arxiv.org/abs/2503.00925)|null|
 |**2025-02-27**|**One Model for ALL: Low-Level Task Interaction Is a Key to Task-Agnostic Image Fusion**|Chunyang Cheng et.al.|[2502.19854](http://arxiv.org/abs/2502.19854)|**[link](https://github.com/awcxv/gifnet)**|
 |**2025-02-20**|**CrossFuse: Learning Infrared and Visible Image Fusion by Cross-Sensor Top-K Vision Alignment and Beyond**|Yukai Shi et.al.|[2502.14493](http://arxiv.org/abs/2502.14493)|null|
 |**2025-02-18**|**Local Flaw Detection with Adaptive Pyramid Image Fusion Across Spatial Sampling Resolution for SWRs**|Siyu You et.al.|[2502.12512](http://arxiv.org/abs/2502.12512)|null|
