@@ -1514,6 +1514,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-05**|**JamMa: Ultra-lightweight Local Feature Matching with Joint Mamba**|Xiaoyong Lu et.al.|[2503.03437](http://arxiv.org/abs/2503.03437)|null|
 |**2025-02-28**|**CNSv2: Probabilistic Correspondence Encoded Neural Image Servo**|Anzhe Chen et.al.|[2503.00132](http://arxiv.org/abs/2503.00132)|null|
 |**2025-02-27**|**A2-GNN: Angle-Annular GNN for Visual Descriptor-free Camera Relocalization**|Yejun Zhang et.al.|[2502.20036](http://arxiv.org/abs/2502.20036)|**[link](https://github.com/yejunzhang/a2-gnn)**|
 |**2025-02-27**|**RUBIK: A Structured Benchmark for Image Matching across Geometric Challenges**|Thibaut Loiseau et.al.|[2502.19955](http://arxiv.org/abs/2502.19955)|null|
@@ -2515,6 +2516,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-05**|**Mineral segmentation using electron microscope images and spectral sampling through multimodal graph neural networks**|Samuel Repka et.al.|[2503.03507](http://arxiv.org/abs/2503.03507)|null|
+|**2025-03-05**|**Two-Stream Thermal Imaging Fusion for Enhanced Time of Birth Detection in Neonatal Care**|Jorge García-Torres et.al.|[2503.03244](http://arxiv.org/abs/2503.03244)|null|
 |**2025-03-03**|**Every SAM Drop Counts: Embracing Semantic Priors for Multi-Modality Image Fusion and Beyond**|Guanyao Wu et.al.|[2503.01210](http://arxiv.org/abs/2503.01210)|null|
 |**2025-03-02**|**Explainable Classifier for Malignant Lymphoma Subtyping via Cell Graph and Image Fusion**|Daiki Nishiyama et.al.|[2503.00925](http://arxiv.org/abs/2503.00925)|null|
 |**2025-02-27**|**One Model for ALL: Low-Level Task Interaction Is a Key to Task-Agnostic Image Fusion**|Chunyang Cheng et.al.|[2502.19854](http://arxiv.org/abs/2502.19854)|**[link](https://github.com/awcxv/gifnet)**|
@@ -2680,7 +2683,7 @@
 |**2025-02-23**|**Triad: Vision Foundation Model for 3D Magnetic Resonance Imaging**|Shansong Wang et.al.|[2502.14064](http://arxiv.org/abs/2502.14064)|**[link](https://github.com/wangshansong1/Triad)**|
 |**2025-02-17**|**On the Logic Elements Associated with Round-Off Errors and Gaussian Blur in Image Registration: A Simple Case of Commingling**|Serap A. Savari et.al.|[2502.11992](http://arxiv.org/abs/2502.11992)|null|
 |**2025-02-17**|**Medical Image Registration Meets Vision Foundation Model: Prototype Learning and Contour Awareness**|Hao Xu et.al.|[2502.11440](http://arxiv.org/abs/2502.11440)|**[link](https://github.com/haoxu0507/ipmi25-sam-assisted-registration)**|
-|**2025-02-13**|**Vision-based Geo-Localization of Future Mars Rotorcraft in Challenging Illumination Conditions**|Dario Pisanti et.al.|[2502.09795](http://arxiv.org/abs/2502.09795)|null|
+|**2025-03-05**|**Vision-based Geo-Localization of Future Mars Rotorcraft in Challenging Illumination Conditions**|Dario Pisanti et.al.|[2502.09795](http://arxiv.org/abs/2502.09795)|null|
 |**2025-02-12**|**MRUCT: Mixed Reality Assistance for Acupuncture Guided by Ultrasonic Computed Tomography**|Yue Yang et.al.|[2502.08786](http://arxiv.org/abs/2502.08786)|null|
 |**2025-02-07**|**Investigating the impact of kernel harmonization and deformable registration on inspiratory and expiratory chest CT images for people with COPD**|Aravind R. Krishnan et.al.|[2502.05119](http://arxiv.org/abs/2502.05119)|null|
 |**2025-02-05**|**A Unified Framework for Semi-Supervised Image Segmentation and Registration**|Ruizhe Li et.al.|[2502.03229](http://arxiv.org/abs/2502.03229)|null|
@@ -2920,6 +2923,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-05**|**Mineral segmentation using electron microscope images and spectral sampling through multimodal graph neural networks**|Samuel Repka et.al.|[2503.03507](http://arxiv.org/abs/2503.03507)|null|
+|**2025-03-05**|**Two-Stream Thermal Imaging Fusion for Enhanced Time of Birth Detection in Neonatal Care**|Jorge García-Torres et.al.|[2503.03244](http://arxiv.org/abs/2503.03244)|null|
 |**2025-03-03**|**Every SAM Drop Counts: Embracing Semantic Priors for Multi-Modality Image Fusion and Beyond**|Guanyao Wu et.al.|[2503.01210](http://arxiv.org/abs/2503.01210)|null|
 |**2025-03-02**|**Explainable Classifier for Malignant Lymphoma Subtyping via Cell Graph and Image Fusion**|Daiki Nishiyama et.al.|[2503.00925](http://arxiv.org/abs/2503.00925)|null|
 |**2025-02-27**|**One Model for ALL: Low-Level Task Interaction Is a Key to Task-Agnostic Image Fusion**|Chunyang Cheng et.al.|[2502.19854](http://arxiv.org/abs/2502.19854)|**[link](https://github.com/awcxv/gifnet)**|
