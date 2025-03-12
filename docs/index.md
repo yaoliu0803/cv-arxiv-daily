@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.03.11
+## Updated on 2025.03.12
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -1211,7 +1211,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2025-03-10**|**REF-VLM: Triplet-Based Referring Paradigm for Unified Visual Decoding**|Yan Tai et.al.|[2503.07413](http://arxiv.org/abs/2503.07413)|**[link](https://github.com/MacavityT/REF-VLM)**|
-|**2025-03-10**|**DaD: Distilled Reinforcement Learning for Diverse Keypoint Detection**|Johan Edstedt et.al.|[2503.07347](http://arxiv.org/abs/2503.07347)|null|
+|**2025-03-11**|**DaD: Distilled Reinforcement Learning for Diverse Keypoint Detection**|Johan Edstedt et.al.|[2503.07347](http://arxiv.org/abs/2503.07347)|null|
 |**2025-03-07**|**Automatic determination of quasicrystalline patterns from microscopy images**|Tano Kim Kender et.al.|[2503.05472](http://arxiv.org/abs/2503.05472)|null|
 |**2025-03-07**|**Spatial regularisation for improved accuracy and interpretability in keypoint-based registration**|Benjamin Billot et.al.|[2503.04499](http://arxiv.org/abs/2503.04499)|null|
 |**2025-03-04**|**A Novel Streamline-based diffusion MRI Tractography Registration Method with Probabilistic Keypoint Detection**|Junyi Wang et.al.|[2503.02481](http://arxiv.org/abs/2503.02481)|null|
