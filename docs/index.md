@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.03.12
+## Updated on 2025.03.13
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -2502,7 +2502,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2025-03-11**|**Language-Depth Navigated Thermal and Visible Image Fusion**|Jinchang Zhang et.al.|[2503.08676](http://arxiv.org/abs/2503.08676)|null|
 |**2025-03-10**|**Retinex-MEF: Retinex-based Glare Effects Aware Unsupervised Multi-Exposure Image Fusion**|Haowen Bai et.al.|[2503.07235](http://arxiv.org/abs/2503.07235)|null|
-|**2025-03-10**|**Learning a Unified Degradation-aware Representation Model for Multi-modal Image Fusion**|Haolong Ma et.al.|[2503.07033](http://arxiv.org/abs/2503.07033)|null|
+|**2025-03-12**|**Learning a Unified Degradation-aware Representation Model for Multi-modal Image Fusion**|Haolong Ma et.al.|[2503.07033](http://arxiv.org/abs/2503.07033)|null|
 |**2025-03-05**|**Mineral segmentation using electron microscope images and spectral sampling through multimodal graph neural networks**|Samuel Repka et.al.|[2503.03507](http://arxiv.org/abs/2503.03507)|null|
 |**2025-03-05**|**Two-Stream Thermal Imaging Fusion for Enhanced Time of Birth Detection in Neonatal Care**|Jorge García-Torres et.al.|[2503.03244](http://arxiv.org/abs/2503.03244)|null|
 |**2025-03-03**|**Every SAM Drop Counts: Embracing Semantic Priors for Multi-Modality Image Fusion and Beyond**|Guanyao Wu et.al.|[2503.01210](http://arxiv.org/abs/2503.01210)|null|
@@ -2912,7 +2912,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2025-03-11**|**Language-Depth Navigated Thermal and Visible Image Fusion**|Jinchang Zhang et.al.|[2503.08676](http://arxiv.org/abs/2503.08676)|null|
 |**2025-03-10**|**Retinex-MEF: Retinex-based Glare Effects Aware Unsupervised Multi-Exposure Image Fusion**|Haowen Bai et.al.|[2503.07235](http://arxiv.org/abs/2503.07235)|null|
-|**2025-03-10**|**Learning a Unified Degradation-aware Representation Model for Multi-modal Image Fusion**|Haolong Ma et.al.|[2503.07033](http://arxiv.org/abs/2503.07033)|null|
+|**2025-03-12**|**Learning a Unified Degradation-aware Representation Model for Multi-modal Image Fusion**|Haolong Ma et.al.|[2503.07033](http://arxiv.org/abs/2503.07033)|null|
 |**2025-03-05**|**Mineral segmentation using electron microscope images and spectral sampling through multimodal graph neural networks**|Samuel Repka et.al.|[2503.03507](http://arxiv.org/abs/2503.03507)|null|
 |**2025-03-05**|**Two-Stream Thermal Imaging Fusion for Enhanced Time of Birth Detection in Neonatal Care**|Jorge García-Torres et.al.|[2503.03244](http://arxiv.org/abs/2503.03244)|null|
 |**2025-03-03**|**Every SAM Drop Counts: Embracing Semantic Priors for Multi-Modality Image Fusion and Beyond**|Guanyao Wu et.al.|[2503.01210](http://arxiv.org/abs/2503.01210)|null|
