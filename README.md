@@ -2795,7 +2795,7 @@
 |**2024-08-26**|**Reliable Multi-modal Medical Image-to-image Translation Independent of Pixel-wise Aligned Data**|Langrui Zhou et.al.|[2408.14270](http://arxiv.org/abs/2408.14270)|null|
 |**2024-08-26**|**Application of Disentanglement to Map Registration Problem**|Hae Jin Song et.al.|[2408.14152](http://arxiv.org/abs/2408.14152)|null|
 |**2024-08-26**|**Fast Edge-Aware Occlusion Detection in the Context of Multispectral Camera Arrays**|Frank Sippel et.al.|[2408.14050](http://arxiv.org/abs/2408.14050)|**[link](https://github.com/fau-lms/fast-occlusion-detection)**|
-|**2024-09-01**|**MBSS-T1: Model-Based Self-Supervised Motion Correction for Robust Cardiac T1 Mapping**|Eyal Hanania et.al.|[2408.11992](http://arxiv.org/abs/2408.11992)|null|
+|**2024-09-01**|**MBSS-T1: Model-Based Self-Supervised Motion Correction for Robust Cardiac T1 Mapping**|Eyal Hanania et.al.|[2408.11992](http://arxiv.org/abs/2408.11992)|**[link](https://github.com/technioncomputationalmrilab/mbss-t1)**|
 |**2024-08-20**|**Large Language Models for Multimodal Deformable Image Registration**|Mingrui Ma et.al.|[2408.10703](http://arxiv.org/abs/2408.10703)|**[link](https://github.com/ninjannn/llm-morph)**|
 |**2024-08-20**|**deepmriprep: Voxel-based Morphometry (VBM) Preprocessing via Deep Neural Networks**|Lukas Fisch et.al.|[2408.10656](http://arxiv.org/abs/2408.10656)|**[link](https://github.com/wwu-mmll/deepmriprep)**|
 |**2024-08-11**|**Deep Learning in Medical Image Registration: Magic or Mirage?**|Rohit Jena et.al.|[2408.05839](http://arxiv.org/abs/2408.05839)|**[link](https://github.com/rohitrango/Magic-or-Mirage)**|
