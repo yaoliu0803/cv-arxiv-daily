@@ -1210,6 +1210,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-16**|**Histogram Transporter: Learning Rotation-Equivariant Orientation Histograms for High-Precision Robotic Kitting**|Jiadong Zhou et.al.|[2503.12541](http://arxiv.org/abs/2503.12541)|null|
 |**2025-03-11**|**Keypoint Detection and Description for Raw Bayer Images**|Jiakai Lin et.al.|[2503.08673](http://arxiv.org/abs/2503.08673)|null|
 |**2025-03-10**|**REF-VLM: Triplet-Based Referring Paradigm for Unified Visual Decoding**|Yan Tai et.al.|[2503.07413](http://arxiv.org/abs/2503.07413)|**[link](https://github.com/MacavityT/REF-VLM)**|
 |**2025-03-11**|**DaD: Distilled Reinforcement Learning for Diverse Keypoint Detection**|Johan Edstedt et.al.|[2503.07347](http://arxiv.org/abs/2503.07347)|**[link](https://github.com/parskatt/dad)**|
@@ -1499,6 +1500,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-17**|**Less Biased Noise Scale Estimation for Threshold-Robust RANSAC**|Johan Edstedt et.al.|[2503.13433](http://arxiv.org/abs/2503.13433)|null|
+|**2025-03-17**|**SatDepth: A Novel Dataset for Satellite Image Matching**|Rahul Deshmukh et.al.|[2503.12706](http://arxiv.org/abs/2503.12706)|null|
 |**2025-03-14**|**Refining Image Edge Detection via Linear Canonical Riesz Transforms**|Shuhui Yang et.al.|[2503.11148](http://arxiv.org/abs/2503.11148)|null|
 |**2025-03-13**|**Speedy MASt3R**|Jingxing Li et.al.|[2503.10017](http://arxiv.org/abs/2503.10017)|null|
 |**2025-03-11**|**Keypoint Detection and Description for Raw Bayer Images**|Jiakai Lin et.al.|[2503.08673](http://arxiv.org/abs/2503.08673)|null|
@@ -2665,6 +2668,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-17**|**UniReg: Foundation Model for Controllable Medical Image Registration**|Zi Li et.al.|[2503.12868](http://arxiv.org/abs/2503.12868)|null|
 |**2025-03-13**|**How Should We Evaluate Uncertainty in Accelerated MRI Reconstruction?**|Luca Trautmann et.al.|[2503.10527](http://arxiv.org/abs/2503.10527)|null|
 |**2025-03-10**|**NimbleReg: A light-weight deep-learning framework for diffeomorphic image registration**|Antoine Legouhy et.al.|[2503.07768](http://arxiv.org/abs/2503.07768)|null|
 |**2025-03-10**|**Evaluation of Alignment-Regularity Characteristics in Deformable Image Registration**|Vasiliki Sideri-Lampretsa et.al.|[2503.07185](http://arxiv.org/abs/2503.07185)|null|
@@ -3079,13 +3083,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-15**|**DLA-Count: Dynamic Label Assignment Network for Dense Cell Distribution Counting**|Yuqing Yan et.al.|[2503.12063](http://arxiv.org/abs/2503.12063)|null|
 |**2025-02-13**|**Non-asymptotic Analysis of Diffusion Annealed Langevin Monte Carlo for Generative Modelling**|Paula Cordero-Encinar et.al.|[2502.09306](http://arxiv.org/abs/2502.09306)|null|
 |**2025-02-04**|**Information-Theoretic Proofs for Diffusion Sampling**|Galen Reeves et.al.|[2502.02305](http://arxiv.org/abs/2502.02305)|null|
 |**2025-01-08**|**GLoG-CSUnet: Enhancing Vision Transformers with Adaptable Radiomic Features for Medical Image Segmentation**|Niloufar Eghbali et.al.|[2501.02788](http://arxiv.org/abs/2501.02788)|**[link](https://github.com/haail/glog-csunet)**|
 |**2024-12-18**|**Gaussian-convolution-invariant shell approximation to spherically-symmetric functions**|Alexandre G. Urzhumtsev et.al.|[2412.14350](http://arxiv.org/abs/2412.14350)|null|
 |**2024-10-23**|**Diffusion Priors for Variational Likelihood Estimation and Image Denoising**|Jun Cheng et.al.|[2410.17521](http://arxiv.org/abs/2410.17521)|**[link](https://github.com/hust-tan/diffusionvi)**|
 |**2024-12-20**|**Smoothing of the higher-order Stokes phenomenon**|Chris J. Howls et.al.|[2410.04894](http://arxiv.org/abs/2410.04894)|null|
-|**2024-09-05**|**The Kneser--Poulsen phenomena for entropy**|Gautam Aishwarya et.al.|[2409.03664](http://arxiv.org/abs/2409.03664)|null|
+|**2025-03-16**|**The Kneser--Poulsen phenomena for entropy**|Gautam Aishwarya et.al.|[2409.03664](http://arxiv.org/abs/2409.03664)|null|
 |**2024-09-04**|**Regularized Multi-output Gaussian Convolution Process with Domain Adaptation**|Wang Xinming et.al.|[2409.02778](http://arxiv.org/abs/2409.02778)|null|
 |**2024-06-11**|**Closing the Computational-Query Depth Gap in Parallel Stochastic Convex Optimization**|Arun Jambulapati et.al.|[2406.07373](http://arxiv.org/abs/2406.07373)|null|
 |**2024-05-25**|**Iterative Thresholding Methods for Longest Minimal Length Partitions**|Shilong Hu et.al.|[2405.16040](http://arxiv.org/abs/2405.16040)|null|
