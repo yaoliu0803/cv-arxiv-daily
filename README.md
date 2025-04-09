@@ -1524,6 +1524,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-08**|**To Match or Not to Match: Revisiting Image Matching for Reliable Visual Place Recognition**|Davide Sferrazza et.al.|[2504.06116](http://arxiv.org/abs/2504.06116)|null|
 |**2025-04-07**|**Learning Affine Correspondences by Integrating Geometric Constraints**|Pengju Sun et.al.|[2504.04834](http://arxiv.org/abs/2504.04834)|null|
 |**2025-04-01**|**Scaling Prompt Instructed Zero Shot Composed Image Retrieval with Image-Only Data**|Yiqun Duan et.al.|[2504.00812](http://arxiv.org/abs/2504.00812)|null|
 |**2025-03-31**|**CoMatch: Dynamic Covisibility-Aware Transformer for Bilateral Subpixel-Level Semi-Dense Image Matching**|Zizhuo Li et.al.|[2503.23925](http://arxiv.org/abs/2503.23925)|null|
@@ -2542,6 +2543,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-08**|**Robust Fusion Controller: Degradation-aware Image Fusion with Fine-grained Language Instructions**|Hao Zhang et.al.|[2504.05795](http://arxiv.org/abs/2504.05795)|null|
 |**2025-04-07**|**Balancing Task-invariant Interaction and Task-specific Adaptation for Unified Image Fusion**|Xingyu Hu et.al.|[2504.05164](http://arxiv.org/abs/2504.05164)|null|
 |**2025-03-27**|**Enhance Vision-based Tactile Sensors via Dynamic Illumination and Image Fusion**|Artemii Redkin et.al.|[2504.00017](http://arxiv.org/abs/2504.00017)|null|
 |**2025-03-30**|**ControlFusion: A Controllable Image Fusion Framework with Language-Vision Degradation Prompts**|Linfeng Tang et.al.|[2503.23356](http://arxiv.org/abs/2503.23356)|null|
@@ -2720,6 +2722,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-08**|**OSDM-MReg: Multimodal Image Registration based One Step Diffusion Model**|Xiaochen Wei et.al.|[2504.06027](http://arxiv.org/abs/2504.06027)|null|
+|**2025-04-07**|**Biomechanical Constraints Assimilation in Deep-Learning Image Registration: Application to sliding and locally rigid deformations**|Ziad Kheil et.al.|[2504.05444](http://arxiv.org/abs/2504.05444)|null|
 |**2025-04-03**|**IMPACT: A Generic Semantic Loss for Multimodal Medical Image Registration**|Valentin Boussot et.al.|[2503.24121](http://arxiv.org/abs/2503.24121)|**[link](https://github.com/vboussot/impactloss)**|
 |**2025-04-01**|**OncoReg: Medical Image Registration for Oncological Challenges**|Wiebke Heyer et.al.|[2503.23179](http://arxiv.org/abs/2503.23179)|**[link](https://github.com/xi-jia/fourier-net)**|
 |**2025-03-28**|**Divide to Conquer: A Field Decomposition Approach for Multi-Organ Whole-Body CT Image Registration**|Xuan Loc Pham et.al.|[2503.22281](http://arxiv.org/abs/2503.22281)|null|
@@ -2984,6 +2988,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-08**|**Robust Fusion Controller: Degradation-aware Image Fusion with Fine-grained Language Instructions**|Hao Zhang et.al.|[2504.05795](http://arxiv.org/abs/2504.05795)|null|
 |**2025-04-07**|**Balancing Task-invariant Interaction and Task-specific Adaptation for Unified Image Fusion**|Xingyu Hu et.al.|[2504.05164](http://arxiv.org/abs/2504.05164)|null|
 |**2025-03-27**|**Enhance Vision-based Tactile Sensors via Dynamic Illumination and Image Fusion**|Artemii Redkin et.al.|[2504.00017](http://arxiv.org/abs/2504.00017)|null|
 |**2025-03-30**|**ControlFusion: A Controllable Image Fusion Framework with Language-Vision Degradation Prompts**|Linfeng Tang et.al.|[2503.23356](http://arxiv.org/abs/2503.23356)|null|
