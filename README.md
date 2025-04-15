@@ -2546,9 +2546,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-12**|**Multi-modal and Multi-view Fundus Image Fusion for Retinopathy Diagnosis via Multi-scale Cross-attention and Shifted Window Self-attention**|Yonghao Huang et.al.|[2504.09106](http://arxiv.org/abs/2504.09106)|null|
+|**2025-04-11**|**Rethinking Few-Shot Fusion: Granular Ball Priors Enable General-Purpose Deep Image Fusion**|Minjie Deng et.al.|[2504.08937](http://arxiv.org/abs/2504.08937)|null|
 |**2025-04-11**|**DreamFuse: Adaptive Image Fusion with Diffusion Transformer**|Junjia Huang et.al.|[2504.08291](http://arxiv.org/abs/2504.08291)|null|
 |**2025-04-10**|**Multi-Modal Data Fusion for Moisture Content Prediction in Apple Drying**|Shichen Li et.al.|[2504.07465](http://arxiv.org/abs/2504.07465)|null|
-|**2025-04-09**|**Distilling Textual Priors from LLM to Efficient Image Fusion**|Ran Zhang et.al.|[2504.07029](http://arxiv.org/abs/2504.07029)|null|
+|**2025-04-14**|**Distilling Textual Priors from LLM to Efficient Image Fusion**|Ran Zhang et.al.|[2504.07029](http://arxiv.org/abs/2504.07029)|null|
 |**2025-04-09**|**Robust Fusion Controller: Degradation-aware Image Fusion with Fine-grained Language Instructions**|Hao Zhang et.al.|[2504.05795](http://arxiv.org/abs/2504.05795)|null|
 |**2025-04-07**|**Balancing Task-invariant Interaction and Task-specific Adaptation for Unified Image Fusion**|Xingyu Hu et.al.|[2504.05164](http://arxiv.org/abs/2504.05164)|null|
 |**2025-03-27**|**Enhance Vision-based Tactile Sensors via Dynamic Illumination and Image Fusion**|Artemii Redkin et.al.|[2504.00017](http://arxiv.org/abs/2504.00017)|null|
@@ -2728,6 +2730,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-13**|**Capturing Longitudinal Changes in Brain Morphology Using Temporally Parameterized Neural Displacement Fields**|Aisha L. Shuaibu et.al.|[2504.09514](http://arxiv.org/abs/2504.09514)|null|
 |**2025-04-10**|**Geometric and Dosimetric Validation of Deformable Image Registration for Prostate MR-guided Adaptive Radiotherapy**|Victor N. Malkov et.al.|[2504.07933](http://arxiv.org/abs/2504.07933)|null|
 |**2025-04-10**|**nnLandmark: A Self-Configuring Method for 3D Medical Landmark Detection**|Alexandra Ertl et.al.|[2504.06742](http://arxiv.org/abs/2504.06742)|null|
 |**2025-04-09**|**Large Scale Supervised Pretraining For Traumatic Brain Injury Segmentation**|Constantin Ulrich et.al.|[2504.06741](http://arxiv.org/abs/2504.06741)|null|
@@ -2998,9 +3001,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-12**|**Multi-modal and Multi-view Fundus Image Fusion for Retinopathy Diagnosis via Multi-scale Cross-attention and Shifted Window Self-attention**|Yonghao Huang et.al.|[2504.09106](http://arxiv.org/abs/2504.09106)|null|
+|**2025-04-11**|**Rethinking Few-Shot Fusion: Granular Ball Priors Enable General-Purpose Deep Image Fusion**|Minjie Deng et.al.|[2504.08937](http://arxiv.org/abs/2504.08937)|null|
 |**2025-04-11**|**DreamFuse: Adaptive Image Fusion with Diffusion Transformer**|Junjia Huang et.al.|[2504.08291](http://arxiv.org/abs/2504.08291)|null|
 |**2025-04-10**|**Multi-Modal Data Fusion for Moisture Content Prediction in Apple Drying**|Shichen Li et.al.|[2504.07465](http://arxiv.org/abs/2504.07465)|null|
-|**2025-04-09**|**Distilling Textual Priors from LLM to Efficient Image Fusion**|Ran Zhang et.al.|[2504.07029](http://arxiv.org/abs/2504.07029)|null|
+|**2025-04-14**|**Distilling Textual Priors from LLM to Efficient Image Fusion**|Ran Zhang et.al.|[2504.07029](http://arxiv.org/abs/2504.07029)|null|
 |**2025-04-09**|**Robust Fusion Controller: Degradation-aware Image Fusion with Fine-grained Language Instructions**|Hao Zhang et.al.|[2504.05795](http://arxiv.org/abs/2504.05795)|null|
 |**2025-04-07**|**Balancing Task-invariant Interaction and Task-specific Adaptation for Unified Image Fusion**|Xingyu Hu et.al.|[2504.05164](http://arxiv.org/abs/2504.05164)|null|
 |**2025-03-27**|**Enhance Vision-based Tactile Sensors via Dynamic Illumination and Image Fusion**|Artemii Redkin et.al.|[2504.00017](http://arxiv.org/abs/2504.00017)|null|
