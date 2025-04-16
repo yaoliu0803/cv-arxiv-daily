@@ -1228,6 +1228,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-15**|**UKDM: Underwater keypoint detection and matching using underwater image enhancement techniques**|Pedro Diaz-Garcia et.al.|[2504.11063](http://arxiv.org/abs/2504.11063)|null|
+|**2025-04-15**|**Acquisition of high-quality images for camera calibration in robotics applications via speech prompts**|Timm Linder et.al.|[2504.11031](http://arxiv.org/abs/2504.11031)|null|
 |**2025-04-11**|**Stereophotoclinometry Revisited**|Travis Driver et.al.|[2504.08252](http://arxiv.org/abs/2504.08252)|null|
 |**2025-03-31**|**SuperEvent: Cross-Modal Learning of Event-based Keypoint Detection**|Yannick Burkhardt et.al.|[2504.00139](http://arxiv.org/abs/2504.00139)|null|
 |**2025-03-29**|**Deep Visual Servoing of an Aerial Robot Using Keypoint Feature Extraction**|Shayan Sepahvand et.al.|[2503.23171](http://arxiv.org/abs/2503.23171)|null|
@@ -2546,6 +2548,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-15**|**Enhanced Small Target Detection via Multi-Modal Fusion and Attention Mechanisms: A YOLOv5 Approach**|Xiaoxiao Ma et.al.|[2504.11262](http://arxiv.org/abs/2504.11262)|null|
+|**2025-04-15**|**DAAF:Degradation-Aware Adaptive Fusion Framework for Robust Infrared and Visible Images Fusion**|Tianpei Zhang et.al.|[2504.10871](http://arxiv.org/abs/2504.10871)|null|
 |**2025-04-12**|**Multi-modal and Multi-view Fundus Image Fusion for Retinopathy Diagnosis via Multi-scale Cross-attention and Shifted Window Self-attention**|Yonghao Huang et.al.|[2504.09106](http://arxiv.org/abs/2504.09106)|null|
 |**2025-04-11**|**Rethinking Few-Shot Fusion: Granular Ball Priors Enable General-Purpose Deep Image Fusion**|Minjie Deng et.al.|[2504.08937](http://arxiv.org/abs/2504.08937)|null|
 |**2025-04-11**|**DreamFuse: Adaptive Image Fusion with Diffusion Transformer**|Junjia Huang et.al.|[2504.08291](http://arxiv.org/abs/2504.08291)|null|
@@ -3001,6 +3005,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-15**|**Enhanced Small Target Detection via Multi-Modal Fusion and Attention Mechanisms: A YOLOv5 Approach**|Xiaoxiao Ma et.al.|[2504.11262](http://arxiv.org/abs/2504.11262)|null|
+|**2025-04-15**|**DAAF:Degradation-Aware Adaptive Fusion Framework for Robust Infrared and Visible Images Fusion**|Tianpei Zhang et.al.|[2504.10871](http://arxiv.org/abs/2504.10871)|null|
 |**2025-04-12**|**Multi-modal and Multi-view Fundus Image Fusion for Retinopathy Diagnosis via Multi-scale Cross-attention and Shifted Window Self-attention**|Yonghao Huang et.al.|[2504.09106](http://arxiv.org/abs/2504.09106)|null|
 |**2025-04-11**|**Rethinking Few-Shot Fusion: Granular Ball Priors Enable General-Purpose Deep Image Fusion**|Minjie Deng et.al.|[2504.08937](http://arxiv.org/abs/2504.08937)|null|
 |**2025-04-11**|**DreamFuse: Adaptive Image Fusion with Diffusion Transformer**|Junjia Huang et.al.|[2504.08291](http://arxiv.org/abs/2504.08291)|null|
