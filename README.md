@@ -1527,6 +1527,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-18**|**Outlier-Robust Multi-Model Fitting on Quantum Annealers**|Saurabh Pandey et.al.|[2504.13836](http://arxiv.org/abs/2504.13836)|null|
 |**2025-04-11**|**Geometric Consistency Refinement for Single Image Novel View Synthesis via Test-Time Adaptation of Diffusion Models**|Josef Bengtson et.al.|[2504.08348](http://arxiv.org/abs/2504.08348)|null|
 |**2025-04-10**|**Image registration of 2D optical thin sections in a 3D porous medium: Application to a Berea sandstone digital rock image**|Jaehong Chung et.al.|[2504.06604](http://arxiv.org/abs/2504.06604)|**[link](https://github.com/jh-chung1/imgregister2dto3d)**|
 |**2025-04-08**|**To Match or Not to Match: Revisiting Image Matching for Reliable Visual Place Recognition**|Davide Sferrazza et.al.|[2504.06116](http://arxiv.org/abs/2504.06116)|**[link](https://github.com/FarInHeight/To-Match-or-Not-to-Match)**|
@@ -2548,6 +2549,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-18**|**Zebrafish Counting Using Event Stream Data**|Qianghua Chen et.al.|[2504.13692](http://arxiv.org/abs/2504.13692)|null|
 |**2025-04-16**|**R-Meshfusion: Reinforcement Learning Powered Sparse-View Mesh Reconstruction with Diffusion Priors**|Haoyang Wang et.al.|[2504.11946](http://arxiv.org/abs/2504.11946)|null|
 |**2025-04-15**|**Enhanced Small Target Detection via Multi-Modal Fusion and Attention Mechanisms: A YOLOv5 Approach**|Xiaoxiao Ma et.al.|[2504.11262](http://arxiv.org/abs/2504.11262)|null|
 |**2025-04-15**|**DAAF:Degradation-Aware Adaptive Fusion Framework for Robust Infrared and Visible Images Fusion**|Tianpei Zhang et.al.|[2504.10871](http://arxiv.org/abs/2504.10871)|null|
@@ -3010,6 +3012,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-18**|**Zebrafish Counting Using Event Stream Data**|Qianghua Chen et.al.|[2504.13692](http://arxiv.org/abs/2504.13692)|null|
 |**2025-04-16**|**R-Meshfusion: Reinforcement Learning Powered Sparse-View Mesh Reconstruction with Diffusion Priors**|Haoyang Wang et.al.|[2504.11946](http://arxiv.org/abs/2504.11946)|null|
 |**2025-04-15**|**Enhanced Small Target Detection via Multi-Modal Fusion and Attention Mechanisms: A YOLOv5 Approach**|Xiaoxiao Ma et.al.|[2504.11262](http://arxiv.org/abs/2504.11262)|null|
 |**2025-04-15**|**DAAF:Degradation-Aware Adaptive Fusion Framework for Robust Infrared and Visible Images Fusion**|Tianpei Zhang et.al.|[2504.10871](http://arxiv.org/abs/2504.10871)|null|
