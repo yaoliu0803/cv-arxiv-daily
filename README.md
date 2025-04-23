@@ -2737,6 +2737,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-22**|**Towards prediction of morphological heart age from computed tomography angiography**|Johan Öfverstedt et.al.|[2504.15783](http://arxiv.org/abs/2504.15783)|null|
 |**2025-04-19**|**Exploring Generalizable Pre-training for Real-world Change Detection via Geometric Estimation**|Yitao Zhao et.al.|[2504.14306](http://arxiv.org/abs/2504.14306)|null|
 |**2025-04-17**|**SC3EF: A Joint Self-Correlation and Cross-Correspondence Estimation Framework for Visible and Thermal Image Registration**|Xi Tong et.al.|[2504.12869](http://arxiv.org/abs/2504.12869)|null|
 |**2025-04-17**|**Computer-Aided Design of Personalized Occlusal Positioning Splints Using Multimodal 3D Data**|Agnieszka Anna Tomaka et.al.|[2504.12868](http://arxiv.org/abs/2504.12868)|null|
@@ -3200,6 +3201,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-22**|**Riesz transform, function spaces and their applications on infinite dimensional compact groups**|Alexander Bendikov et.al.|[2504.15718](http://arxiv.org/abs/2504.15718)|null|
 |**2025-04-16**|**AttentionDrop: A Novel Regularization Method for Transformer Models**|Mirza Samad Ahmed Baig et.al.|[2504.12088](http://arxiv.org/abs/2504.12088)|null|
 |**2025-03-15**|**DLA-Count: Dynamic Label Assignment Network for Dense Cell Distribution Counting**|Yuqing Yan et.al.|[2503.12063](http://arxiv.org/abs/2503.12063)|null|
 |**2025-02-13**|**Non-asymptotic Analysis of Diffusion Annealed Langevin Monte Carlo for Generative Modelling**|Paula Cordero-Encinar et.al.|[2502.09306](http://arxiv.org/abs/2502.09306)|null|
