@@ -2713,6 +2713,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-24**|**Spectral Bias Correction in PINNs for Myocardial Image Registration of Pathological Data**|Bastien C. Baluyot et.al.|[2504.17945](http://arxiv.org/abs/2504.17945)|null|
 |**2025-04-22**|**Towards prediction of morphological heart age from computed tomography angiography**|Johan Öfverstedt et.al.|[2504.15783](http://arxiv.org/abs/2504.15783)|null|
 |**2025-04-19**|**Exploring Generalizable Pre-training for Real-world Change Detection via Geometric Estimation**|Yitao Zhao et.al.|[2504.14306](http://arxiv.org/abs/2504.14306)|null|
 |**2025-04-17**|**SC3EF: A Joint Self-Correlation and Cross-Correspondence Estimation Framework for Visible and Thermal Image Registration**|Xi Tong et.al.|[2504.12869](http://arxiv.org/abs/2504.12869)|null|
