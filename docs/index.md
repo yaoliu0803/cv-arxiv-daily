@@ -1210,6 +1210,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-05**|**Unsupervised training of keypoint-agnostic descriptors for flexible retinal image registration**|David Rivas-Villar et.al.|[2505.02787](http://arxiv.org/abs/2505.02787)|null|
+|**2025-05-05**|**Unsupervised Deep Learning-based Keypoint Localization Estimating Descriptor Matching Performance**|David Rivas-Villar et.al.|[2505.02779](http://arxiv.org/abs/2505.02779)|null|
+|**2025-05-04**|**Focus What Matters: Matchability-Based Reweighting for Local Feature Matching**|Dongyue Li et.al.|[2505.02161](http://arxiv.org/abs/2505.02161)|null|
+|**2025-05-04**|**Enhancing Lidar Point Cloud Sampling via Colorization and Super-Resolution of Lidar Imagery**|Sier Ha et.al.|[2505.02049](http://arxiv.org/abs/2505.02049)|null|
 |**2025-04-29**|**Emotion Recognition in Contemporary Dance Performances Using Laban Movement Analysis**|Muhammad Turab et.al.|[2504.21154](http://arxiv.org/abs/2504.21154)|null|
 |**2025-04-29**|**Learning a General Model: Folding Clothing with Topological Dynamics**|Yiming Liu et.al.|[2504.20720](http://arxiv.org/abs/2504.20720)|null|
 |**2025-04-26**|**VISUALCENT: Visual Human Analysis using Dynamic Centroid Representation**|Niaz Ahmad et.al.|[2504.19032](http://arxiv.org/abs/2504.19032)|null|
@@ -1511,6 +1515,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-04**|**Focus What Matters: Matchability-Based Reweighting for Local Feature Matching**|Dongyue Li et.al.|[2505.02161](http://arxiv.org/abs/2505.02161)|null|
 |**2025-04-29**|**Mitigating Modality Bias in Multi-modal Entity Alignment from a Causal Perspective**|Taoyu Su et.al.|[2504.19458](http://arxiv.org/abs/2504.19458)|null|
 |**2025-04-28**|**Dynamic Arthroscopic Navigation System for Anterior Cruciate Ligament Reconstruction Based on Multi-level Memory Architecture**|Shuo Wang et.al.|[2504.19398](http://arxiv.org/abs/2504.19398)|null|
 |**2025-04-23**|**Road Similarity-Based BEV-Satellite Image Matching for UGV Localization**|Zhenping Sun et.al.|[2504.16346](http://arxiv.org/abs/2504.16346)|null|
@@ -2532,6 +2537,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-05**|**Quaternion Multi-focus Color Image Fusion**|Weihua Yang et.al.|[2505.02365](http://arxiv.org/abs/2505.02365)|null|
+|**2025-05-05**|**Quaternion Infrared Visible Image Fusion**|Weihua Yang et.al.|[2505.02364](http://arxiv.org/abs/2505.02364)|null|
 |**2025-04-29**|**Spatial-enhanced Reflective Coded Aperture Snapshot Spectral Imaging**|Jiayu Di et.al.|[2504.20516](http://arxiv.org/abs/2504.20516)|null|
 |**2025-04-29**|**TTTFusion: A Test-Time Training-Based Strategy for Multimodal Medical Image Fusion in Surgical Robots**|Qinhua Xie et.al.|[2504.20362](http://arxiv.org/abs/2504.20362)|null|
 |**2025-04-18**|**Zebrafish Counting Using Event Stream Data**|Qianghua Chen et.al.|[2504.13692](http://arxiv.org/abs/2504.13692)|null|
@@ -2720,6 +2727,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-05**|**Unsupervised training of keypoint-agnostic descriptors for flexible retinal image registration**|David Rivas-Villar et.al.|[2505.02787](http://arxiv.org/abs/2505.02787)|null|
+|**2025-05-05**|**Unsupervised Deep Learning-based Keypoint Localization Estimating Descriptor Matching Performance**|David Rivas-Villar et.al.|[2505.02779](http://arxiv.org/abs/2505.02779)|null|
 |**2025-04-24**|**Spectral Bias Correction in PINNs for Myocardial Image Registration of Pathological Data**|Bastien C. Baluyot et.al.|[2504.17945](http://arxiv.org/abs/2504.17945)|null|
 |**2025-04-22**|**Towards prediction of morphological heart age from computed tomography angiography**|Johan Öfverstedt et.al.|[2504.15783](http://arxiv.org/abs/2504.15783)|null|
 |**2025-04-19**|**Exploring Generalizable Pre-training for Real-world Change Detection via Geometric Estimation**|Yitao Zhao et.al.|[2504.14306](http://arxiv.org/abs/2504.14306)|null|
@@ -2996,6 +3005,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-05**|**Quaternion Multi-focus Color Image Fusion**|Weihua Yang et.al.|[2505.02365](http://arxiv.org/abs/2505.02365)|null|
+|**2025-05-05**|**Quaternion Infrared Visible Image Fusion**|Weihua Yang et.al.|[2505.02364](http://arxiv.org/abs/2505.02364)|null|
 |**2025-04-29**|**Spatial-enhanced Reflective Coded Aperture Snapshot Spectral Imaging**|Jiayu Di et.al.|[2504.20516](http://arxiv.org/abs/2504.20516)|null|
 |**2025-04-29**|**TTTFusion: A Test-Time Training-Based Strategy for Multimodal Medical Image Fusion in Surgical Robots**|Qinhua Xie et.al.|[2504.20362](http://arxiv.org/abs/2504.20362)|null|
 |**2025-04-18**|**Zebrafish Counting Using Event Stream Data**|Qianghua Chen et.al.|[2504.13692](http://arxiv.org/abs/2504.13692)|null|
