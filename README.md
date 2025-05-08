@@ -1535,6 +1535,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-04**|**OBD-Finder: Explainable Coarse-to-Fine Text-Centric Oracle Bone Duplicates Discovery**|Chongsheng Zhang et.al.|[2505.03836](http://arxiv.org/abs/2505.03836)|**[link](https://github.com/cszhanglmu/obd-finder)**|
 |**2025-05-06**|**LiftFeat: 3D Geometry-Aware Local Feature Matching**|Yepeng Liu et.al.|[2505.03422](http://arxiv.org/abs/2505.03422)|**[link](https://github.com/lyp-deeplearning/liftfeat)**|
 |**2025-05-04**|**Focus What Matters: Matchability-Based Reweighting for Local Feature Matching**|Dongyue Li et.al.|[2505.02161](http://arxiv.org/abs/2505.02161)|null|
 |**2025-04-29**|**Mitigating Modality Bias in Multi-modal Entity Alignment from a Causal Perspective**|Taoyu Su et.al.|[2504.19458](http://arxiv.org/abs/2504.19458)|null|
@@ -2562,6 +2563,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-07**|**DFVO: Learning Darkness-free Visible and Infrared Image Disentanglement and Fusion All at Once**|Qi Zhou et.al.|[2505.04526](http://arxiv.org/abs/2505.04526)|**[link](https://github.com/davin-qi530/dfvo)**|
+|**2025-05-07**|**HunyuanCustom: A Multimodal-Driven Architecture for Customized Video Generation**|Teng Hu et.al.|[2505.04512](http://arxiv.org/abs/2505.04512)|null|
 |**2025-05-05**|**Quaternion Multi-focus Color Image Fusion**|Weihua Yang et.al.|[2505.02365](http://arxiv.org/abs/2505.02365)|null|
 |**2025-05-05**|**Quaternion Infrared Visible Image Fusion**|Weihua Yang et.al.|[2505.02364](http://arxiv.org/abs/2505.02364)|null|
 |**2025-04-29**|**Spatial-enhanced Reflective Coded Aperture Snapshot Spectral Imaging**|Jiayu Di et.al.|[2504.20516](http://arxiv.org/abs/2504.20516)|null|
@@ -2754,6 +2757,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-07**|**Tetrahedron-Net for Medical Image Registration**|Jinhai Xiang et.al.|[2505.04380](http://arxiv.org/abs/2505.04380)|null|
 |**2025-05-05**|**Unsupervised training of keypoint-agnostic descriptors for flexible retinal image registration**|David Rivas-Villar et.al.|[2505.02787](http://arxiv.org/abs/2505.02787)|null|
 |**2025-05-05**|**Unsupervised Deep Learning-based Keypoint Localization Estimating Descriptor Matching Performance**|David Rivas-Villar et.al.|[2505.02779](http://arxiv.org/abs/2505.02779)|null|
 |**2025-04-24**|**Spectral Bias Correction in PINNs for Myocardial Image Registration of Pathological Data**|Bastien C. Baluyot et.al.|[2504.17945](http://arxiv.org/abs/2504.17945)|null|
@@ -3034,6 +3038,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-07**|**DFVO: Learning Darkness-free Visible and Infrared Image Disentanglement and Fusion All at Once**|Qi Zhou et.al.|[2505.04526](http://arxiv.org/abs/2505.04526)|**[link](https://github.com/davin-qi530/dfvo)**|
+|**2025-05-07**|**HunyuanCustom: A Multimodal-Driven Architecture for Customized Video Generation**|Teng Hu et.al.|[2505.04512](http://arxiv.org/abs/2505.04512)|null|
 |**2025-05-05**|**Quaternion Multi-focus Color Image Fusion**|Weihua Yang et.al.|[2505.02365](http://arxiv.org/abs/2505.02365)|null|
 |**2025-05-05**|**Quaternion Infrared Visible Image Fusion**|Weihua Yang et.al.|[2505.02364](http://arxiv.org/abs/2505.02364)|null|
 |**2025-04-29**|**Spatial-enhanced Reflective Coded Aperture Snapshot Spectral Imaging**|Jiayu Di et.al.|[2504.20516](http://arxiv.org/abs/2504.20516)|null|
