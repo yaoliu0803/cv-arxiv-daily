@@ -2737,6 +2737,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-15**|**IMITATE: Image Registration with Context for unknown time frame recovery**|Ziad Kheil et.al.|[2505.10124](http://arxiv.org/abs/2505.10124)|**[link](https://github.com/kheil-z/imitate)**|
 |**2025-05-11**|**Bi-directional Self-Registration for Misaligned Infrared-Visible Image Fusion**|Timing Li et.al.|[2505.06920](http://arxiv.org/abs/2505.06920)|null|
 |**2025-05-10**|**Improving Generalization of Medical Image Registration Foundation Model**|Jing Hu et.al.|[2505.06527](http://arxiv.org/abs/2505.06527)|**[link](https://github.com/promise13/fm_sam)**|
 |**2025-05-09**|**FF-PNet: A Pyramid Network Based on Feature and Field for Brain Image Registration**|Ying Zhang et.al.|[2505.04938](http://arxiv.org/abs/2505.04938)|null|
