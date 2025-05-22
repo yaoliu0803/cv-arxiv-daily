@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.05.21
+## Updated on 2025.05.22
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -2547,6 +2547,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-18**|**A Comprehensive Review of Techniques, Algorithms, Advancements, Challenges, and Clinical Applications of Multi-modal Medical Image Fusion for Improved Diagnosis**|Muhammad Zubair et.al.|[2505.14715](http://arxiv.org/abs/2505.14715)|null|
 |**2025-05-18**|**SMFusion: Semantic-Preserving Fusion of Multimodal Medical Images for Enhanced Clinical Diagnosis**|Haozhe Xiang et.al.|[2505.12251](http://arxiv.org/abs/2505.12251)|null|
 |**2025-05-17**|**Self-Learning Hyperspectral and Multispectral Image Fusion via Adaptive Residual Guided Subspace Diffusion Model**|Jian Zhu et.al.|[2505.11800](http://arxiv.org/abs/2505.11800)|**[link](https://github.com/zhu1116/args-diff)**|
 |**2025-05-11**|**Bi-directional Self-Registration for Misaligned Infrared-Visible Image Fusion**|Timing Li et.al.|[2505.06920](http://arxiv.org/abs/2505.06920)|null|
@@ -3026,6 +3027,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-18**|**A Comprehensive Review of Techniques, Algorithms, Advancements, Challenges, and Clinical Applications of Multi-modal Medical Image Fusion for Improved Diagnosis**|Muhammad Zubair et.al.|[2505.14715](http://arxiv.org/abs/2505.14715)|null|
 |**2025-05-18**|**SMFusion: Semantic-Preserving Fusion of Multimodal Medical Images for Enhanced Clinical Diagnosis**|Haozhe Xiang et.al.|[2505.12251](http://arxiv.org/abs/2505.12251)|null|
 |**2025-05-17**|**Self-Learning Hyperspectral and Multispectral Image Fusion via Adaptive Residual Guided Subspace Diffusion Model**|Jian Zhu et.al.|[2505.11800](http://arxiv.org/abs/2505.11800)|**[link](https://github.com/zhu1116/args-diff)**|
 |**2025-05-11**|**Bi-directional Self-Registration for Misaligned Infrared-Visible Image Fusion**|Timing Li et.al.|[2505.06920](http://arxiv.org/abs/2505.06920)|null|
