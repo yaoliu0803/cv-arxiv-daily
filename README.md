@@ -2573,6 +2573,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-27**|**Causality-Driven Infrared and Visible Image Fusion**|Linli Ma et.al.|[2505.20830](http://arxiv.org/abs/2505.20830)|null|
 |**2025-05-26**|**A Unified Solution to Video Fusion: From Multi-Frame Learning to Benchmarking**|Zixiang Zhao et.al.|[2505.19858](http://arxiv.org/abs/2505.19858)|null|
 |**2025-05-18**|**A Comprehensive Review of Techniques, Algorithms, Advancements, Challenges, and Clinical Applications of Multi-modal Medical Image Fusion for Improved Diagnosis**|Muhammad Zubair et.al.|[2505.14715](http://arxiv.org/abs/2505.14715)|null|
 |**2025-05-18**|**SMFusion: Semantic-Preserving Fusion of Multimodal Medical Images for Enhanced Clinical Diagnosis**|Haozhe Xiang et.al.|[2505.12251](http://arxiv.org/abs/2505.12251)|null|
@@ -3063,6 +3064,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-27**|**Causality-Driven Infrared and Visible Image Fusion**|Linli Ma et.al.|[2505.20830](http://arxiv.org/abs/2505.20830)|null|
 |**2025-05-26**|**A Unified Solution to Video Fusion: From Multi-Frame Learning to Benchmarking**|Zixiang Zhao et.al.|[2505.19858](http://arxiv.org/abs/2505.19858)|null|
 |**2025-05-18**|**A Comprehensive Review of Techniques, Algorithms, Advancements, Challenges, and Clinical Applications of Multi-modal Medical Image Fusion for Improved Diagnosis**|Muhammad Zubair et.al.|[2505.14715](http://arxiv.org/abs/2505.14715)|null|
 |**2025-05-18**|**SMFusion: Semantic-Preserving Fusion of Multimodal Medical Images for Enhanced Clinical Diagnosis**|Haozhe Xiang et.al.|[2505.12251](http://arxiv.org/abs/2505.12251)|null|
