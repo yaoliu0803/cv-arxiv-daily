@@ -2713,7 +2713,7 @@
 |**2024-05-09**|**A Comprehensive Survey for Hyperspectral Image Classification: The Evolution from Conventional to Transformers**|Muhammad Ahmad et.al.|[2404.14955](http://arxiv.org/abs/2404.14955)|**[link](https://github.com/mahmad00/conventional-to-transformer-for-hyperspectral-image-classification-survey-2024)**|
 |**2024-04-22**|**SwinFuSR: an image fusion-inspired model for RGB-guided thermal image super-resolution**|Cyprien Arnold et.al.|[2404.14533](http://arxiv.org/abs/2404.14533)|**[link](https://github.com/visioniclab/swinfusr)**|
 |**2024-04-19**|**Single-sample image-fusion upsampling of fluorescence lifetime images**|Valentin Kapitány et.al.|[2404.13102](http://arxiv.org/abs/2404.13102)|null|
-|**2024-04-19**|**3D Multi-frame Fusion for Video Stabilization**|Zhan Peng et.al.|[2404.12887](http://arxiv.org/abs/2404.12887)|null|
+|**2024-04-19**|**3D Multi-frame Fusion for Video Stabilization**|Zhan Peng et.al.|[2404.12887](http://arxiv.org/abs/2404.12887)|**[link](https://github.com/pzzz-cv/RStab)**|
 |**2024-04-19**|**Linearly-evolved Transformer for Pan-sharpening**|Junming Hou et.al.|[2404.12804](http://arxiv.org/abs/2404.12804)|null|
 |**2024-04-18**|**From Image to Video, what do we need in multimodal LLMs?**|Suyuan Huang et.al.|[2404.11865](http://arxiv.org/abs/2404.11865)|null|
 |**2024-04-17**|**SSDiff: Spatial-spectral Integrated Diffusion Model for Remote Sensing Pansharpening**|Yu Zhong et.al.|[2404.11537](http://arxiv.org/abs/2404.11537)|null|
@@ -3205,7 +3205,7 @@
 |**2024-05-09**|**A Comprehensive Survey for Hyperspectral Image Classification: The Evolution from Conventional to Transformers**|Muhammad Ahmad et.al.|[2404.14955](http://arxiv.org/abs/2404.14955)|**[link](https://github.com/mahmad00/conventional-to-transformer-for-hyperspectral-image-classification-survey-2024)**|
 |**2024-04-22**|**SwinFuSR: an image fusion-inspired model for RGB-guided thermal image super-resolution**|Cyprien Arnold et.al.|[2404.14533](http://arxiv.org/abs/2404.14533)|**[link](https://github.com/visioniclab/swinfusr)**|
 |**2024-04-19**|**Single-sample image-fusion upsampling of fluorescence lifetime images**|Valentin Kapitány et.al.|[2404.13102](http://arxiv.org/abs/2404.13102)|null|
-|**2024-04-19**|**3D Multi-frame Fusion for Video Stabilization**|Zhan Peng et.al.|[2404.12887](http://arxiv.org/abs/2404.12887)|null|
+|**2024-04-19**|**3D Multi-frame Fusion for Video Stabilization**|Zhan Peng et.al.|[2404.12887](http://arxiv.org/abs/2404.12887)|**[link](https://github.com/pzzz-cv/RStab)**|
 |**2024-04-19**|**Linearly-evolved Transformer for Pan-sharpening**|Junming Hou et.al.|[2404.12804](http://arxiv.org/abs/2404.12804)|null|
 |**2024-04-18**|**From Image to Video, what do we need in multimodal LLMs?**|Suyuan Huang et.al.|[2404.11865](http://arxiv.org/abs/2404.11865)|null|
 |**2024-04-17**|**SSDiff: Spatial-spectral Integrated Diffusion Model for Remote Sensing Pansharpening**|Yu Zhong et.al.|[2404.11537](http://arxiv.org/abs/2404.11537)|null|
