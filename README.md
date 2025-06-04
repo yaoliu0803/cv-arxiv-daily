@@ -2778,6 +2778,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-03**|**Guiding Registration with Emergent Similarity from Pre-Trained Diffusion Models**|Nurislam Tursynbek et.al.|[2506.02419](http://arxiv.org/abs/2506.02419)|null|
+|**2025-06-02**|**Implicit Deformable Medical Image Registration with Learnable Kernels**|Stefano Fogarollo et.al.|[2506.02150](http://arxiv.org/abs/2506.02150)|null|
+|**2025-06-01**|**Modality Translation and Registration of MR and Ultrasound Images Using Diffusion Models**|Xudong Ma et.al.|[2506.01025](http://arxiv.org/abs/2506.01025)|null|
+|**2025-05-30**|**MRDust: Wireless Implant Data Uplink & Localization via Magnetic Resonance Image Modulation**|Biqi Rebekah Zhao et.al.|[2506.00143](http://arxiv.org/abs/2506.00143)|null|
 |**2025-05-30**|**A Novel Coronary Artery Registration Method Based on Super-pixel Particle Swarm Optimization**|Peng Qi et.al.|[2505.24351](http://arxiv.org/abs/2505.24351)|null|
 |**2025-05-30**|**Fourier ptychographic microscopy aided with transport of intensity equation for robust full phase spectrum reconstruction**|Mikołaj Rogalski et.al.|[2505.24322](http://arxiv.org/abs/2505.24322)|null|
 |**2025-05-30**|**Pretraining Deformable Image Registration Networks with Random Images**|Junyu Chen et.al.|[2505.24167](http://arxiv.org/abs/2505.24167)|null|
