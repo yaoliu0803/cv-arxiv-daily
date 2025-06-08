@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.06.07
+## Updated on 2025.06.08
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -2556,7 +2556,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2025-06-04**|**WIFE-Fusion:Wavelet-aware Intra-inter Frequency Enhancement for Multi-model Image Fusion**|Tianpei Zhang et.al.|[2506.03555](http://arxiv.org/abs/2506.03555)|null|
 |**2025-05-29**|**Dc-EEMF: Pushing depth-of-field limit of photoacoustic microscopy via decision-level constrained learning**|Wangting Zhou et.al.|[2506.03181](http://arxiv.org/abs/2506.03181)|null|
-|**2025-05-30**|**Model-Guided Network with Cluster-Based Operators for Spatio-Spectral Super-Resolution**|Ivan Pereira-Sánchez et.al.|[2505.24605](http://arxiv.org/abs/2505.24605)|null|
+|**2025-05-30**|**Model-Guided Network with Cluster-Based Operators for Spatio-Spectral Super-Resolution**|Ivan Pereira-Sánchez et.al.|[2505.24605](http://arxiv.org/abs/2505.24605)|**[link](https://github.com/tami-uib/jssunet)**|
 |**2025-05-27**|**Causality-Driven Infrared and Visible Image Fusion**|Linli Ma et.al.|[2505.20830](http://arxiv.org/abs/2505.20830)|null|
 |**2025-05-26**|**A Unified Solution to Video Fusion: From Multi-Frame Learning to Benchmarking**|Zixiang Zhao et.al.|[2505.19858](http://arxiv.org/abs/2505.19858)|null|
 |**2025-05-18**|**A Comprehensive Review of Techniques, Algorithms, Advancements, Challenges, and Clinical Applications of Multi-modal Medical Image Fusion for Improved Diagnosis**|Muhammad Zubair et.al.|[2505.14715](http://arxiv.org/abs/2505.14715)|null|
@@ -3057,7 +3057,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2025-06-04**|**WIFE-Fusion:Wavelet-aware Intra-inter Frequency Enhancement for Multi-model Image Fusion**|Tianpei Zhang et.al.|[2506.03555](http://arxiv.org/abs/2506.03555)|null|
 |**2025-05-29**|**Dc-EEMF: Pushing depth-of-field limit of photoacoustic microscopy via decision-level constrained learning**|Wangting Zhou et.al.|[2506.03181](http://arxiv.org/abs/2506.03181)|null|
-|**2025-05-30**|**Model-Guided Network with Cluster-Based Operators for Spatio-Spectral Super-Resolution**|Ivan Pereira-Sánchez et.al.|[2505.24605](http://arxiv.org/abs/2505.24605)|null|
+|**2025-05-30**|**Model-Guided Network with Cluster-Based Operators for Spatio-Spectral Super-Resolution**|Ivan Pereira-Sánchez et.al.|[2505.24605](http://arxiv.org/abs/2505.24605)|**[link](https://github.com/tami-uib/jssunet)**|
 |**2025-05-27**|**Causality-Driven Infrared and Visible Image Fusion**|Linli Ma et.al.|[2505.20830](http://arxiv.org/abs/2505.20830)|null|
 |**2025-05-26**|**A Unified Solution to Video Fusion: From Multi-Frame Learning to Benchmarking**|Zixiang Zhao et.al.|[2505.19858](http://arxiv.org/abs/2505.19858)|null|
 |**2025-05-18**|**A Comprehensive Review of Techniques, Algorithms, Advancements, Challenges, and Clinical Applications of Multi-modal Medical Image Fusion for Improved Diagnosis**|Muhammad Zubair et.al.|[2505.14715](http://arxiv.org/abs/2505.14715)|null|
