@@ -1543,6 +1543,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-21**|**Anti-interrupted sampling repeater jamming via linear canonical Wigner distribution lightweight LFM detection**|Jia-Mian Li et.al.|[2506.06302](http://arxiv.org/abs/2506.06302)|null|
 |**2025-06-05**|**Vanishing arcs for isolated plane curve singularities**|Hanwool Bae et.al.|[2506.04917](http://arxiv.org/abs/2506.04917)|null|
 |**2025-06-05**|**Deep Learning Reforms Image Matching: A Survey and Outlook**|Shihua Zhang et.al.|[2506.04619](http://arxiv.org/abs/2506.04619)|null|
 |**2025-06-05**|**SR3D: Unleashing Single-view 3D Reconstruction for Transparent and Specular Object Grasping**|Mingxu Zhang et.al.|[2505.24305](http://arxiv.org/abs/2505.24305)|null|
@@ -2578,6 +2579,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-09**|**PolyVivid: Vivid Multi-Subject Video Generation with Cross-Modal Interaction and Enhancement**|Teng Hu et.al.|[2506.07848](http://arxiv.org/abs/2506.07848)|null|
+|**2025-06-09**|**Design and Evaluation of Deep Learning-Based Dual-Spectrum Image Fusion Methods**|Beining Xu et.al.|[2506.07779](http://arxiv.org/abs/2506.07779)|null|
 |**2025-06-04**|**WIFE-Fusion:Wavelet-aware Intra-inter Frequency Enhancement for Multi-model Image Fusion**|Tianpei Zhang et.al.|[2506.03555](http://arxiv.org/abs/2506.03555)|null|
 |**2025-05-29**|**Dc-EEMF: Pushing depth-of-field limit of photoacoustic microscopy via decision-level constrained learning**|Wangting Zhou et.al.|[2506.03181](http://arxiv.org/abs/2506.03181)|null|
 |**2025-05-30**|**Model-Guided Network with Cluster-Based Operators for Spatio-Spectral Super-Resolution**|Ivan Pereira-Sánchez et.al.|[2505.24605](http://arxiv.org/abs/2505.24605)|**[link](https://github.com/tami-uib/jssunet)**|
@@ -3083,6 +3086,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-09**|**PolyVivid: Vivid Multi-Subject Video Generation with Cross-Modal Interaction and Enhancement**|Teng Hu et.al.|[2506.07848](http://arxiv.org/abs/2506.07848)|null|
+|**2025-06-09**|**Design and Evaluation of Deep Learning-Based Dual-Spectrum Image Fusion Methods**|Beining Xu et.al.|[2506.07779](http://arxiv.org/abs/2506.07779)|null|
 |**2025-06-04**|**WIFE-Fusion:Wavelet-aware Intra-inter Frequency Enhancement for Multi-model Image Fusion**|Tianpei Zhang et.al.|[2506.03555](http://arxiv.org/abs/2506.03555)|null|
 |**2025-05-29**|**Dc-EEMF: Pushing depth-of-field limit of photoacoustic microscopy via decision-level constrained learning**|Wangting Zhou et.al.|[2506.03181](http://arxiv.org/abs/2506.03181)|null|
 |**2025-05-30**|**Model-Guided Network with Cluster-Based Operators for Spatio-Spectral Super-Resolution**|Ivan Pereira-Sánchez et.al.|[2505.24605](http://arxiv.org/abs/2505.24605)|**[link](https://github.com/tami-uib/jssunet)**|
@@ -3286,6 +3291,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-08**|**A PDE-Based Image Restoration Method: Mathematical Analysis and Implementation**|Dragos-Patru Covei et.al.|[2506.07132](http://arxiv.org/abs/2506.07132)|null|
 |**2025-04-22**|**Riesz transform, function spaces and their applications on infinite dimensional compact groups**|Alexander Bendikov et.al.|[2504.15718](http://arxiv.org/abs/2504.15718)|null|
 |**2025-04-16**|**AttentionDrop: A Novel Regularization Method for Transformer Models**|Mirza Samad Ahmed Baig et.al.|[2504.12088](http://arxiv.org/abs/2504.12088)|null|
 |**2025-03-15**|**DLA-Count: Dynamic Label Assignment Network for Dense Cell Distribution Counting**|Yuqing Yan et.al.|[2503.12063](http://arxiv.org/abs/2503.12063)|null|
