@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.06.11
+## Updated on 2025.06.12
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -1523,6 +1523,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-11**|**Hierarchical Image Matching for UAV Absolute Visual Localization via Semantic and Structural Constraints**|Xiangkai Zhang et.al.|[2506.09748](http://arxiv.org/abs/2506.09748)|null|
+|**2025-06-11**|**ScaleLSD: Scalable Deep Line Segment Detection Streamlined**|Zeran Ke et.al.|[2506.09369](http://arxiv.org/abs/2506.09369)|null|
 |**2025-05-21**|**Anti-interrupted sampling repeater jamming via linear canonical Wigner distribution lightweight LFM detection**|Jia-Mian Li et.al.|[2506.06302](http://arxiv.org/abs/2506.06302)|null|
 |**2025-06-05**|**Vanishing arcs for isolated plane curve singularities**|Hanwool Bae et.al.|[2506.04917](http://arxiv.org/abs/2506.04917)|null|
 |**2025-06-05**|**Deep Learning Reforms Image Matching: A Survey and Outlook**|Shihua Zhang et.al.|[2506.04619](http://arxiv.org/abs/2506.04619)|null|
@@ -2555,7 +2557,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2025-06-10**|**Beyond Calibration: Physically Informed Learning for Raw-to-Raw Mapping**|Peter Grönquist et.al.|[2506.08650](http://arxiv.org/abs/2506.08650)|null|
+|**2025-06-11**|**Beyond Calibration: Physically Informed Learning for Raw-to-Raw Mapping**|Peter Grönquist et.al.|[2506.08650](http://arxiv.org/abs/2506.08650)|null|
 |**2025-06-09**|**PolyVivid: Vivid Multi-Subject Video Generation with Cross-Modal Interaction and Enhancement**|Teng Hu et.al.|[2506.07848](http://arxiv.org/abs/2506.07848)|null|
 |**2025-06-09**|**Design and Evaluation of Deep Learning-Based Dual-Spectrum Image Fusion Methods**|Beining Xu et.al.|[2506.07779](http://arxiv.org/abs/2506.07779)|null|
 |**2025-06-04**|**WIFE-Fusion:Wavelet-aware Intra-inter Frequency Enhancement for Multi-model Image Fusion**|Tianpei Zhang et.al.|[2506.03555](http://arxiv.org/abs/2506.03555)|null|
@@ -2760,6 +2762,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-11**|**CINeMA: Conditional Implicit Neural Multi-Modal Atlas for a Spatio-Temporal Representation of the Perinatal Brain**|Maik Dannecker et.al.|[2506.09668](http://arxiv.org/abs/2506.09668)|null|
+|**2025-06-11**|**Geometry Reduced Order Modeling (GROM) with application to modeling of glymphatic function**|Andreas Solheim et.al.|[2506.09442](http://arxiv.org/abs/2506.09442)|null|
 |**2025-06-04**|**Personalized MR-Informed Diffusion Models for 3D PET Image Reconstruction**|George Webber et.al.|[2506.03804](http://arxiv.org/abs/2506.03804)|null|
 |**2025-06-03**|**Guiding Registration with Emergent Similarity from Pre-Trained Diffusion Models**|Nurislam Tursynbek et.al.|[2506.02419](http://arxiv.org/abs/2506.02419)|null|
 |**2025-06-02**|**Implicit Deformable Medical Image Registration with Learnable Kernels**|Stefano Fogarollo et.al.|[2506.02150](http://arxiv.org/abs/2506.02150)|null|
@@ -3059,7 +3063,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2025-06-10**|**Beyond Calibration: Physically Informed Learning for Raw-to-Raw Mapping**|Peter Grönquist et.al.|[2506.08650](http://arxiv.org/abs/2506.08650)|null|
+|**2025-06-11**|**Beyond Calibration: Physically Informed Learning for Raw-to-Raw Mapping**|Peter Grönquist et.al.|[2506.08650](http://arxiv.org/abs/2506.08650)|null|
 |**2025-06-09**|**PolyVivid: Vivid Multi-Subject Video Generation with Cross-Modal Interaction and Enhancement**|Teng Hu et.al.|[2506.07848](http://arxiv.org/abs/2506.07848)|null|
 |**2025-06-09**|**Design and Evaluation of Deep Learning-Based Dual-Spectrum Image Fusion Methods**|Beining Xu et.al.|[2506.07779](http://arxiv.org/abs/2506.07779)|null|
 |**2025-06-04**|**WIFE-Fusion:Wavelet-aware Intra-inter Frequency Enhancement for Multi-model Image Fusion**|Tianpei Zhang et.al.|[2506.03555](http://arxiv.org/abs/2506.03555)|null|
