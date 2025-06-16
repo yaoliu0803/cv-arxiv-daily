@@ -2586,7 +2586,7 @@ layout: default
 |**2025-04-25**|**Rethinking Few-Shot Image Fusion: Granular Ball Priors Enable General-Purpose Deep Fusion**|Minjie Deng et.al.|[2504.08937](http://arxiv.org/abs/2504.08937)|null|
 |**2025-04-11**|**DreamFuse: Adaptive Image Fusion with Diffusion Transformer**|Junjia Huang et.al.|[2504.08291](http://arxiv.org/abs/2504.08291)|null|
 |**2025-04-10**|**Multi-Modal Data Fusion for Moisture Content Prediction in Apple Drying**|Shichen Li et.al.|[2504.07465](http://arxiv.org/abs/2504.07465)|null|
-|**2025-04-14**|**Distilling Textual Priors from LLM to Efficient Image Fusion**|Ran Zhang et.al.|[2504.07029](http://arxiv.org/abs/2504.07029)|null|
+|**2025-04-14**|**Distilling Textual Priors from LLM to Efficient Image Fusion**|Ran Zhang et.al.|[2504.07029](http://arxiv.org/abs/2504.07029)|**[link](https://github.com/zirconium233/dtpf)**|
 |**2025-04-09**|**Robust Fusion Controller: Degradation-aware Image Fusion with Fine-grained Language Instructions**|Hao Zhang et.al.|[2504.05795](http://arxiv.org/abs/2504.05795)|null|
 |**2025-04-07**|**Balancing Task-invariant Interaction and Task-specific Adaptation for Unified Image Fusion**|Xingyu Hu et.al.|[2504.05164](http://arxiv.org/abs/2504.05164)|null|
 |**2025-03-27**|**Enhance Vision-based Tactile Sensors via Dynamic Illumination and Image Fusion**|Artemii Redkin et.al.|[2504.00017](http://arxiv.org/abs/2504.00017)|null|
@@ -3095,7 +3095,7 @@ layout: default
 |**2025-04-25**|**Rethinking Few-Shot Image Fusion: Granular Ball Priors Enable General-Purpose Deep Fusion**|Minjie Deng et.al.|[2504.08937](http://arxiv.org/abs/2504.08937)|null|
 |**2025-04-11**|**DreamFuse: Adaptive Image Fusion with Diffusion Transformer**|Junjia Huang et.al.|[2504.08291](http://arxiv.org/abs/2504.08291)|null|
 |**2025-04-10**|**Multi-Modal Data Fusion for Moisture Content Prediction in Apple Drying**|Shichen Li et.al.|[2504.07465](http://arxiv.org/abs/2504.07465)|null|
-|**2025-04-14**|**Distilling Textual Priors from LLM to Efficient Image Fusion**|Ran Zhang et.al.|[2504.07029](http://arxiv.org/abs/2504.07029)|null|
+|**2025-04-14**|**Distilling Textual Priors from LLM to Efficient Image Fusion**|Ran Zhang et.al.|[2504.07029](http://arxiv.org/abs/2504.07029)|**[link](https://github.com/zirconium233/dtpf)**|
 |**2025-04-09**|**Robust Fusion Controller: Degradation-aware Image Fusion with Fine-grained Language Instructions**|Hao Zhang et.al.|[2504.05795](http://arxiv.org/abs/2504.05795)|null|
 |**2025-04-07**|**Balancing Task-invariant Interaction and Task-specific Adaptation for Unified Image Fusion**|Xingyu Hu et.al.|[2504.05164](http://arxiv.org/abs/2504.05164)|null|
 |**2025-03-27**|**Enhance Vision-based Tactile Sensors via Dynamic Illumination and Image Fusion**|Artemii Redkin et.al.|[2504.00017](http://arxiv.org/abs/2504.00017)|null|
