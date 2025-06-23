@@ -1215,7 +1215,7 @@ layout: default
 |**2025-05-18**|**SEPT: Standard-Definition Map Enhanced Scene Perception and Topology Reasoning for Autonomous Driving**|Muleilan Pei et.al.|[2505.12246](http://arxiv.org/abs/2505.12246)|null|
 |**2025-05-17**|**Keypoints as Dynamic Centroids for Unified Human Pose and Segmentation**|Niaz Ahmad et.al.|[2505.12130](http://arxiv.org/abs/2505.12130)|null|
 |**2025-05-16**|**Deepfake Forensic Analysis: Source Dataset Attribution and Legal Implications of Synthetic Media Manipulation**|Massimiliano Cassia et.al.|[2505.11110](http://arxiv.org/abs/2505.11110)|null|
-|**2025-06-18**|**RDD: Robust Feature Detector and Descriptor using Deformable Transformer**|Gonglin Chen et.al.|[2505.08013](http://arxiv.org/abs/2505.08013)|null|
+|**2025-06-19**|**RDD: Robust Feature Detector and Descriptor using Deformable Transformer**|Gonglin Chen et.al.|[2505.08013](http://arxiv.org/abs/2505.08013)|null|
 |**2025-05-12**|**Enabling Privacy-Aware AI-Based Ergonomic Analysis**|Sander De Coninck et.al.|[2505.07306](http://arxiv.org/abs/2505.07306)|null|
 |**2025-05-09**|**My Emotion on your face: The use of Facial Keypoint Detection to preserve Emotions in Latent Space Editing**|Jingrui He et.al.|[2505.06436](http://arxiv.org/abs/2505.06436)|null|
 |**2025-05-05**|**Unsupervised training of keypoint-agnostic descriptors for flexible retinal image registration**|David Rivas-Villar et.al.|[2505.02787](http://arxiv.org/abs/2505.02787)|null|
@@ -1531,7 +1531,7 @@ layout: default
 |**2025-05-21**|**Anti-interrupted sampling repeater jamming via linear canonical Wigner distribution lightweight LFM detection**|Jia-Mian Li et.al.|[2506.06302](http://arxiv.org/abs/2506.06302)|null|
 |**2025-06-05**|**Vanishing arcs for isolated plane curve singularities**|Hanwool Bae et.al.|[2506.04917](http://arxiv.org/abs/2506.04917)|null|
 |**2025-06-05**|**Deep Learning Reforms Image Matching: A Survey and Outlook**|Shihua Zhang et.al.|[2506.04619](http://arxiv.org/abs/2506.04619)|null|
-|**2025-06-05**|**SR3D: Unleashing Single-view 3D Reconstruction for Transparent and Specular Object Grasping**|Mingxu Zhang et.al.|[2505.24305](http://arxiv.org/abs/2505.24305)|null|
+|**2025-06-20**|**SR3D: Unleashing Single-view 3D Reconstruction for Transparent and Specular Object Grasping**|Mingxu Zhang et.al.|[2505.24305](http://arxiv.org/abs/2505.24305)|null|
 |**2025-06-05**|**Universal Domain Adaptation for Semantic Segmentation**|Seun-An Choe et.al.|[2505.22458](http://arxiv.org/abs/2505.22458)|null|
 |**2025-05-23**|**To Glue or Not to Glue? Classical vs Learned Image Matching for Mobile Mapping Cameras to Textured Semantic 3D Building Models**|Simone Gaisbauer et.al.|[2505.17973](http://arxiv.org/abs/2505.17973)|**[link](https://github.com/simbauer/to_glue_or_not_to_glue)**|
 |**2025-05-16**|**Multi-view dense image matching with similarity learning and geometry priors**|Mohamed Ali Chebbi et.al.|[2505.11264](http://arxiv.org/abs/2505.11264)|null|
@@ -2560,6 +2560,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-20**|**TextBraTS: Text-Guided Volumetric Brain Tumor Segmentation with Innovative Dataset Development and Fusion Module Exploration**|Xiaoyu Shi et.al.|[2506.16784](http://arxiv.org/abs/2506.16784)|null|
+|**2025-06-20**|**Infrared and Visible Image Fusion Based on Implicit Neural Representations**|Shuchen Sun et.al.|[2506.16773](http://arxiv.org/abs/2506.16773)|null|
+|**2025-06-20**|**TeSG: Textual Semantic Guidance for Infrared and Visible Image Fusion**|Mingrui Zhu et.al.|[2506.16730](http://arxiv.org/abs/2506.16730)|null|
 |**2025-06-18**|**DM-FNet: Unified multimodal medical image fusion via diffusion process-trained encoder-decoder**|Dan He et.al.|[2506.15218](http://arxiv.org/abs/2506.15218)|**[link](https://github.com/hedan-11/dm-fnet)**|
 |**2025-06-17**|**GrFormer: A Novel Transformer on Grassmann Manifold for Infrared and Visible Image Fusion**|Huan Kang et.al.|[2506.14384](http://arxiv.org/abs/2506.14384)|null|
 |**2025-06-16**|**Robust Recursive Fusion of Multiresolution Multispectral Images with Location-Aware Neural Networks**|Haoqing Li et.al.|[2506.13733](http://arxiv.org/abs/2506.13733)|null|
@@ -2769,6 +2772,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-18**|**Tree-based adaptive finite element methods for deformable image registration**|Nicolás A. Barnafi et.al.|[2506.15876](http://arxiv.org/abs/2506.15876)|null|
 |**2025-06-18**|**Mono-Modalizing Extremely Heterogeneous Multi-Modal Medical Image Registration**|Kyobin Choo et.al.|[2506.15596](http://arxiv.org/abs/2506.15596)|null|
 |**2025-06-17**|**A Digital Twin Framework for Adaptive Treatment Planning in Radiotherapy**|Chih-Wei Chang et.al.|[2506.14701](http://arxiv.org/abs/2506.14701)|null|
 |**2025-06-12**|**Unsupervised Deformable Image Registration with Structural Nonparametric Smoothing**|Hang Zhang et.al.|[2506.10813](http://arxiv.org/abs/2506.10813)|null|
@@ -3074,6 +3078,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-20**|**TextBraTS: Text-Guided Volumetric Brain Tumor Segmentation with Innovative Dataset Development and Fusion Module Exploration**|Xiaoyu Shi et.al.|[2506.16784](http://arxiv.org/abs/2506.16784)|null|
+|**2025-06-20**|**Infrared and Visible Image Fusion Based on Implicit Neural Representations**|Shuchen Sun et.al.|[2506.16773](http://arxiv.org/abs/2506.16773)|null|
+|**2025-06-20**|**TeSG: Textual Semantic Guidance for Infrared and Visible Image Fusion**|Mingrui Zhu et.al.|[2506.16730](http://arxiv.org/abs/2506.16730)|null|
 |**2025-06-18**|**DM-FNet: Unified multimodal medical image fusion via diffusion process-trained encoder-decoder**|Dan He et.al.|[2506.15218](http://arxiv.org/abs/2506.15218)|**[link](https://github.com/hedan-11/dm-fnet)**|
 |**2025-06-17**|**GrFormer: A Novel Transformer on Grassmann Manifold for Infrared and Visible Image Fusion**|Huan Kang et.al.|[2506.14384](http://arxiv.org/abs/2506.14384)|null|
 |**2025-06-16**|**Robust Recursive Fusion of Multiresolution Multispectral Images with Location-Aware Neural Networks**|Haoqing Li et.al.|[2506.13733](http://arxiv.org/abs/2506.13733)|null|
