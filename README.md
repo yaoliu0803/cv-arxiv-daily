@@ -2799,6 +2799,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-24**|**Deformable Medical Image Registration with Effective Anatomical Structure Representation and Divide-and-Conquer Network**|Xinke Ma et.al.|[2506.19222](http://arxiv.org/abs/2506.19222)|null|
+|**2025-06-23**|**A Deep Learning Based Method for Fast Registration of Cardiac Magnetic Resonance Images**|Benjamin Graham et.al.|[2506.19167](http://arxiv.org/abs/2506.19167)|null|
 |**2025-06-18**|**Tree-based adaptive finite element methods for deformable image registration**|Nicolás A. Barnafi et.al.|[2506.15876](http://arxiv.org/abs/2506.15876)|null|
 |**2025-06-18**|**Mono-Modalizing Extremely Heterogeneous Multi-Modal Medical Image Registration**|Kyobin Choo et.al.|[2506.15596](http://arxiv.org/abs/2506.15596)|null|
 |**2025-06-17**|**A Digital Twin Framework for Adaptive Treatment Planning in Radiotherapy**|Chih-Wei Chang et.al.|[2506.14701](http://arxiv.org/abs/2506.14701)|null|
