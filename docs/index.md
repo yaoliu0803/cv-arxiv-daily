@@ -1525,6 +1525,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-30**|**Efficient and Accurate Image Provenance Analysis: A Scalable Pipeline for Large-scale Images**|Jiewei Lai et.al.|[2506.23707](http://arxiv.org/abs/2506.23707)|null|
+|**2025-06-29**|**Dynamic Contrastive Learning for Hierarchical Retrieval: A Case Study of Distance-Aware Cross-View Geo-Localization**|Suofei Zhang et.al.|[2506.23077](http://arxiv.org/abs/2506.23077)|null|
 |**2025-06-27**|**MatChA: Cross-Algorithm Matching with Feature Augmentation**|Paula Carbó Cubero et.al.|[2506.22336](http://arxiv.org/abs/2506.22336)|null|
 |**2025-06-27**|**Q-Frame: Query-aware Frame Selection and Multi-Resolution Adaptation for Video-LLMs**|Shaojie Zhang et.al.|[2506.22139](http://arxiv.org/abs/2506.22139)|null|
 |**2025-06-27**|**ZeroReg3D: A Zero-shot Registration Pipeline for 3D Consecutive Histopathology Image Reconstruction**|Juming Xiong et.al.|[2506.21923](http://arxiv.org/abs/2506.21923)|null|
@@ -2566,6 +2568,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-28**|**UniFuse: A Unified All-in-One Framework for Multi-Modal Medical Image Fusion Under Diverse Degradations and Misalignments**|Dayong Su et.al.|[2506.22736](http://arxiv.org/abs/2506.22736)|null|
 |**2025-06-23**|**Attention-Based Ensemble Learning for Crop Classification Using Landsat 8-9 Fusion**|Zeeshan Ramzan et.al.|[2506.18321](http://arxiv.org/abs/2506.18321)|null|
 |**2025-06-23**|**TextBraTS: Text-Guided Volumetric Brain Tumor Segmentation with Innovative Dataset Development and Fusion Module Exploration**|Xiaoyu Shi et.al.|[2506.16784](http://arxiv.org/abs/2506.16784)|**[link](https://github.com/jupitern52/textbrats)**|
 |**2025-06-20**|**Infrared and Visible Image Fusion Based on Implicit Neural Representations**|Shuchen Sun et.al.|[2506.16773](http://arxiv.org/abs/2506.16773)|null|
@@ -3091,6 +3094,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-28**|**UniFuse: A Unified All-in-One Framework for Multi-Modal Medical Image Fusion Under Diverse Degradations and Misalignments**|Dayong Su et.al.|[2506.22736](http://arxiv.org/abs/2506.22736)|null|
 |**2025-06-23**|**Attention-Based Ensemble Learning for Crop Classification Using Landsat 8-9 Fusion**|Zeeshan Ramzan et.al.|[2506.18321](http://arxiv.org/abs/2506.18321)|null|
 |**2025-06-23**|**TextBraTS: Text-Guided Volumetric Brain Tumor Segmentation with Innovative Dataset Development and Fusion Module Exploration**|Xiaoyu Shi et.al.|[2506.16784](http://arxiv.org/abs/2506.16784)|**[link](https://github.com/jupitern52/textbrats)**|
 |**2025-06-20**|**Infrared and Visible Image Fusion Based on Implicit Neural Representations**|Shuchen Sun et.al.|[2506.16773](http://arxiv.org/abs/2506.16773)|null|
