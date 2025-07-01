@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.06.30
+## Updated on 2025.07.01
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -2786,7 +2786,7 @@ layout: default
 |**2025-06-24**|**Deformable Medical Image Registration with Effective Anatomical Structure Representation and Divide-and-Conquer Network**|Xinke Ma et.al.|[2506.19222](http://arxiv.org/abs/2506.19222)|null|
 |**2025-06-23**|**A Deep Learning Based Method for Fast Registration of Cardiac Magnetic Resonance Images**|Benjamin Graham et.al.|[2506.19167](http://arxiv.org/abs/2506.19167)|null|
 |**2025-06-18**|**Tree-based adaptive finite element methods for deformable image registration**|Nicolás A. Barnafi et.al.|[2506.15876](http://arxiv.org/abs/2506.15876)|null|
-|**2025-06-18**|**Mono-Modalizing Extremely Heterogeneous Multi-Modal Medical Image Registration**|Kyobin Choo et.al.|[2506.15596](http://arxiv.org/abs/2506.15596)|null|
+|**2025-06-30**|**Mono-Modalizing Extremely Heterogeneous Multi-Modal Medical Image Registration**|Kyobin Choo et.al.|[2506.15596](http://arxiv.org/abs/2506.15596)|null|
 |**2025-06-17**|**A Digital Twin Framework for Adaptive Treatment Planning in Radiotherapy**|Chih-Wei Chang et.al.|[2506.14701](http://arxiv.org/abs/2506.14701)|null|
 |**2025-06-12**|**Unsupervised Deformable Image Registration with Structural Nonparametric Smoothing**|Hang Zhang et.al.|[2506.10813](http://arxiv.org/abs/2506.10813)|null|
 |**2025-06-12**|**RealKeyMorph: Keypoints in Real-world Coordinates for Resolution-agnostic Image Registration**|Mina C. Moghadam et.al.|[2506.10344](http://arxiv.org/abs/2506.10344)|null|
