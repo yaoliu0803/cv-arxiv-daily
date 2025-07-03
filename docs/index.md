@@ -1525,6 +1525,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-02**|**What does really matter in image goal navigation?**|Gianluca Monaci et.al.|[2507.01667](http://arxiv.org/abs/2507.01667)|null|
 |**2025-06-30**|**Efficient and Accurate Image Provenance Analysis: A Scalable Pipeline for Large-scale Images**|Jiewei Lai et.al.|[2506.23707](http://arxiv.org/abs/2506.23707)|null|
 |**2025-06-29**|**Dynamic Contrastive Learning for Hierarchical Retrieval: A Case Study of Distance-Aware Cross-View Geo-Localization**|Suofei Zhang et.al.|[2506.23077](http://arxiv.org/abs/2506.23077)|null|
 |**2025-06-27**|**MatChA: Cross-Algorithm Matching with Feature Augmentation**|Paula Carbó Cubero et.al.|[2506.22336](http://arxiv.org/abs/2506.22336)|null|
@@ -2568,6 +2569,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-01**|**UAVD-Mamba: Deformable Token Fusion Vision Mamba for Multimodal UAV Detection**|Wei Li et.al.|[2507.00849](http://arxiv.org/abs/2507.00849)|null|
 |**2025-06-28**|**UniFuse: A Unified All-in-One Framework for Multi-Modal Medical Image Fusion Under Diverse Degradations and Misalignments**|Dayong Su et.al.|[2506.22736](http://arxiv.org/abs/2506.22736)|null|
 |**2025-06-23**|**Attention-Based Ensemble Learning for Crop Classification Using Landsat 8-9 Fusion**|Zeeshan Ramzan et.al.|[2506.18321](http://arxiv.org/abs/2506.18321)|null|
 |**2025-06-23**|**TextBraTS: Text-Guided Volumetric Brain Tumor Segmentation with Innovative Dataset Development and Fusion Module Exploration**|Xiaoyu Shi et.al.|[2506.16784](http://arxiv.org/abs/2506.16784)|**[link](https://github.com/jupitern52/textbrats)**|
@@ -2782,6 +2784,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-02**|**Modality Agnostic, patient-specific digital twins modeling temporally varying digestive motion**|Jorge Tapias Gomez et.al.|[2507.01909](http://arxiv.org/abs/2507.01909)|null|
+|**2025-07-01**|**On the Intensity-based Inversion Method for Quantitative Quasi-Static Elastography**|Ekaterina Sherina et.al.|[2507.01207](http://arxiv.org/abs/2507.01207)|null|
+|**2025-07-01**|**Bridging Classical and Learning-based Iterative Registration through Deep Equilibrium Models**|Yi Zhang et.al.|[2507.00582](http://arxiv.org/abs/2507.00582)|null|
 |**2025-06-27**|**Cardiovascular disease classification using radiomics and geometric features from cardiac CT**|Ajay Mittal et.al.|[2506.22226](http://arxiv.org/abs/2506.22226)|null|
 |**2025-06-27**|**Robust and Accurate Multi-view 2D/3D Image Registration with Differentiable X-ray Rendering and Dual Cross-view Constraints**|Yuxin Cui et.al.|[2506.22191](http://arxiv.org/abs/2506.22191)|null|
 |**2025-06-25**|**Real-Time 3D Guidewire Reconstruction from Intraoperative DSA Images for Robot-Assisted Endovascular Interventions**|Tianliang Yao et.al.|[2506.21631](http://arxiv.org/abs/2506.21631)|null|
@@ -3094,6 +3099,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-01**|**UAVD-Mamba: Deformable Token Fusion Vision Mamba for Multimodal UAV Detection**|Wei Li et.al.|[2507.00849](http://arxiv.org/abs/2507.00849)|null|
 |**2025-06-28**|**UniFuse: A Unified All-in-One Framework for Multi-Modal Medical Image Fusion Under Diverse Degradations and Misalignments**|Dayong Su et.al.|[2506.22736](http://arxiv.org/abs/2506.22736)|null|
 |**2025-06-23**|**Attention-Based Ensemble Learning for Crop Classification Using Landsat 8-9 Fusion**|Zeeshan Ramzan et.al.|[2506.18321](http://arxiv.org/abs/2506.18321)|null|
 |**2025-06-23**|**TextBraTS: Text-Guided Volumetric Brain Tumor Segmentation with Innovative Dataset Development and Fusion Module Exploration**|Xiaoyu Shi et.al.|[2506.16784](http://arxiv.org/abs/2506.16784)|**[link](https://github.com/jupitern52/textbrats)**|
