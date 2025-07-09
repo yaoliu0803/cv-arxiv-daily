@@ -2788,6 +2788,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-08**|**From Motion to Meaning: Biomechanics-Informed Neural Network for Explainable Cardiovascular Disease Identification**|Comte Valentin et.al.|[2507.05783](http://arxiv.org/abs/2507.05783)|null|
 |**2025-07-06**|**Grid-Reg: Grid-Based SAR and Optical Image Registration Across Platforms**|Xiaochen Wei et.al.|[2507.04233](http://arxiv.org/abs/2507.04233)|null|
 |**2025-06-29**|**Multimodal image registration for effective thermographic fever screening**|C. Y. N. Dwith et.al.|[2507.02955](http://arxiv.org/abs/2507.02955)|null|
 |**2025-07-03**|**Modality-agnostic, patient-specific digital twins modeling temporally varying digestive motion**|Jorge Tapias Gomez et.al.|[2507.01909](http://arxiv.org/abs/2507.01909)|null|
