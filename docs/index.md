@@ -2794,6 +2794,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-14**|**Well-posedness of an optical flow based optimal control formulation for image registration**|Johannes Haubner et.al.|[2507.10188](http://arxiv.org/abs/2507.10188)|null|
 |**2025-07-09**|**Segmentation Regularized Training for Multi-Domain Deep Learning Registration applied to MR-Guided Prostate Cancer Radiotherapy**|Sudharsan Madhavan et.al.|[2507.06966](http://arxiv.org/abs/2507.06966)|null|
 |**2025-07-08**|**From Motion to Meaning: Biomechanics-Informed Neural Network for Explainable Cardiovascular Disease Identification**|Comte Valentin et.al.|[2507.05783](http://arxiv.org/abs/2507.05783)|null|
 |**2025-07-06**|**Grid-Reg: Grid-Based SAR and Optical Image Registration Across Platforms**|Xiaochen Wei et.al.|[2507.04233](http://arxiv.org/abs/2507.04233)|null|
