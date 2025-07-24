@@ -1210,6 +1210,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-23**|**CartoonAlive: Towards Expressive Live2D Modeling from Single Portraits**|Chao He et.al.|[2507.17327](http://arxiv.org/abs/2507.17327)|null|
+|**2025-07-21**|**Toward a Real-Time Framework for Accurate Monocular 3D Human Pose Estimation with Geometric Priors**|Mohamed Adjel et.al.|[2507.16850](http://arxiv.org/abs/2507.16850)|null|
 |**2025-07-17**|**DINO-VO: A Feature-based Visual Odometry Leveraging a Visual Foundation Model**|Maulana Bisyir Azhari et.al.|[2507.13145](http://arxiv.org/abs/2507.13145)|null|
 |**2025-07-15**|**KptLLM++: Towards Generic Keypoint Comprehension with Large Language Model**|Jie Yang et.al.|[2507.11102](http://arxiv.org/abs/2507.11102)|null|
 |**2025-07-15**|**GKNet: Graph-based Keypoints Network for Monocular Pose Estimation of Non-cooperative Spacecraft**|Weizhao Ma et.al.|[2507.11077](http://arxiv.org/abs/2507.11077)|null|
@@ -2800,6 +2802,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-23**|**Mapping ground-based coronagraphic images to Helioprojective-Cartesian coordinate system by image registration**|Feiyang Sha et.al.|[2507.17670](http://arxiv.org/abs/2507.17670)|null|
 |**2025-07-21**|**Compress-Align-Detect: onboard change detection from unregistered images**|Gabriele Inzerillo et.al.|[2507.15578](http://arxiv.org/abs/2507.15578)|null|
 |**2025-07-17**|**fastWDM3D: Fast and Accurate 3D Healthy Tissue Inpainting**|Alicia Durrer et.al.|[2507.13146](http://arxiv.org/abs/2507.13146)|null|
 |**2025-07-17**|**cIDIR: Conditioned Implicit Neural Representation for Regularized Deformable Image Registration**|Sidaty El Hadramy et.al.|[2507.12953](http://arxiv.org/abs/2507.12953)|null|
